@@ -42,8 +42,4 @@
 
 ---
 
-## 🛠️ Installation & Usage  
-1. **Clone this repository:**  
-   ```bash
-   git clone https://github.com/yourusername/cdac-ccee-quiz.git
-   cd cdac-ccee-quiz
+
