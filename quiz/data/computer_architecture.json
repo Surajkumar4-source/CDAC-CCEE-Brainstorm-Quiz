@@ -1,0 +1,4002 @@
+[
+    {
+        "question": "What is the primary focus of computer organization?",
+        "options": [
+            "Software development",
+            "Logical design of circuits",
+            "Internal hardware components and their interactions",
+            "Networking protocols"
+        ],
+        "answer": "Internal hardware components and their interactions"
+    },
+    {
+        "question": "Which of the following best describes computer architecture?",
+        "options": [
+            "The implementation of programming languages",
+            "The conceptual structure and functional behavior of a computer system",
+            "Only the physical design of a computer",
+            "Networking of multiple computers"
+        ],
+        "answer": "The conceptual structure and functional behavior of a computer system"
+    },
+    {
+        "question": "Who is considered the father of modern computers?",
+        "options": [
+            "Alan Turing",
+            "Charles Babbage",
+            "John von Neumann",
+            "Claude Shannon"
+        ],
+        "answer": "Charles Babbage"
+    },
+    {
+        "question": "Which of the following computer architectures follows the stored-program concept?",
+        "options": [
+            "Von Neumann Architecture",
+            "Harvard Architecture",
+            "RISC Architecture",
+            "CISC Architecture"
+        ],
+        "answer": "Von Neumann Architecture"
+    },
+    {
+        "question": "Which computer architecture separates data and instruction memory?",
+        "options": [
+            "Von Neumann Architecture",
+            "Harvard Architecture",
+            "RISC Architecture",
+            "CISC Architecture"
+        ],
+        "answer": "Harvard Architecture"
+    },
+    {
+        "question": "Which is the main performance metric used to evaluate computer performance?",
+        "options": [
+            "Clock speed",
+            "MIPS (Millions of Instructions Per Second)",
+            "FLOPS (Floating Point Operations Per Second)",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following is NOT a component of a computer system?",
+        "options": [
+            "ALU",
+            "Memory",
+            "Operating System",
+            "Control Unit"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "question": "What is the primary function of the ALU in a computer?",
+        "options": [
+            "To perform arithmetic and logic operations",
+            "To store data permanently",
+            "To control input and output operations",
+            "To manage system software"
+        ],
+        "answer": "To perform arithmetic and logic operations"
+    },
+    {
+        "question": "Which component of a computer system is responsible for fetching and executing instructions?",
+        "options": [
+            "RAM",
+            "Control Unit",
+            "Hard Disk",
+            "Graphics Card"
+        ],
+        "answer": "Control Unit"
+    },
+    {
+        "question": "What does the term 'bus interconnection' refer to in computer architecture?",
+        "options": [
+            "The physical wiring of a computer",
+            "A communication pathway for data transfer between components",
+            "A high-speed cache memory",
+            "A type of CPU register"
+        ],
+        "answer": "A communication pathway for data transfer between components"
+    },
+    {
+        "question": "Which bus carries control signals within a computer?",
+        "options": [
+            "Data bus",
+            "Address bus",
+            "Control bus",
+            "Power bus"
+        ],
+        "answer": "Control bus"
+    },
+    {
+        "question": "What does 'x86 architecture' refer to?",
+        "options": [
+            "A type of RISC architecture",
+            "A family of instruction set architectures developed by Intel",
+            "An early mainframe architecture",
+            "A type of Harvard architecture"
+        ],
+        "answer": "A family of instruction set architectures developed by Intel"
+    },
+    {
+        "question": "Which of the following architectures is commonly used in embedded systems?",
+        "options": [
+            "x86",
+            "ARM",
+            "MIPS",
+            "PowerPC"
+        ],
+        "answer": "ARM"
+    },
+    {
+        "question": "What is the role of performance assessment in computer architecture?",
+        "options": [
+            "To measure the efficiency and speed of a computer system",
+            "To determine the best operating system",
+            "To analyze software security",
+            "To classify programming paradigms"
+        ],
+        "answer": "To measure the efficiency and speed of a computer system"
+    },
+    {
+        "question": "Which factor affects CPU performance the most?",
+        "options": [
+            "Clock speed",
+            "Cache size",
+            "Number of cores",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which bus is responsible for transferring memory addresses?",
+        "options": [
+            "Data bus",
+            "Address bus",
+            "Control bus",
+            "I/O bus"
+        ],
+        "answer": "Address bus"
+    },
+    {
+        "question": "Which computer function is responsible for executing instructions?",
+        "options": [
+            "Input",
+            "Processing",
+            "Storage",
+            "Output"
+        ],
+        "answer": "Processing"
+    },
+    {
+        "question": "What is the primary goal of computer architecture?",
+        "options": [
+            "To optimize software development",
+            "To maximize system performance and efficiency",
+            "To reduce the need for operating systems",
+            "To increase the cost of computing devices"
+        ],
+        "answer": "To maximize system performance and efficiency"
+    },
+    {
+        "question": "Which of the following is a key feature of RISC architecture?",
+        "options": [
+            "Complex instruction set",
+            "Fewer and simpler instructions",
+            "Heavy use of microcode",
+            "Multiple addressing modes"
+        ],
+        "answer": "Fewer and simpler instructions"
+    },
+    {
+        "question": "Which of the following best defines computer organization?",
+        "options": [
+            "The operational structure of a computer system",
+            "The physical design of circuit components",
+            "The programming model of a CPU",
+            "The logical operation of a compiler"
+        ],
+        "answer": "The operational structure of a computer system"
+    },
+    {
+        "question": "What is the main goal of computer architecture?",
+        "options": [
+            "Enhancing system security",
+            "Improving computational performance",
+            "Reducing power consumption only",
+            "Eliminating the need for operating systems"
+        ],
+        "answer": "Improving computational performance"
+    },
+    {
+        "question": "Which component is responsible for executing instructions in a computer?",
+        "options": [
+            "ALU",
+            "Memory",
+            "I/O controller",
+            "Hard disk"
+        ],
+        "answer": "ALU"
+    },
+    {
+        "question": "What is the primary function of the control unit in a CPU?",
+        "options": [
+            "Perform arithmetic operations",
+            "Control the execution of instructions",
+            "Store data permanently",
+            "Render graphical content"
+        ],
+        "answer": "Control the execution of instructions"
+    },
+    {
+        "question": "Which type of memory is directly accessed by the CPU for immediate processing?",
+        "options": [
+            "Hard disk",
+            "RAM",
+            "Cache memory",
+            "Optical disk"
+        ],
+        "answer": "Cache memory"
+    },
+    {
+        "question": "What does the term 'bus interconnection' refer to?",
+        "options": [
+            "The link between a CPU and an external GPU",
+            "The network topology in distributed systems",
+            "The communication pathways between components within a computer",
+            "The internet connection of a cloud computing service"
+        ],
+        "answer": "The communication pathways between components within a computer"
+    },
+    {
+        "question": "Which part of a computer is mainly responsible for arithmetic and logical operations?",
+        "options": [
+            "Control Unit",
+            "ALU",
+            "Memory Unit",
+            "Cache"
+        ],
+        "answer": "ALU"
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of RISC architecture?",
+        "options": [
+            "Large instruction set",
+            "Simple instruction execution",
+            "Fixed-length instructions",
+            "Load/store architecture"
+        ],
+        "answer": "Large instruction set"
+    },
+    {
+        "question": "Which architecture is commonly used in mobile and embedded systems?",
+        "options": [
+            "Intel x86",
+            "ARM",
+            "MIPS",
+            "PowerPC"
+        ],
+        "answer": "ARM"
+    },
+    {
+        "question": "What is the primary purpose of registers in a CPU?",
+        "options": [
+            "Store large amounts of data",
+            "Hold intermediate values during processing",
+            "Improve power efficiency",
+            "Manage system logs"
+        ],
+        "answer": "Hold intermediate values during processing"
+    },
+    {
+        "question": "Which component is responsible for fetching and decoding instructions?",
+        "options": [
+            "Memory Unit",
+            "Control Unit",
+            "ALU",
+            "Cache Memory"
+        ],
+        "answer": "Control Unit"
+    },
+    {
+        "question": "What is a major advantage of pipelining in computer architecture?",
+        "options": [
+            "Reduces instruction execution time",
+            "Reduces power consumption",
+            "Eliminates memory usage",
+            "Minimizes the need for a control unit"
+        ],
+        "answer": "Reduces instruction execution time"
+    },
+    {
+        "question": "Which type of memory is volatile?",
+        "options": [
+            "ROM",
+            "SSD",
+            "RAM",
+            "Hard disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "question": "What does 'CISC' stand for in CPU architecture?",
+        "options": [
+            "Complex Instruction Set Computer",
+            "Computational Integrated System Code",
+            "Computer Integrated System Control",
+            "Code Instruction System Compiler"
+        ],
+        "answer": "Complex Instruction Set Computer"
+    },
+    {
+        "question": "Which of the following best describes virtual memory?",
+        "options": [
+            "A portion of the hard disk used as an extension of RAM",
+            "A physical storage device",
+            "An extra CPU cache",
+            "An expansion of graphics memory"
+        ],
+        "answer": "A portion of the hard disk used as an extension of RAM"
+    },
+    {
+        "question": "Which interconnection structure provides direct access to shared memory?",
+        "options": [
+            "Bus interconnection",
+            "Point-to-point interconnection",
+            "Mesh topology",
+            "Token ring"
+        ],
+        "answer": "Bus interconnection"
+    },
+    {
+        "question": "Which computing architecture is designed for high-performance applications?",
+        "options": [
+            "Von Neumann Architecture",
+            "Harvard Architecture",
+            "Cloud Computing",
+            "Parallel Computing"
+        ],
+        "answer": "Parallel Computing"
+    },
+    {
+        "question": "What is the main function of the system bus in a computer?",
+        "options": [
+            "To transfer data between the CPU, memory, and peripherals",
+            "To increase internet speed",
+            "To provide power to the motherboard",
+            "To manage operating system processes"
+        ],
+        "answer": "To transfer data between the CPU, memory, and peripherals"
+    },
+    {
+        "question": "What is the role of a cache memory in a computer system?",
+        "options": [
+            "To store frequently accessed data for faster retrieval",
+            "To serve as a backup storage device",
+            "To execute program instructions",
+            "To manage power consumption"
+        ],
+        "answer": "To store frequently accessed data for faster retrieval"
+    },
+    {
+        "question": "Which processor type is best suited for embedded systems?",
+        "options": [
+            "ARM",
+            "Intel i9",
+            "Xeon",
+            "Threadripper"
+        ],
+        "answer": "ARM"
+    },
+    {
+        "question": "Which of the following is an example of a secondary storage device?",
+        "options": [
+            "RAM",
+            "Cache",
+            "Hard Drive",
+            "Register"
+        ],
+        "answer": "Hard Drive"
+    },
+    {
+        "question": "Which component of a computer executes arithmetic and logical operations?",
+        "options": [
+            "Control Unit",
+            "Memory Unit",
+            "ALU",
+            "Cache"
+        ],
+        "answer": "ALU"
+    },
+    {
+        "question": "Which part of the CPU is responsible for directing the flow of data?",
+        "options": [
+            "ALU",
+            "Control Unit",
+            "Cache",
+            "Register"
+        ],
+        "answer": "Control Unit"
+    },
+    {
+        "question": "Which architecture is based on the concept of a stored-program computer?",
+        "options": [
+            "Harvard Architecture",
+            "Von Neumann Architecture",
+            "Quantum Computing",
+            "Cloud Computing"
+        ],
+        "answer": "Von Neumann Architecture"
+    },
+    {
+        "question": "Which component acts as an interface between hardware and software?",
+        "options": [
+            "CPU",
+            "Operating System",
+            "Motherboard",
+            "RAM"
+        ],
+        "answer": "Operating System"
+    },
+    {
+        "question": "Which of the following memory types is the fastest?",
+        "options": [
+            "RAM",
+            "Cache",
+            "SSD",
+            "Hard Disk"
+        ],
+        "answer": "Cache"
+    },
+    {
+        "question": "What is the purpose of a data bus?",
+        "options": [
+            "To transfer control signals",
+            "To transfer memory addresses",
+            "To transfer data between components",
+            "To manage the clock speed"
+        ],
+        "answer": "To transfer data between components"
+    },
+    {
+        "question": "Which of the following describes the function of a motherboard?",
+        "options": [
+            "Manages power distribution",
+            "Connects all computer components",
+            "Stores temporary data",
+            "Executes software programs"
+        ],
+        "answer": "Connects all computer components"
+    },
+    {
+        "question": "Which memory type is non-volatile?",
+        "options": [
+            "RAM",
+            "Cache",
+            "ROM",
+            "Registers"
+        ],
+        "answer": "ROM"
+    },
+    {
+        "question": "What is the primary function of a system clock in a CPU?",
+        "options": [
+            "To store data permanently",
+            "To synchronize CPU operations",
+            "To manage power supply",
+            "To execute high-speed calculations"
+        ],
+        "answer": "To synchronize CPU operations"
+    },
+    {
+        "question": "What is a characteristic of embedded systems?",
+        "options": [
+            "They use general-purpose operating systems",
+            "They are designed for a specific task",
+            "They have unlimited processing power",
+            "They are always connected to the internet"
+        ],
+        "answer": "They are designed for a specific task"
+    },
+    {
+        "question": "Which of the following is NOT a function of an operating system?",
+        "options": [
+            "Memory Management",
+            "Process Scheduling",
+            "Executing arithmetic calculations",
+            "File Management"
+        ],
+        "answer": "Executing arithmetic calculations"
+    },
+    {
+        "question": "Which register holds the memory address of the next instruction to be executed?",
+        "options": [
+            "Accumulator",
+            "Instruction Register",
+            "Program Counter",
+            "Memory Address Register"
+        ],
+        "answer": "Program Counter"
+    },
+    {
+        "question": "Which of the following is a major disadvantage of Von Neumann architecture?",
+        "options": [
+            "Complex hardware design",
+            "Low instruction execution speed",
+            "Memory bottleneck",
+            "Limited instruction set"
+        ],
+        "answer": "Memory bottleneck"
+    },
+    {
+        "question": "Which type of memory is directly connected to the CPU?",
+        "options": [
+            "Hard disk",
+            "Cache",
+            "SSD",
+            "USB Drive"
+        ],
+        "answer": "Cache"
+    },
+    {
+        "question": "What is the primary role of an I/O controller?",
+        "options": [
+            "Manage power supply",
+            "Control data flow between CPU and peripherals",
+            "Perform arithmetic operations",
+            "Store boot instructions"
+        ],
+        "answer": "Control data flow between CPU and peripherals"
+    },
+    {
+        "question": "Which of the following describes a 'bus' in a computer?",
+        "options": [
+            "A pathway for data transmission",
+            "A power supply component",
+            "A cooling system",
+            "A memory management unit"
+        ],
+        "answer": "A pathway for data transmission"
+    },
+    {
+        "question": "What is the primary advantage of a multi-core processor?",
+        "options": [
+            "Higher clock speed",
+            "Lower power consumption",
+            "Parallel processing capability",
+            "Increased cache memory"
+        ],
+        "answer": "Parallel processing capability"
+    },
+    {
+        "question": "Which component is responsible for generating clock signals in a computer?",
+        "options": [
+            "CPU",
+            "Control Unit",
+            "Clock Generator",
+            "ALU"
+        ],
+        "answer": "Clock Generator"
+    },
+    {
+        "question": "Which architecture is commonly used in IoT devices?",
+        "options": [
+            "x86",
+            "RISC",
+            "ARM",
+            "CISC"
+        ],
+        "answer": "ARM"
+    },
+    {
+        "question": "Which of the following best defines 'throughput' in computer architecture?",
+        "options": [
+            "The number of instructions executed per second",
+            "The speed of data transfer between CPU and RAM",
+            "The rate at which data is stored on disk",
+            "The efficiency of an operating system"
+        ],
+        "answer": "The number of instructions executed per second"
+    },
+    {
+        "question": "What is the purpose of a buffer in a computer system?",
+        "options": [
+            "To store temporary data before processing",
+            "To execute arithmetic operations",
+            "To permanently store files",
+            "To control power distribution"
+        ],
+        "answer": "To store temporary data before processing"
+    },
+    {
+        "question": "What is a characteristic of a Harvard architecture?",
+        "options": [
+            "Separate memory for data and instructions",
+            "Shared memory for data and instructions",
+            "Single execution unit",
+            "No use of pipelining"
+        ],
+        "answer": "Separate memory for data and instructions"
+    },
+    {
+        "question": "Which bus is responsible for carrying control signals?",
+        "options": [
+            "Data Bus",
+            "Address Bus",
+            "Control Bus",
+            "Memory Bus"
+        ],
+        "answer": "Control Bus"
+    },
+    {
+        "question": "Which of the following is an example of volatile memory?",
+        "options": [
+            "SSD",
+            "RAM",
+            "ROM",
+            "Flash Drive"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "question": "What is the main purpose of the bootloader in a computer?",
+        "options": [
+            "Load the operating system into memory",
+            "Execute user applications",
+            "Manage input and output operations",
+            "Monitor CPU temperature"
+        ],
+        "answer": "Load the operating system into memory"
+    },
+    {
+        "question": "Which technology allows CPUs to execute multiple instructions simultaneously?",
+        "options": [
+            "Pipelining",
+            "Virtual Memory",
+            "Address Bus",
+            "Polling"
+        ],
+        "answer": "Pipelining"
+    },
+    {
+        "question": "Which CPU architecture is designed for high performance computing?",
+        "options": [
+            "x86",
+            "ARM",
+            "RISC-V",
+            "SPARC"
+        ],
+        "answer": "SPARC"
+    },
+    {
+        "question": "Which of the following is an example of an input device?",
+        "options": [
+            "Monitor",
+            "Printer",
+            "Mouse",
+            "Speaker"
+        ],
+        "answer": "Mouse"
+    },
+    {
+        "question": "Which device is used to convert physical documents into digital format?",
+        "options": [
+            "Printer",
+            "Scanner",
+            "Monitor",
+            "Speaker"
+        ],
+        "answer": "Scanner"
+    },
+    {
+        "question": "Which of the following is an example of an output device?",
+        "options": [
+            "Keyboard",
+            "Mouse",
+            "Monitor",
+            "Microphone"
+        ],
+        "answer": "Monitor"
+    },
+    {
+        "question": "Which input device is used for biometric authentication?",
+        "options": [
+            "Scanner",
+            "Touchpad",
+            "Fingerprint Reader",
+            "Joystick"
+        ],
+        "answer": "Fingerprint Reader"
+    },
+    {
+        "question": "Which of the following is NOT an input device?",
+        "options": [
+            "Joystick",
+            "Keyboard",
+            "Microphone",
+            "Projector"
+        ],
+        "answer": "Projector"
+    },
+    {
+        "question": "Which device is used to control the movement of a cursor on a screen?",
+        "options": [
+            "Monitor",
+            "Keyboard",
+            "Mouse",
+            "Speaker"
+        ],
+        "answer": "Mouse"
+    },
+    {
+        "question": "Which of the following is a pointing device?",
+        "options": [
+            "Monitor",
+            "Mouse",
+            "Printer",
+            "Speaker"
+        ],
+        "answer": "Mouse"
+    },
+    {
+        "question": "Which input device is primarily used for gaming?",
+        "options": [
+            "Mouse",
+            "Joystick",
+            "Keyboard",
+            "Monitor"
+        ],
+        "answer": "Joystick"
+    },
+    {
+        "question": "Which device is used to input handwritten text or drawings into a computer?",
+        "options": [
+            "Joystick",
+            "Graphics Tablet",
+            "Speaker",
+            "Projector"
+        ],
+        "answer": "Graphics Tablet"
+    },
+    {
+        "question": "Which input device is used for voice recognition?",
+        "options": [
+            "Microphone",
+            "Mouse",
+            "Keyboard",
+            "Scanner"
+        ],
+        "answer": "Microphone"
+    },
+    {
+        "question": "What type of output device is used for displaying visual content?",
+        "options": [
+            "Speaker",
+            "Monitor",
+            "Keyboard",
+            "Mouse"
+        ],
+        "answer": "Monitor"
+    },
+    {
+        "question": "Which of the following is NOT an output device?",
+        "options": [
+            "Printer",
+            "Monitor",
+            "Keyboard",
+            "Speaker"
+        ],
+        "answer": "Keyboard"
+    },
+    {
+        "question": "What type of printer uses ink cartridges to produce images?",
+        "options": [
+            "Laser Printer",
+            "Dot Matrix Printer",
+            "Inkjet Printer",
+            "Thermal Printer"
+        ],
+        "answer": "Inkjet Printer"
+    },
+    {
+        "question": "Which type of printer is commonly used for printing high-quality photos?",
+        "options": [
+            "Dot Matrix Printer",
+            "Laser Printer",
+            "Inkjet Printer",
+            "Thermal Printer"
+        ],
+        "answer": "Inkjet Printer"
+    },
+    {
+        "question": "Which printer is best suited for high-speed document printing?",
+        "options": [
+            "Laser Printer",
+            "Inkjet Printer",
+            "Dot Matrix Printer",
+            "Thermal Printer"
+        ],
+        "answer": "Laser Printer"
+    },
+    {
+        "question": "Which device provides hardcopy output?",
+        "options": [
+            "Monitor",
+            "Speaker",
+            "Printer",
+            "Scanner"
+        ],
+        "answer": "Printer"
+    },
+    {
+        "question": "What type of printer is used in ATMs and POS machines?",
+        "options": [
+            "Laser Printer",
+            "Inkjet Printer",
+            "Thermal Printer",
+            "Dot Matrix Printer"
+        ],
+        "answer": "Thermal Printer"
+    },
+    {
+        "question": "Which type of printer produces output by striking an ink ribbon against paper?",
+        "options": [
+            "Laser Printer",
+            "Dot Matrix Printer",
+            "Inkjet Printer",
+            "Thermal Printer"
+        ],
+        "answer": "Dot Matrix Printer"
+    },
+    {
+        "question": "Which of the following is an example of an audio output device?",
+        "options": [
+            "Microphone",
+            "Speaker",
+            "Scanner",
+            "Mouse"
+        ],
+        "answer": "Speaker"
+    },
+    {
+        "question": "Which device allows users to hear sounds from a computer?",
+        "options": [
+            "Monitor",
+            "Mouse",
+            "Speaker",
+            "Keyboard"
+        ],
+        "answer": "Speaker"
+    },
+    {
+        "question": "Which input device is used for virtual reality (VR) interactions?",
+        "options": [
+            "Game Controller",
+            "Projector",
+            "Monitor",
+            "Speaker"
+        ],
+        "answer": "Game Controller"
+    },
+    {
+        "question": "Which of the following is an example of a storage device?",
+        "options": [
+            "USB Flash Drive",
+            "Monitor",
+            "Speaker",
+            "Keyboard"
+        ],
+        "answer": "USB Flash Drive"
+    },
+    {
+        "question": "Which technology is used in touchscreens?",
+        "options": [
+            "Infrared Sensors",
+            "Capacitive or Resistive Sensors",
+            "Optical Mouse Sensors",
+            "Magnetic Ink"
+        ],
+        "answer": "Capacitive or Resistive Sensors"
+    },
+    {
+        "question": "Which of the following devices can be both an input and output device?",
+        "options": [
+            "Monitor",
+            "Keyboard",
+            "Touchscreen",
+            "Mouse"
+        ],
+        "answer": "Touchscreen"
+    },
+    {
+        "question": "What is the main function of a printer driver?",
+        "options": [
+            "Control the speed of printing",
+            "Convert data into a printable format",
+            "Increase print resolution",
+            "Manage printer power consumption"
+        ],
+        "answer": "Convert data into a printable format"
+    },
+    {
+        "question": "Which printer component is responsible for feeding paper into the machine?",
+        "options": [
+            "Ink Cartridge",
+            "Toner",
+            "Paper Tray",
+            "Print Head"
+        ],
+        "answer": "Paper Tray"
+    },
+    {
+        "question": "Which device is best for scanning barcodes?",
+        "options": [
+            "Scanner",
+            "Barcode Reader",
+            "Optical Mouse",
+            "Touchpad"
+        ],
+        "answer": "Barcode Reader"
+    },
+    {
+        "question": "What type of monitor uses liquid crystals to display images?",
+        "options": [
+            "CRT",
+            "LED",
+            "LCD",
+            "OLED"
+        ],
+        "answer": "LCD"
+    },
+    {
+        "question": "Which monitor technology provides the best color accuracy and contrast?",
+        "options": [
+            "CRT",
+            "LCD",
+            "OLED",
+            "Plasma"
+        ],
+        "answer": "OLED"
+    },
+    {
+        "question": "What is the function of a processor?",
+        "options": [
+            "Store data permanently",
+            "Execute instructions",
+            "Display output",
+            "Manage network connections"
+        ],
+        "answer": "Execute instructions"
+    },
+    {
+        "question": "Which unit in a processor performs arithmetic and logical operations?",
+        "options": [
+            "Control Unit",
+            "Cache Memory",
+            "Arithmetic Logic Unit (ALU)",
+            "Register"
+        ],
+        "answer": "Arithmetic Logic Unit (ALU)"
+    },
+    {
+        "question": "What does ALU stand for?",
+        "options": [
+            "Arithmetic and Logic Unit",
+            "Advanced Logic Unit",
+            "Automated Load Unit",
+            "Auxiliary Link Unit"
+        ],
+        "answer": "Arithmetic and Logic Unit"
+    },
+    {
+        "question": "Which component controls the execution of instructions in a processor?",
+        "options": [
+            "ALU",
+            "Cache",
+            "Control Unit",
+            "RAM"
+        ],
+        "answer": "Control Unit"
+    },
+    {
+        "question": "What is the main function of a Control Unit in a CPU?",
+        "options": [
+            "Perform calculations",
+            "Store data",
+            "Fetch and decode instructions",
+            "Manage power supply"
+        ],
+        "answer": "Fetch and decode instructions"
+    },
+    {
+        "question": "Which language do processors understand directly?",
+        "options": [
+            "Machine Language",
+            "Python",
+            "Java",
+            "C++"
+        ],
+        "answer": "Machine Language"
+    },
+    {
+        "question": "Which of the following is a low-level programming language?",
+        "options": [
+            "Python",
+            "JavaScript",
+            "Assembly Language",
+            "C#"
+        ],
+        "answer": "Assembly Language"
+    },
+    {
+        "question": "What does ISA stand for in processor architecture?",
+        "options": [
+            "Instruction Set Architecture",
+            "Integrated System Analysis",
+            "Internal Storage Access",
+            "Information System Algorithm"
+        ],
+        "answer": "Instruction Set Architecture"
+    },
+    {
+        "question": "Which of the following is an example of an Instruction Set Architecture (ISA)?",
+        "options": [
+            "ARM",
+            "Linux",
+            "Windows",
+            "BIOS"
+        ],
+        "answer": "ARM"
+    },
+    {
+        "question": "Which processor architecture is commonly used in mobile devices?",
+        "options": [
+            "x86",
+            "ARM",
+            "SPARC",
+            "MIPS"
+        ],
+        "answer": "ARM"
+    },
+    {
+        "question": "Which processor family is commonly found in personal computers?",
+        "options": [
+            "ARM",
+            "MIPS",
+            "x86",
+            "RISC-V"
+        ],
+        "answer": "x86"
+    },
+    {
+        "question": "What does RISC stand for in processor architecture?",
+        "options": [
+            "Reduced Instruction Set Computer",
+            "Rapid Instruction Set Compiler",
+            "Robotic Integrated System Control",
+            "Random Instruction Storage Circuit"
+        ],
+        "answer": "Reduced Instruction Set Computer"
+    },
+    {
+        "question": "What does CISC stand for?",
+        "options": [
+            "Complex Instruction Set Computer",
+            "Computational Integrated System Control",
+            "Centralized Information System Compiler",
+            "Control and Information Storage Circuit"
+        ],
+        "answer": "Complex Instruction Set Computer"
+    },
+    {
+        "question": "Which of the following is an example of a RISC architecture?",
+        "options": [
+            "Intel x86",
+            "AMD Ryzen",
+            "ARM",
+            "Pentium 4"
+        ],
+        "answer": "ARM"
+    },
+    {
+        "question": "Which part of the CPU fetches, decodes, and executes instructions?",
+        "options": [
+            "ALU",
+            "Control Unit",
+            "Cache",
+            "Memory"
+        ],
+        "answer": "Control Unit"
+    },
+    {
+        "question": "What does PCI stand for in computer architecture?",
+        "options": [
+            "Peripheral Component Interconnect",
+            "Processor Control Interface",
+            "Primary Communication Interface",
+            "Programmable Circuit Integration"
+        ],
+        "answer": "Peripheral Component Interconnect"
+    },
+    {
+        "question": "Which bus is used to connect expansion cards to the motherboard?",
+        "options": [
+            "PCI-Express",
+            "USB",
+            "SATA",
+            "Ethernet"
+        ],
+        "answer": "PCI-Express"
+    },
+    {
+        "question": "What is the main purpose of an instruction set?",
+        "options": [
+            "To define how a CPU executes commands",
+            "To store data",
+            "To display output",
+            "To control power supply"
+        ],
+        "answer": "To define how a CPU executes commands"
+    },
+    {
+        "question": "Which unit in a processor handles integer arithmetic operations?",
+        "options": [
+            "Floating-Point Unit",
+            "Integer Unit",
+            "Register",
+            "Control Unit"
+        ],
+        "answer": "Integer Unit"
+    },
+    {
+        "question": "Which part of the processor temporarily stores data and instructions?",
+        "options": [
+            "RAM",
+            "Cache Memory",
+            "Hard Drive",
+            "Network Adapter"
+        ],
+        "answer": "Cache Memory"
+    },
+    {
+        "question": "Which type of memory is closest to the processor?",
+        "options": [
+            "Cache Memory",
+            "RAM",
+            "Hard Drive",
+            "USB Drive"
+        ],
+        "answer": "Cache Memory"
+    },
+    {
+        "question": "Which component of a processor handles floating-point calculations?",
+        "options": [
+            "Control Unit",
+            "Floating-Point Unit",
+            "Cache",
+            "Register"
+        ],
+        "answer": "Floating-Point Unit"
+    },
+    {
+        "question": "What does the system bus do in a computer?",
+        "options": [
+            "Connects various components of a computer",
+            "Stores permanent data",
+            "Controls network connections",
+            "Manages power supply"
+        ],
+        "answer": "Connects various components of a computer"
+    },
+    {
+        "question": "Which bus connects the CPU and RAM?",
+        "options": [
+            "Data Bus",
+            "PCI Bus",
+            "Power Bus",
+            "Control Bus"
+        ],
+        "answer": "Data Bus"
+    },
+    {
+        "question": "What is the purpose of an instruction register?",
+        "options": [
+            "To store instructions before execution",
+            "To store data permanently",
+            "To display graphics",
+            "To manage power supply"
+        ],
+        "answer": "To store instructions before execution"
+    },
+    {
+        "question": "Which type of processor is optimized for embedded systems?",
+        "options": [
+            "ARM",
+            "x86",
+            "Pentium",
+            "Ryzen"
+        ],
+        "answer": "ARM"
+    },
+    {
+        "question": "Which of the following is NOT a part of a CPU?",
+        "options": [
+            "Control Unit",
+            "ALU",
+            "Graphics Card",
+            "Registers"
+        ],
+        "answer": "Graphics Card"
+    },
+    {
+        "question": "Which of the following determines processor performance?",
+        "options": [
+            "Clock Speed",
+            "Screen Resolution",
+            "Mouse DPI",
+            "RAM Size"
+        ],
+        "answer": "Clock Speed"
+    },
+    {
+        "question": "Which component helps speed up CPU performance by storing frequently used data?",
+        "options": [
+            "Cache Memory",
+            "Hard Drive",
+            "Power Supply",
+            "Graphics Card"
+        ],
+        "answer": "Cache Memory"
+    },
+    {
+        "question": "Which unit is responsible for decoding machine instructions?",
+        "options": [
+            "Arithmetic Logic Unit",
+            "Memory Unit",
+            "Control Unit",
+            "Cache"
+        ],
+        "answer": "Control Unit"
+    },
+    {
+        "question": "What is the primary role of registers in a CPU?",
+        "options": [
+            "Store data permanently",
+            "Hold temporary data and instructions",
+            "Increase storage capacity",
+            "Manage input/output devices"
+        ],
+        "answer": "Hold temporary data and instructions"
+    },
+    {
+        "question": "Which of the following is NOT a type of processor register?",
+        "options": [
+            "Instruction Register",
+            "Memory Register",
+            "Program Counter",
+            "Stack Pointer"
+        ],
+        "answer": "Memory Register"
+    },
+    {
+        "question": "Which component helps in prefetching and decoding instructions?",
+        "options": [
+            "Pipeline",
+            "Cache Memory",
+            "Bus Controller",
+            "ALU"
+        ],
+        "answer": "Pipeline"
+    },
+    {
+        "question": "Which type of architecture uses a large set of complex instructions?",
+        "options": [
+            "RISC",
+            "CISC",
+            "ARM",
+            "MIPS"
+        ],
+        "answer": "CISC"
+    },
+    {
+        "question": "What does a clock signal in a CPU do?",
+        "options": [
+            "Synchronizes operations",
+            "Increases cache size",
+            "Stores user data",
+            "Controls memory access"
+        ],
+        "answer": "Synchronizes operations"
+    },
+    {
+        "question": "Which of the following best describes pipelining in CPUs?",
+        "options": [
+            "Executing multiple instructions at the same time",
+            "Increasing the processor clock speed",
+            "Reducing the number of registers",
+            "Storing frequently used instructions"
+        ],
+        "answer": "Executing multiple instructions at the same time"
+    },
+    {
+        "question": "What is the main advantage of pipelining in processors?",
+        "options": [
+            "Reduces power consumption",
+            "Increases instruction execution speed",
+            "Decreases cache memory usage",
+            "Eliminates the need for registers"
+        ],
+        "answer": "Increases instruction execution speed"
+    },
+    {
+        "question": "Which part of a CPU stores the address of the next instruction to be executed?",
+        "options": [
+            "Program Counter",
+            "Stack Pointer",
+            "Instruction Register",
+            "ALU"
+        ],
+        "answer": "Program Counter"
+    },
+    {
+        "question": "Which of the following is a primary function of the system bus?",
+        "options": [
+            "Connects the CPU to memory and peripherals",
+            "Manages network connections",
+            "Controls the operating system",
+            "Increases battery life"
+        ],
+        "answer": "Connects the CPU to memory and peripherals"
+    },
+    {
+        "question": "Which type of processor architecture executes one instruction per clock cycle?",
+        "options": [
+            "RISC",
+            "CISC",
+            "x86",
+            "IA-64"
+        ],
+        "answer": "RISC"
+    },
+    {
+        "question": "What is the purpose of a Stack Pointer register?",
+        "options": [
+            "Keeps track of function calls and local variables",
+            "Stores CPU temperature",
+            "Increases clock speed",
+            "Controls bus speed"
+        ],
+        "answer": "Keeps track of function calls and local variables"
+    },
+    {
+        "question": "Which component in a CPU is responsible for shifting and rotating bits?",
+        "options": [
+            "Control Unit",
+            "ALU",
+            "Floating-Point Unit",
+            "Register"
+        ],
+        "answer": "ALU"
+    },
+    {
+        "question": "Which of the following is a characteristic of RISC architecture?",
+        "options": [
+            "Small number of simple instructions",
+            "Complex addressing modes",
+            "Multiple instruction sizes",
+            "Variable execution time"
+        ],
+        "answer": "Small number of simple instructions"
+    },
+    {
+        "question": "Which of these architectures is known for high energy efficiency?",
+        "options": [
+            "x86",
+            "ARM",
+            "CISC",
+            "MIPS"
+        ],
+        "answer": "ARM"
+    },
+    {
+        "question": "What is the role of a data bus?",
+        "options": [
+            "Transfers data between CPU and memory",
+            "Manages control signals",
+            "Synchronizes CPU clock",
+            "Controls power supply"
+        ],
+        "answer": "Transfers data between CPU and memory"
+    },
+    {
+        "question": "Which CPU register temporarily stores the result of an arithmetic operation?",
+        "options": [
+            "Accumulator",
+            "Program Counter",
+            "Stack Pointer",
+            "Memory Register"
+        ],
+        "answer": "Accumulator"
+    },
+    {
+        "question": "Which of these technologies helps reduce power consumption in modern CPUs?",
+        "options": [
+            "Dynamic Voltage Scaling",
+            "Overclocking",
+            "Bus Multiplexing",
+            "Increased Cache Size"
+        ],
+        "answer": "Dynamic Voltage Scaling"
+    },
+    {
+        "question": "Which of the following is a type of CPU interrupt?",
+        "options": [
+            "Hardware Interrupt",
+            "Pipeline Interrupt",
+            "Cache Interrupt",
+            "Address Interrupt"
+        ],
+        "answer": "Hardware Interrupt"
+    },
+    {
+        "question": "What is an example of a hardware interrupt?",
+        "options": [
+            "A key press on the keyboard",
+            "Executing a loop in software",
+            "CPU temperature check",
+            "Modifying BIOS settings"
+        ],
+        "answer": "A key press on the keyboard"
+    },
+    {
+        "question": "What is the purpose of a floating-point unit (FPU)?",
+        "options": [
+            "Performs complex mathematical calculations",
+            "Manages control signals",
+            "Stores floating-point numbers permanently",
+            "Manages CPU interrupts"
+        ],
+        "answer": "Performs complex mathematical calculations"
+    },
+    {
+        "question": "Which memory is used to store bootloader and BIOS firmware?",
+        "options": [
+            "ROM",
+            "RAM",
+            "Cache Memory",
+            "Registers"
+        ],
+        "answer": "ROM"
+    },
+    {
+        "question": "Which CPU feature allows multiple processes to be executed simultaneously?",
+        "options": [
+            "Multithreading",
+            "Overclocking",
+            "Cache Optimization",
+            "Branch Prediction"
+        ],
+        "answer": "Multithreading"
+    },
+    {
+        "question": "What is the purpose of branch prediction in modern CPUs?",
+        "options": [
+            "Improves instruction execution efficiency",
+            "Reduces cache size",
+            "Manages control bus",
+            "Increases clock speed"
+        ],
+        "answer": "Improves instruction execution efficiency"
+    },
+    {
+        "question": "Which component directly communicates with the CPU to transfer data?",
+        "options": [
+            "System Bus",
+            "Power Supply",
+            "Network Adapter",
+            "Cooling Fan"
+        ],
+        "answer": "System Bus"
+    },
+    {
+        "question": "What is the primary benefit of a multi-core processor?",
+        "options": [
+            "Improved multitasking and parallel processing",
+            "Lower power consumption",
+            "Reduced cache memory usage",
+            "Faster clock speed"
+        ],
+        "answer": "Improved multitasking and parallel processing"
+    },
+    {
+        "question": "Which of the following is a widely used Instruction Set Architecture (ISA)?",
+        "options": [
+            "RISC-V",
+            "x86-64",
+            "ARM",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What does RISC stand for?",
+        "options": [
+            "Reduced Instruction Set Computer",
+            "Regular Instruction System Control",
+            "Random Instruction Set Compiler",
+            "Revised Instruction and System Control"
+        ],
+        "answer": "Reduced Instruction Set Computer"
+    },
+    {
+        "question": "Which of the following is a key characteristic of RISC architecture?",
+        "options": [
+            "Complex addressing modes",
+            "Fixed-length instructions",
+            "Many specialized instructions",
+            "Variable instruction execution time"
+        ],
+        "answer": "Fixed-length instructions"
+    },
+    {
+        "question": "What is the primary advantage of RISC architecture over CISC?",
+        "options": [
+            "Faster instruction execution",
+            "More complex instruction decoding",
+            "Better support for legacy code",
+            "Smaller instruction set"
+        ],
+        "answer": "Faster instruction execution"
+    },
+    {
+        "question": "Which architecture typically requires more RAM due to a larger number of instructions?",
+        "options": [
+            "RISC",
+            "CISC",
+            "Both equally",
+            "Neither"
+        ],
+        "answer": "RISC"
+    },
+    {
+        "question": "Which of the following best describes a characteristic of CISC architecture?",
+        "options": [
+            "Emphasizes hardware over software optimization",
+            "Uses simple and uniform instruction formats",
+            "Prefers many general-purpose registers",
+            "Requires multiple clock cycles per instruction"
+        ],
+        "answer": "Requires multiple clock cycles per instruction"
+    },
+    {
+        "question": "Which of the following is an example of a RISC processor?",
+        "options": [
+            "Intel x86",
+            "IBM PowerPC",
+            "AMD Ryzen",
+            "Pentium 4"
+        ],
+        "answer": "IBM PowerPC"
+    },
+    {
+        "question": "Which of the following is NOT a design principle of RISC?",
+        "options": [
+            "Load/store architecture",
+            "Fixed instruction length",
+            "Emphasizing microcode",
+            "Hardwired control unit"
+        ],
+        "answer": "Emphasizing microcode"
+    },
+    {
+        "question": "What is a key advantage of CISC architecture?",
+        "options": [
+            "More powerful single instructions",
+            "Lower power consumption",
+            "Fewer instructions required per program",
+            "Better compiler optimization"
+        ],
+        "answer": "More powerful single instructions"
+    },
+    {
+        "question": "Which of the following is a RISC processor family?",
+        "options": [
+            "Intel x86",
+            "ARM",
+            "Pentium",
+            "Itanium"
+        ],
+        "answer": "ARM"
+    },
+    {
+        "question": "Why does RISC architecture prefer fixed-length instructions?",
+        "options": [
+            "To simplify instruction decoding",
+            "To allow variable execution times",
+            "To reduce power consumption",
+            "To make code more complex"
+        ],
+        "answer": "To simplify instruction decoding"
+    },
+    {
+        "question": "Which architecture is typically used in mobile devices due to low power consumption?",
+        "options": [
+            "RISC",
+            "CISC",
+            "Both equally",
+            "Neither"
+        ],
+        "answer": "RISC"
+    },
+    {
+        "question": "Pipelining in RISC processors is used to:",
+        "options": [
+            "Execute multiple instructions simultaneously",
+            "Increase cache memory",
+            "Reduce instruction set size",
+            "Lower power consumption"
+        ],
+        "answer": "Execute multiple instructions simultaneously"
+    },
+    {
+        "question": "Which of the following is a drawback of pipelining?",
+        "options": [
+            "Increased latency for a single instruction",
+            "Slower clock speed",
+            "More complex compiler design",
+            "Reduces instruction throughput"
+        ],
+        "answer": "More complex compiler design"
+    },
+    {
+        "question": "What is a pipeline hazard?",
+        "options": [
+            "A situation that delays instruction execution",
+            "A method to speed up CPU operations",
+            "A feature of the memory hierarchy",
+            "A security vulnerability in modern processors"
+        ],
+        "answer": "A situation that delays instruction execution"
+    },
+    {
+        "question": "Which type of hazard occurs when instructions depend on each other for data?",
+        "options": [
+            "Structural hazard",
+            "Data hazard",
+            "Control hazard",
+            "Cache hazard"
+        ],
+        "answer": "Data hazard"
+    },
+    {
+        "question": "What is the primary purpose of branch prediction in pipelining?",
+        "options": [
+            "To reduce stalls due to control hazards",
+            "To increase instruction complexity",
+            "To improve instruction decoding",
+            "To simplify memory management"
+        ],
+        "answer": "To reduce stalls due to control hazards"
+    },
+    {
+        "question": "Which of these is an example of an advanced RISC processor?",
+        "options": [
+            "ARM Cortex-A",
+            "Intel Pentium",
+            "AMD Opteron",
+            "Intel Core i9"
+        ],
+        "answer": "ARM Cortex-A"
+    },
+    {
+        "question": "Which of these is NOT a stage in a typical RISC pipeline?",
+        "options": [
+            "Instruction Fetch",
+            "Execute",
+            "Cache Allocation",
+            "Write Back"
+        ],
+        "answer": "Cache Allocation"
+    },
+    {
+        "question": "Which architecture is more suited for handling complex applications like servers and desktops?",
+        "options": [
+            "RISC",
+            "CISC",
+            "Neither",
+            "Both equally"
+        ],
+        "answer": "CISC"
+    },
+    {
+        "question": "Which of the following is a method to resolve data hazards in pipelining?",
+        "options": [
+            "Pipeline Stalling",
+            "Using more registers",
+            "Reducing clock speed",
+            "Adding more ALUs"
+        ],
+        "answer": "Pipeline Stalling"
+    },
+    {
+        "question": "Which component of a RISC processor is responsible for controlling instruction execution?",
+        "options": [
+            "Control Unit",
+            "Arithmetic Logic Unit",
+            "Cache Memory",
+            "Program Counter"
+        ],
+        "answer": "Control Unit"
+    },
+    {
+        "question": "Which RISC architecture is widely used in embedded systems?",
+        "options": [
+            "ARM",
+            "x86",
+            "MIPS",
+            "Itanium"
+        ],
+        "answer": "ARM"
+    },
+    {
+        "question": "Which pipeline stage is responsible for accessing memory operands?",
+        "options": [
+            "Decode",
+            "Fetch",
+            "Memory Access",
+            "Execute"
+        ],
+        "answer": "Memory Access"
+    },
+    {
+        "question": "What does the term 'out-of-order execution' refer to?",
+        "options": [
+            "Rearranging instruction execution for efficiency",
+            "Executing instructions in a single cycle",
+            "Reducing CPU clock speed",
+            "Increasing cache memory"
+        ],
+        "answer": "Rearranging instruction execution for efficiency"
+    },
+    {
+        "question": "Which of these processors is an example of CISC?",
+        "options": [
+            "Intel i7",
+            "ARM Cortex",
+            "RISC-V",
+            "MIPS"
+        ],
+        "answer": "Intel i7"
+    },
+    {
+        "question": "What is register renaming used for in pipelined processors?",
+        "options": [
+            "Avoiding data hazards",
+            "Reducing memory size",
+            "Increasing clock speed",
+            "Handling cache misses"
+        ],
+        "answer": "Avoiding data hazards"
+    },
+    {
+        "question": "Which instruction type is typically found in RISC but not in CISC?",
+        "options": [
+            "Load/Store",
+            "Multiply",
+            "Divide",
+            "String Manipulation"
+        ],
+        "answer": "Load/Store"
+    },
+    {
+        "question": "Which architecture uses a larger number of general-purpose registers?",
+        "options": [
+            "RISC",
+            "CISC",
+            "Both equally",
+            "Neither"
+        ],
+        "answer": "RISC"
+    },
+    {
+        "question": "What is one of the main goals of RISC architecture?",
+        "options": [
+            "Execute instructions in a single clock cycle",
+            "Increase the number of addressing modes",
+            "Use microcode for control",
+            "Decrease the number of registers"
+        ],
+        "answer": "Execute instructions in a single clock cycle"
+    },
+    {
+        "question": "Which processor type is generally more power-efficient?",
+        "options": [
+            "RISC",
+            "CISC",
+            "Both equally",
+            "Neither"
+        ],
+        "answer": "RISC"
+    },
+    {
+        "question": "Which feature is common in CISC but not in RISC?",
+        "options": [
+            "Complex addressing modes",
+            "Fixed instruction size",
+            "Load/store architecture",
+            "Multiple execution units"
+        ],
+        "answer": "Complex addressing modes"
+    },
+    {
+        "question": "Which of the following is an advantage of RISC processors?",
+        "options": [
+            "Simpler instruction decoding",
+            "More powerful individual instructions",
+            "Fewer registers",
+            "Variable-length instructions"
+        ],
+        "answer": "Simpler instruction decoding"
+    },
+    {
+        "question": "Which instruction format is commonly used in RISC?",
+        "options": [
+            "Fixed-length",
+            "Variable-length",
+            "Microcoded",
+            "Hybrid-length"
+        ],
+        "answer": "Fixed-length"
+    },
+    {
+        "question": "Which of the following is a key design principle of RISC?",
+        "options": [
+            "Simple instruction set",
+            "Microprogramming",
+            "Complex control logic",
+            "Multiple addressing modes"
+        ],
+        "answer": "Simple instruction set"
+    },
+    {
+        "question": "Which architecture typically has a larger instruction set?",
+        "options": [
+            "CISC",
+            "RISC",
+            "Neither",
+            "Both equally"
+        ],
+        "answer": "CISC"
+    },
+    {
+        "question": "Which of the following statements about RISC is true?",
+        "options": [
+            "Uses simple instructions executed in a single cycle",
+            "Has complex microcoded instructions",
+            "Uses variable-length instruction formats",
+            "Requires fewer registers than CISC"
+        ],
+        "answer": "Uses simple instructions executed in a single cycle"
+    },
+    {
+        "question": "Which of the following is a major disadvantage of CISC?",
+        "options": [
+            "Longer instruction execution time",
+            "Too many registers",
+            "Low power consumption",
+            "Simplified instruction decoding"
+        ],
+        "answer": "Longer instruction execution time"
+    },
+    {
+        "question": "What is the main characteristic of pipelining?",
+        "options": [
+            "Overlapping execution of instructions",
+            "Executing one instruction at a time",
+            "Increasing instruction size",
+            "Reducing the number of registers"
+        ],
+        "answer": "Overlapping execution of instructions"
+    },
+    {
+        "question": "Which architecture is commonly used in modern microcontrollers?",
+        "options": [
+            "RISC",
+            "CISC",
+            "Both equally",
+            "Neither"
+        ],
+        "answer": "RISC"
+    },
+    {
+        "question": "Which of the following improves performance in RISC processors?",
+        "options": [
+            "Pipelining",
+            "Microprogramming",
+            "Variable instruction size",
+            "Fewer registers"
+        ],
+        "answer": "Pipelining"
+    },
+    {
+        "question": "Why do RISC processors have a large number of registers?",
+        "options": [
+            "To reduce memory access",
+            "To increase instruction complexity",
+            "To increase power consumption",
+            "To decrease execution speed"
+        ],
+        "answer": "To reduce memory access"
+    },
+    {
+        "question": "Which processor type is more commonly used in desktop computers?",
+        "options": [
+            "CISC",
+            "RISC",
+            "Both equally",
+            "Neither"
+        ],
+        "answer": "CISC"
+    },
+    {
+        "question": "Which of the following is true about RISC?",
+        "options": [
+            "It emphasizes software over hardware optimization",
+            "It has a large instruction set",
+            "It has complex addressing modes",
+            "It uses microprogramming for execution"
+        ],
+        "answer": "It emphasizes software over hardware optimization"
+    },
+    {
+        "question": "Which of the following features is associated with CISC?",
+        "options": [
+            "Fewer general-purpose registers",
+            "Fixed-length instructions",
+            "Simple instruction decoding",
+            "Load/store architecture"
+        ],
+        "answer": "Fewer general-purpose registers"
+    },
+    {
+        "question": "What is the primary reason for using pipelining in RISC?",
+        "options": [
+            "To increase instruction throughput",
+            "To reduce instruction complexity",
+            "To increase power consumption",
+            "To decrease clock speed"
+        ],
+        "answer": "To increase instruction throughput"
+    },
+    {
+        "question": "Which type of instruction execution model does RISC typically use?",
+        "options": [
+            "Load/store model",
+            "Microcoded execution",
+            "Variable instruction model",
+            "Multiprocessor model"
+        ],
+        "answer": "Load/store model"
+    },
+    {
+        "question": "Which architecture often requires more complex compilers?",
+        "options": [
+            "RISC",
+            "CISC",
+            "Neither",
+            "Both equally"
+        ],
+        "answer": "RISC"
+    },
+    {
+        "question": "Which processor family uses the RISC architecture?",
+        "options": [
+            "ARM",
+            "Intel x86",
+            "AMD Ryzen",
+            "Pentium"
+        ],
+        "answer": "ARM"
+    },
+    {
+        "question": "Which feature is a disadvantage of CISC?",
+        "options": [
+            "Complex instruction decoding",
+            "Simplified instruction execution",
+            "Fixed instruction size",
+            "Few addressing modes"
+        ],
+        "answer": "Complex instruction decoding"
+    },
+    {
+        "question": "What is one reason RISC processors have a higher instruction count?",
+        "options": [
+            "They break complex tasks into multiple simple instructions",
+            "They use variable-length instructions",
+            "They require fewer registers",
+            "They rely on microprogramming"
+        ],
+        "answer": "They break complex tasks into multiple simple instructions"
+    },
+    {
+        "question": "Which processor architecture uses fewer instruction cycles per operation?",
+        "options": [
+            "RISC",
+            "CISC",
+            "Both equally",
+            "Neither"
+        ],
+        "answer": "RISC"
+    },
+    {
+        "question": "Which architecture type is typically easier to optimize using modern compilers?",
+        "options": [
+            "RISC",
+            "CISC",
+            "Both equally",
+            "Neither"
+        ],
+        "answer": "RISC"
+    },
+    {
+        "question": "Which of the following architectures often requires fewer transistors?",
+        "options": [
+            "RISC",
+            "CISC",
+            "Both equally",
+            "Neither"
+        ],
+        "answer": "RISC"
+    },
+    {
+        "question": "What is the main goal of parallel processing?",
+        "options": [
+            "Increase execution speed",
+            "Decrease power consumption",
+            "Reduce the number of processors",
+            "Increase instruction size"
+        ],
+        "answer": "Increase execution speed"
+    },
+    {
+        "question": "Which of the following is a classification of parallel architectures?",
+        "options": [
+            "SISD, SIMD, MISD, MIMD",
+            "CISC, RISC",
+            "ARM, x86",
+            "ROM, RAM"
+        ],
+        "answer": "SISD, SIMD, MISD, MIMD"
+    },
+    {
+        "question": "Which type of parallel processing executes the same instruction on multiple data?",
+        "options": [
+            "SIMD",
+            "SISD",
+            "MISD",
+            "MIMD"
+        ],
+        "answer": "SIMD"
+    },
+    {
+        "question": "Which classification of parallel architectures allows multiple instructions on multiple data?",
+        "options": [
+            "MIMD",
+            "SISD",
+            "SIMD",
+            "MISD"
+        ],
+        "answer": "MIMD"
+    },
+    {
+        "question": "Which of the following is an example of vector processing?",
+        "options": [
+            "Graphics rendering",
+            "File compression",
+            "Data sorting",
+            "Memory allocation"
+        ],
+        "answer": "Graphics rendering"
+    },
+    {
+        "question": "What is a major benefit of multi-core processors?",
+        "options": [
+            "Increased processing power",
+            "Decreased power consumption",
+            "Smaller instruction sets",
+            "Higher cost"
+        ],
+        "answer": "Increased processing power"
+    },
+    {
+        "question": "Which of the following is a key feature of shared memory multiprocessors?",
+        "options": [
+            "All processors share a common memory",
+            "Each processor has its own memory",
+            "Processors communicate through messages",
+            "Only one processor executes at a time"
+        ],
+        "answer": "All processors share a common memory"
+    },
+    {
+        "question": "Clusters in computing refer to:",
+        "options": [
+            "A group of interconnected computers working together",
+            "A single powerful processor",
+            "A specific type of RAM",
+            "A type of network switch"
+        ],
+        "answer": "A group of interconnected computers working together"
+    },
+    {
+        "question": "Which of the following is NOT a characteristic of hardware multithreading?",
+        "options": [
+            "It allows multiple threads to execute on a single processor",
+            "It improves CPU utilization",
+            "It decreases parallelism",
+            "It helps reduce idle processor time"
+        ],
+        "answer": "It decreases parallelism"
+    },
+    {
+        "question": "Which company developed NVLink?",
+        "options": [
+            "NVIDIA",
+            "Intel",
+            "AMD",
+            "Microsoft"
+        ],
+        "answer": "NVIDIA"
+    },
+    {
+        "question": "What is the primary use of NVLink?",
+        "options": [
+            "High-speed communication between GPUs",
+            "Reducing power consumption in CPUs",
+            "Increasing RAM capacity",
+            "Boosting disk speed"
+        ],
+        "answer": "High-speed communication between GPUs"
+    },
+    {
+        "question": "What is an array processor?",
+        "options": [
+            "A processor that handles multiple operations in parallel",
+            "A storage device",
+            "A type of single-core CPU",
+            "A networking device"
+        ],
+        "answer": "A processor that handles multiple operations in parallel"
+    },
+    {
+        "question": "Which of the following is an example of a shared memory system?",
+        "options": [
+            "A multi-core CPU",
+            "A distributed cloud system",
+            "A web server cluster",
+            "An external hard drive"
+        ],
+        "answer": "A multi-core CPU"
+    },
+    {
+        "question": "What is the main function of a Graphics Processing Unit (GPU)?",
+        "options": [
+            "Perform parallel computations efficiently",
+            "Manage system memory",
+            "Control input devices",
+            "Handle disk storage"
+        ],
+        "answer": "Perform parallel computations efficiently"
+    },
+    {
+        "question": "What does 'multithreading' allow in processors?",
+        "options": [
+            "Multiple threads to run simultaneously",
+            "Only one thread to execute at a time",
+            "Reduction of clock speed",
+            "Execution of one instruction per cycle"
+        ],
+        "answer": "Multiple threads to run simultaneously"
+    },
+    {
+        "question": "Which of the following is NOT a type of parallel architecture?",
+        "options": [
+            "MISD",
+            "SISD",
+            "MISO",
+            "SIMD"
+        ],
+        "answer": "MISO"
+    },
+    {
+        "question": "Which type of architecture is best suited for Artificial Intelligence (AI) applications?",
+        "options": [
+            "MIMD",
+            "SISD",
+            "MISD",
+            "None of the above"
+        ],
+        "answer": "MIMD"
+    },
+    {
+        "question": "Why is vector processing useful in scientific computing?",
+        "options": [
+            "It speeds up calculations with large data sets",
+            "It simplifies programming",
+            "It reduces memory usage",
+            "It replaces traditional processors"
+        ],
+        "answer": "It speeds up calculations with large data sets"
+    },
+    {
+        "question": "Which of the following best describes clustering in computing?",
+        "options": [
+            "A group of computers working together as a single system",
+            "A high-speed GPU",
+            "A special type of ALU",
+            "A method of caching data"
+        ],
+        "answer": "A group of computers working together as a single system"
+    },
+    {
+        "question": "What is the main advantage of hardware multithreading?",
+        "options": [
+            "It increases CPU efficiency",
+            "It reduces the number of cores needed",
+            "It limits parallel execution",
+            "It decreases system stability"
+        ],
+        "answer": "It increases CPU efficiency"
+    },
+    {
+        "question": "Which parallel architecture classification does a modern GPU belong to?",
+        "options": [
+            "SIMD",
+            "SISD",
+            "MISD",
+            "None of the above"
+        ],
+        "answer": "SIMD"
+    },
+    {
+        "question": "Which processor type is best suited for deep learning applications?",
+        "options": [
+            "GPU",
+            "Traditional CPU",
+            "Microcontroller",
+            "Single-core processor"
+        ],
+        "answer": "GPU"
+    },
+    {
+        "question": "What is a key advantage of using shared memory multiprocessors?",
+        "options": [
+            "Fast inter-processor communication",
+            "Lower cost than single-core processors",
+            "Simple hardware design",
+            "Independent memory for each processor"
+        ],
+        "answer": "Fast inter-processor communication"
+    },
+    {
+        "question": "Which of the following benefits from using NVLink?",
+        "options": [
+            "Faster GPU-to-GPU communication",
+            "Increased RAM size",
+            "Better power efficiency",
+            "Lower CPU temperature"
+        ],
+        "answer": "Faster GPU-to-GPU communication"
+    },
+    {
+        "question": "Which type of parallel processing is most commonly used in modern supercomputers?",
+        "options": [
+            "MIMD",
+            "MISD",
+            "SISD",
+            "None of the above"
+        ],
+        "answer": "MIMD"
+    },
+    {
+        "question": "Which company is known for producing high-performance GPUs used in AI and gaming?",
+        "options": [
+            "NVIDIA",
+            "Intel",
+            "AMD",
+            "IBM"
+        ],
+        "answer": "NVIDIA"
+    },
+    {
+        "question": "Which type of processing does a CPU typically use?",
+        "options": [
+            "SISD",
+            "SIMD",
+            "MIMD",
+            "MISD"
+        ],
+        "answer": "SISD"
+    },
+    {
+        "question": "What is the purpose of memory hierarchy in a computer system?",
+        "options": [
+            "To provide a balance between cost, speed, and capacity",
+            "To reduce the number of processors",
+            "To increase power consumption",
+            "To eliminate the need for storage"
+        ],
+        "answer": "To provide a balance between cost, speed, and capacity"
+    },
+    {
+        "question": "Which of the following is the fastest type of memory?",
+        "options": [
+            "Cache Memory",
+            "RAM",
+            "Hard Disk",
+            "Optical Disk"
+        ],
+        "answer": "Cache Memory"
+    },
+    {
+        "question": "Which type of memory is directly accessed by the CPU?",
+        "options": [
+            "Main Memory",
+            "Hard Disk",
+            "Cache Memory",
+            "Virtual Memory"
+        ],
+        "answer": "Cache Memory"
+    },
+    {
+        "question": "Which memory is used to store data permanently?",
+        "options": [
+            "Hard Disk",
+            "RAM",
+            "Cache Memory",
+            "Register"
+        ],
+        "answer": "Hard Disk"
+    },
+    {
+        "question": "What is the main purpose of cache memory?",
+        "options": [
+            "To store frequently accessed data for quick retrieval",
+            "To act as a backup for RAM",
+            "To increase hard disk space",
+            "To replace the CPU"
+        ],
+        "answer": "To store frequently accessed data for quick retrieval"
+    },
+    {
+        "question": "Which memory type is volatile?",
+        "options": [
+            "RAM",
+            "ROM",
+            "Hard Disk",
+            "Optical Disk"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "question": "What is the primary advantage of cache memory?",
+        "options": [
+            "It speeds up data access for the CPU",
+            "It increases total system memory",
+            "It replaces main memory",
+            "It provides backup storage"
+        ],
+        "answer": "It speeds up data access for the CPU"
+    },
+    {
+        "question": "Which memory level is at the top of the memory hierarchy?",
+        "options": [
+            "Registers",
+            "Cache",
+            "Main Memory",
+            "Hard Disk"
+        ],
+        "answer": "Registers"
+    },
+    {
+        "question": "Which type of memory is used as secondary storage?",
+        "options": [
+            "Hard Disk",
+            "Cache Memory",
+            "RAM",
+            "Registers"
+        ],
+        "answer": "Hard Disk"
+    },
+    {
+        "question": "What does virtual memory allow a computer to do?",
+        "options": [
+            "Use part of the hard disk as an extension of RAM",
+            "Increase the clock speed",
+            "Store permanent files",
+            "Directly execute machine code"
+        ],
+        "answer": "Use part of the hard disk as an extension of RAM"
+    },
+    {
+        "question": "Which technique is used to reduce cache miss rate?",
+        "options": [
+            "Cache Optimization",
+            "Increasing CPU frequency",
+            "Decreasing RAM size",
+            "Reducing the number of processors"
+        ],
+        "answer": "Cache Optimization"
+    },
+    {
+        "question": "Which type of memory stores the BIOS?",
+        "options": [
+            "ROM",
+            "RAM",
+            "Cache",
+            "Hard Disk"
+        ],
+        "answer": "ROM"
+    },
+    {
+        "question": "What is the function of a page table in virtual memory?",
+        "options": [
+            "To map virtual addresses to physical addresses",
+            "To store data permanently",
+            "To execute CPU instructions",
+            "To increase hard disk space"
+        ],
+        "answer": "To map virtual addresses to physical addresses"
+    },
+    {
+        "question": "What is a common page replacement algorithm?",
+        "options": [
+            "Least Recently Used (LRU)",
+            "FIFO",
+            "Random Replacement",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which memory type is slower but has a larger capacity than RAM?",
+        "options": [
+            "Hard Disk",
+            "Cache",
+            "Registers",
+            "ROM"
+        ],
+        "answer": "Hard Disk"
+    },
+    {
+        "question": "What is memory interleaving used for?",
+        "options": [
+            "To speed up access to main memory",
+            "To increase cache memory size",
+            "To store permanent data",
+            "To reduce CPU load"
+        ],
+        "answer": "To speed up access to main memory"
+    },
+    {
+        "question": "Which memory is used for temporary data storage during processing?",
+        "options": [
+            "RAM",
+            "ROM",
+            "Hard Disk",
+            "Flash Drive"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "question": "What does 'associative memory' refer to?",
+        "options": [
+            "Memory that allows searching based on content",
+            "Memory that is directly connected to the CPU",
+            "Memory used for permanent storage",
+            "Memory used in GPU processing"
+        ],
+        "answer": "Memory that allows searching based on content"
+    },
+    {
+        "question": "Which memory type provides the slowest data access?",
+        "options": [
+            "Optical Disk",
+            "Cache",
+            "RAM",
+            "Registers"
+        ],
+        "answer": "Optical Disk"
+    },
+    {
+        "question": "Which cache optimization technique improves cache efficiency?",
+        "options": [
+            "Prefetching",
+            "Decreasing cache size",
+            "Increasing RAM latency",
+            "Reducing CPU speed"
+        ],
+        "answer": "Prefetching"
+    },
+    {
+        "question": "Which memory component is located inside the CPU?",
+        "options": [
+            "Registers",
+            "RAM",
+            "Hard Disk",
+            "Cache"
+        ],
+        "answer": "Registers"
+    },
+    {
+        "question": "Which type of memory is typically used for booting up a system?",
+        "options": [
+            "ROM",
+            "RAM",
+            "Cache",
+            "Registers"
+        ],
+        "answer": "ROM"
+    },
+    {
+        "question": "What is the function of auxiliary memory?",
+        "options": [
+            "To store large amounts of data permanently",
+            "To temporarily store data for CPU processing",
+            "To increase the CPU clock speed",
+            "To replace cache memory"
+        ],
+        "answer": "To store large amounts of data permanently"
+    },
+    {
+        "question": "Which of the following is a primary memory device?",
+        "options": [
+            "RAM",
+            "Hard Disk",
+            "DVD",
+            "USB Drive"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "question": "What is the role of a memory hierarchy?",
+        "options": [
+            "To create a balance between speed, cost, and capacity",
+            "To increase the number of processors",
+            "To store executable programs permanently",
+            "To reduce CPU clock speed"
+        ],
+        "answer": "To create a balance between speed, cost, and capacity"
+    },
+    {
+        "question": "Which of the following is an example of secondary memory?",
+        "options": [
+            "Hard Disk",
+            "Cache",
+            "Registers",
+            "RAM"
+        ],
+        "answer": "Hard Disk"
+    },
+    {
+        "question": "Which type of memory is used for virtual memory implementation?",
+        "options": [
+            "Hard Disk",
+            "RAM",
+            "Cache",
+            "Registers"
+        ],
+        "answer": "Hard Disk"
+    },
+    {
+        "question": "Which of the following is NOT a page replacement algorithm?",
+        "options": [
+            "Round Robin",
+            "FIFO",
+            "LRU",
+            "Optimal Page Replacement"
+        ],
+        "answer": "Round Robin"
+    },
+    {
+        "question": "What is the primary function of main memory?",
+        "options": [
+            "To store data temporarily for quick access",
+            "To permanently store programs",
+            "To replace cache memory",
+            "To process data instead of the CPU"
+        ],
+        "answer": "To store data temporarily for quick access"
+    },
+    {
+        "question": "Which memory type is the closest to the CPU?",
+        "options": [
+            "Registers",
+            "Cache",
+            "Main Memory",
+            "Hard Disk"
+        ],
+        "answer": "Registers"
+    },
+    {
+        "question": "Which memory is non-volatile?",
+        "options": [
+            "ROM",
+            "RAM",
+            "Cache",
+            "Registers"
+        ],
+        "answer": "ROM"
+    },
+    {
+        "question": "What does 'cache hit' mean?",
+        "options": [
+            "The requested data is found in the cache",
+            "The requested data is missing from the cache",
+            "The cache is full",
+            "The CPU has stopped working"
+        ],
+        "answer": "The requested data is found in the cache"
+    },
+    {
+        "question": "What does 'cache miss' mean?",
+        "options": [
+            "The required data is not found in the cache",
+            "The cache is full",
+            "The CPU has crashed",
+            "Data is permanently deleted"
+        ],
+        "answer": "The required data is not found in the cache"
+    },
+    {
+        "question": "Which memory stores the most frequently used instructions?",
+        "options": [
+            "Cache",
+            "Hard Disk",
+            "RAM",
+            "Flash Drive"
+        ],
+        "answer": "Cache"
+    },
+    {
+        "question": "Which of the following is a volatile memory?",
+        "options": [
+            "RAM",
+            "ROM",
+            "Hard Disk",
+            "CD-ROM"
+        ],
+        "answer": "RAM"
+    },
+    {
+        "question": "What does 'paging' refer to in virtual memory?",
+        "options": [
+            "Dividing memory into fixed-size blocks",
+            "Removing data from RAM",
+            "Increasing the CPU speed",
+            "Reducing cache size"
+        ],
+        "answer": "Dividing memory into fixed-size blocks"
+    },
+    {
+        "question": "Which level of memory hierarchy is the slowest?",
+        "options": [
+            "Hard Disk",
+            "Cache",
+            "RAM",
+            "Registers"
+        ],
+        "answer": "Hard Disk"
+    },
+    {
+        "question": "What is a TLB (Translation Lookaside Buffer)?",
+        "options": [
+            "A cache used for storing page table entries",
+            "A backup for main memory",
+            "A processor for virtual memory",
+            "An error detection mechanism"
+        ],
+        "answer": "A cache used for storing page table entries"
+    },
+    {
+        "question": "What is the main function of a page replacement algorithm?",
+        "options": [
+            "To decide which page to remove when memory is full",
+            "To increase cache memory",
+            "To replace old RAM with new RAM",
+            "To increase the CPU clock speed"
+        ],
+        "answer": "To decide which page to remove when memory is full"
+    },
+    {
+        "question": "Which memory is used to store frequently accessed data and reduce latency?",
+        "options": [
+            "Cache Memory",
+            "Hard Disk",
+            "Flash Drive",
+            "Optical Disk"
+        ],
+        "answer": "Cache Memory"
+    },
+    {
+        "question": "What is the main function of virtual memory?",
+        "options": [
+            "To extend RAM using disk space",
+            "To replace cache memory",
+            "To improve power efficiency",
+            "To increase processing speed"
+        ],
+        "answer": "To extend RAM using disk space"
+    },
+    {
+        "question": "Which type of cache memory is built directly into the CPU?",
+        "options": [
+            "L1 Cache",
+            "L2 Cache",
+            "L3 Cache",
+            "Main Memory"
+        ],
+        "answer": "L1 Cache"
+    },
+    {
+        "question": "Which of the following memory types is used for buffering input and output operations?",
+        "options": [
+            "Cache Memory",
+            "RAM",
+            "Registers",
+            "Hard Disk"
+        ],
+        "answer": "Cache Memory"
+    },
+    {
+        "question": "What is the function of the address bus in a computer system?",
+        "options": [
+            "To transfer memory addresses between CPU and memory",
+            "To store permanent data",
+            "To execute instructions",
+            "To increase memory capacity"
+        ],
+        "answer": "To transfer memory addresses between CPU and memory"
+    },
+    {
+        "question": "What is the purpose of memory interleaving?",
+        "options": [
+            "To improve memory access speed",
+            "To reduce power consumption",
+            "To increase RAM size",
+            "To optimize hard disk performance"
+        ],
+        "answer": "To improve memory access speed"
+    },
+    {
+        "question": "What is the main disadvantage of cache memory?",
+        "options": [
+            "It is expensive",
+            "It is slower than RAM",
+            "It has unlimited capacity",
+            "It cannot store frequently used data"
+        ],
+        "answer": "It is expensive"
+    },
+    {
+        "question": "Which memory has the highest latency?",
+        "options": [
+            "Hard Disk",
+            "RAM",
+            "Cache",
+            "Registers"
+        ],
+        "answer": "Hard Disk"
+    },
+    {
+        "question": "What is the primary advantage of virtual memory?",
+        "options": [
+            "It allows large programs to run with less RAM",
+            "It increases CPU clock speed",
+            "It makes cache memory unnecessary",
+            "It replaces secondary storage"
+        ],
+        "answer": "It allows large programs to run with less RAM"
+    },
+    {
+        "question": "Which type of memory is directly connected to the ALU for fast processing?",
+        "options": [
+            "Registers",
+            "Cache",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "Registers"
+    },
+    {
+        "question": "What is the function of write-through cache?",
+        "options": [
+            "To update both cache and main memory simultaneously",
+            "To store data only temporarily",
+            "To increase hard disk space",
+            "To slow down CPU performance"
+        ],
+        "answer": "To update both cache and main memory simultaneously"
+    },
+    {
+        "question": "Which memory acts as a buffer between RAM and CPU?",
+        "options": [
+            "Cache Memory",
+            "Virtual Memory",
+            "Main Memory",
+            "Hard Disk"
+        ],
+        "answer": "Cache Memory"
+    },
+    {
+        "question": "What happens when a system runs out of virtual memory?",
+        "options": [
+            "It may slow down or crash",
+            "It increases CPU performance",
+            "It starts using the cache memory as RAM",
+            "It clears all data from the hard disk"
+        ],
+        "answer": "It may slow down or crash"
+    },
+    {
+        "question": "Which of the following is an advantage of increasing cache memory?",
+        "options": [
+            "Faster access to frequently used data",
+            "Higher power consumption",
+            "More hard disk space",
+            "Lower CPU clock speed"
+        ],
+        "answer": "Faster access to frequently used data"
+    },
+    {
+        "question": "What is the purpose of a page table?",
+        "options": [
+            "To translate virtual addresses to physical addresses",
+            "To store temporary cache data",
+            "To process arithmetic operations",
+            "To increase hard disk storage"
+        ],
+        "answer": "To translate virtual addresses to physical addresses"
+    },
+    {
+        "question": "What is the primary purpose of cache memory?",
+        "options": [
+            "To store frequently accessed data for faster retrieval",
+            "To replace main memory",
+            "To store data permanently",
+            "To increase hard disk storage"
+        ],
+        "answer": "To store frequently accessed data for faster retrieval"
+    },
+    {
+        "question": "Which of the following is the fastest type of cache?",
+        "options": [
+            "L1 Cache",
+            "L2 Cache",
+            "L3 Cache",
+            "Virtual Memory"
+        ],
+        "answer": "L1 Cache"
+    },
+    {
+        "question": "What does 'cache hit' mean?",
+        "options": [
+            "The required data is found in the cache",
+            "The required data is missing from the cache",
+            "The cache is full",
+            "The CPU is idle"
+        ],
+        "answer": "The required data is found in the cache"
+    },
+    {
+        "question": "What is cache miss?",
+        "options": [
+            "Data is not found in the cache",
+            "The CPU stops working",
+            "The cache is full",
+            "Cache memory is deleted"
+        ],
+        "answer": "Data is not found in the cache"
+    },
+    {
+        "question": "Which level of cache memory is the smallest in size but fastest?",
+        "options": [
+            "L1 Cache",
+            "L2 Cache",
+            "L3 Cache",
+            "Virtual Memory"
+        ],
+        "answer": "L1 Cache"
+    },
+    {
+        "question": "Which memory stores the most frequently used instructions?",
+        "options": [
+            "Cache Memory",
+            "RAM",
+            "Hard Disk",
+            "CD-ROM"
+        ],
+        "answer": "Cache Memory"
+    },
+    {
+        "question": "Which cache replacement policy replaces the least recently used data?",
+        "options": [
+            "LRU",
+            "FIFO",
+            "Random Replacement",
+            "Optimal Replacement"
+        ],
+        "answer": "LRU"
+    },
+    {
+        "question": "What does TLB stand for?",
+        "options": [
+            "Translation Lookaside Buffer",
+            "Temporary Load Buffer",
+            "Total Lookup Base",
+            "Transfer Load Balance"
+        ],
+        "answer": "Translation Lookaside Buffer"
+    },
+    {
+        "question": "Which of the following is a common method to improve cache performance?",
+        "options": [
+            "Increasing cache size",
+            "Reducing CPU clock speed",
+            "Removing virtual memory",
+            "Using slower memory chips"
+        ],
+        "answer": "Increasing cache size"
+    },
+    {
+        "question": "What is the purpose of virtual memory?",
+        "options": [
+            "To extend RAM using secondary storage",
+            "To replace cache memory",
+            "To increase CPU speed",
+            "To replace registers"
+        ],
+        "answer": "To extend RAM using secondary storage"
+    },
+    {
+        "question": "What happens when a system runs out of virtual memory?",
+        "options": [
+            "It slows down or crashes",
+            "It increases CPU performance",
+            "It starts using registers as RAM",
+            "It clears cache memory"
+        ],
+        "answer": "It slows down or crashes"
+    },
+    {
+        "question": "Which of the following is an example of secondary storage?",
+        "options": [
+            "Hard Disk",
+            "L1 Cache",
+            "RAM",
+            "Registers"
+        ],
+        "answer": "Hard Disk"
+    },
+    {
+        "question": "What does cache coherence refer to?",
+        "options": [
+            "Keeping multiple copies of data consistent across caches",
+            "Storing data permanently",
+            "Deleting old data automatically",
+            "Using cache as virtual memory"
+        ],
+        "answer": "Keeping multiple copies of data consistent across caches"
+    },
+    {
+        "question": "Which of the following is a cache coherence protocol?",
+        "options": [
+            "MESI",
+            "LRU",
+            "FIFO",
+            "TLB"
+        ],
+        "answer": "MESI"
+    },
+    {
+        "question": "Which memory type is closest to the CPU?",
+        "options": [
+            "Registers",
+            "Cache",
+            "RAM",
+            "Hard Disk"
+        ],
+        "answer": "Registers"
+    },
+    {
+        "question": "What is the purpose of a cache controller?",
+        "options": [
+            "To manage cache memory operations",
+            "To replace main memory",
+            "To increase CPU speed",
+            "To store large files"
+        ],
+        "answer": "To manage cache memory operations"
+    },
+    {
+        "question": "What is a write-back cache?",
+        "options": [
+            "Cache that updates data in memory only when necessary",
+            "Cache that updates data immediately in main memory",
+            "Cache that never updates data",
+            "Cache that clears memory automatically"
+        ],
+        "answer": "Cache that updates data in memory only when necessary"
+    },
+    {
+        "question": "What is the main disadvantage of cache memory?",
+        "options": [
+            "It is expensive",
+            "It is slower than RAM",
+            "It consumes more power",
+            "It cannot store frequently used data"
+        ],
+        "answer": "It is expensive"
+    },
+    {
+        "question": "What is the purpose of a finite-state machine in cache control?",
+        "options": [
+            "To manage the transitions between cache states",
+            "To replace cache memory",
+            "To increase power efficiency",
+            "To slow down CPU operations"
+        ],
+        "answer": "To manage the transitions between cache states"
+    },
+    {
+        "question": "Which company manufactures the AMD Zen architecture?",
+        "options": [
+            "AMD",
+            "Intel",
+            "NVIDIA",
+            "ARM"
+        ],
+        "answer": "AMD"
+    },
+    {
+        "question": "Which company manufactures the Intel Skylake architecture?",
+        "options": [
+            "Intel",
+            "AMD",
+            "NVIDIA",
+            "ARM"
+        ],
+        "answer": "Intel"
+    },
+    {
+        "question": "What does a cache controller do?",
+        "options": [
+            "Manages cache memory operations",
+            "Controls disk read/write operations",
+            "Processes CPU instructions",
+            "Manages network connections"
+        ],
+        "answer": "Manages cache memory operations"
+    },
+    {
+        "question": "What is the role of cache memory in improving performance?",
+        "options": [
+            "It reduces access time for frequently used data",
+            "It replaces RAM",
+            "It increases hard disk storage",
+            "It slows down the CPU"
+        ],
+        "answer": "It reduces access time for frequently used data"
+    },
+    {
+        "question": "What happens during a cache flush?",
+        "options": [
+            "All data in the cache is written to memory and cleared",
+            "Cache memory is permanently disabled",
+            "CPU clock speed is increased",
+            "All virtual memory is erased"
+        ],
+        "answer": "All data in the cache is written to memory and cleared"
+    },
+    {
+        "question": "What is the purpose of using a multi-level cache?",
+        "options": [
+            "To balance speed and size of cache",
+            "To replace main memory",
+            "To store more data permanently",
+            "To increase hard disk space"
+        ],
+        "answer": "To balance speed and size of cache"
+    },
+    {
+        "question": "What is the purpose of cache prefetching?",
+        "options": [
+            "To load data into cache before it is needed",
+            "To remove unused data from cache",
+            "To slow down CPU execution",
+            "To increase RAM size"
+        ],
+        "answer": "To load data into cache before it is needed"
+    },
+    {
+        "question": "Which architecture is designed to improve memory performance in AMD processors?",
+        "options": [
+            "Zen",
+            "Skylake",
+            "ARM",
+            "PowerPC"
+        ],
+        "answer": "Zen"
+    },
+    {
+        "question": "What is the purpose of using a write-through cache?",
+        "options": [
+            "To update cache and main memory simultaneously",
+            "To store temporary data",
+            "To replace cache memory",
+            "To reduce CPU performance"
+        ],
+        "answer": "To update cache and main memory simultaneously"
+    },
+    {
+        "question": "What is the main function of an I/O interface?",
+        "options": [
+            "To connect I/O devices with the processor and memory",
+            "To increase CPU speed",
+            "To manage power supply",
+            "To store data permanently"
+        ],
+        "answer": "To connect I/O devices with the processor and memory"
+    },
+    {
+        "question": "Which of the following is an example of an input device?",
+        "options": [
+            "Keyboard",
+            "Monitor",
+            "Speaker",
+            "Printer"
+        ],
+        "answer": "Keyboard"
+    },
+    {
+        "question": "Which of the following is an output device?",
+        "options": [
+            "Monitor",
+            "Mouse",
+            "Keyboard",
+            "Scanner"
+        ],
+        "answer": "Monitor"
+    },
+    {
+        "question": "How does memory-mapped I/O work?",
+        "options": [
+            "I/O devices share the same address space as memory",
+            "I/O devices have a separate address space",
+            "Only the CPU can access I/O devices",
+            "Data transfer is done without memory usage"
+        ],
+        "answer": "I/O devices share the same address space as memory"
+    },
+    {
+        "question": "What is the advantage of memory-mapped I/O?",
+        "options": [
+            "Faster data access",
+            "Reduces processor speed",
+            "Requires a separate I/O processor",
+            "Slower than I/O-mapped I/O"
+        ],
+        "answer": "Faster data access"
+    },
+    {
+        "question": "What is I/O-mapped I/O?",
+        "options": [
+            "I/O devices use a separate address space",
+            "I/O devices share the same memory space",
+            "Only cache memory is used",
+            "It does not require a processor"
+        ],
+        "answer": "I/O devices use a separate address space"
+    },
+    {
+        "question": "What is an interrupt?",
+        "options": [
+            "A signal that stops the CPU to handle an event",
+            "A function that speeds up the processor",
+            "A method to store data permanently",
+            "A way to increase cache memory"
+        ],
+        "answer": "A signal that stops the CPU to handle an event"
+    },
+    {
+        "question": "Which type of interrupt is generated by hardware?",
+        "options": [
+            "Hardware Interrupt",
+            "Software Interrupt",
+            "Maskable Interrupt",
+            "Non-Maskable Interrupt"
+        ],
+        "answer": "Hardware Interrupt"
+    },
+    {
+        "question": "Which of the following is an example of a storage device?",
+        "options": [
+            "Magnetic Disk",
+            "RAM",
+            "Monitor",
+            "Speaker"
+        ],
+        "answer": "Magnetic Disk"
+    },
+    {
+        "question": "Which device uses laser technology to read data?",
+        "options": [
+            "CD-ROM",
+            "Magnetic Tape",
+            "Hard Disk",
+            "Floppy Disk"
+        ],
+        "answer": "CD-ROM"
+    },
+    {
+        "question": "What is the main purpose of Direct Memory Access (DMA)?",
+        "options": [
+            "To transfer data between memory and I/O devices without CPU intervention",
+            "To slow down the CPU",
+            "To increase cache memory",
+            "To reduce the size of RAM"
+        ],
+        "answer": "To transfer data between memory and I/O devices without CPU intervention"
+    },
+    {
+        "question": "Which of the following is an example of secondary storage?",
+        "options": [
+            "Magnetic Tape",
+            "Cache Memory",
+            "Registers",
+            "RAM"
+        ],
+        "answer": "Magnetic Tape"
+    },
+    {
+        "question": "What is synchronous data transfer?",
+        "options": [
+            "Data is transferred at fixed time intervals",
+            "Data transfer happens randomly",
+            "CPU is not involved in data transfer",
+            "Data transfer speed is unpredictable"
+        ],
+        "answer": "Data is transferred at fixed time intervals"
+    },
+    {
+        "question": "What is an example of an asynchronous data transfer?",
+        "options": [
+            "USB data transfer",
+            "CPU clock synchronization",
+            "Cache memory update",
+            "Main memory refresh"
+        ],
+        "answer": "USB data transfer"
+    },
+    {
+        "question": "What is the primary function of a GPU?",
+        "options": [
+            "To process graphics and parallel computations",
+            "To store data permanently",
+            "To replace RAM",
+            "To speed up CPU calculations"
+        ],
+        "answer": "To process graphics and parallel computations"
+    },
+    {
+        "question": "Which company developed NVLink?",
+        "options": [
+            "NVIDIA",
+            "Intel",
+            "AMD",
+            "Qualcomm"
+        ],
+        "answer": "NVIDIA"
+    },
+    {
+        "question": "Which storage device has the highest data transfer rate?",
+        "options": [
+            "SSD",
+            "CD-ROM",
+            "Magnetic Tape",
+            "Floppy Disk"
+        ],
+        "answer": "SSD"
+    },
+    {
+        "question": "Which I/O technique allows multiple devices to send data to memory without CPU involvement?",
+        "options": [
+            "Direct Memory Access (DMA)",
+            "Programmed I/O",
+            "Interrupt-driven I/O",
+            "Memory-mapped I/O"
+        ],
+        "answer": "Direct Memory Access (DMA)"
+    },
+    {
+        "question": "Which of the following is an example of an interrupt-driven I/O?",
+        "options": [
+            "Keyboard input",
+            "Hard disk read operation",
+            "Cache memory update",
+            "CPU clock synchronization"
+        ],
+        "answer": "Keyboard input"
+    },
+    {
+        "question": "What is the main advantage of using RAID in storage?",
+        "options": [
+            "Increases storage performance and reliability",
+            "Reduces power consumption",
+            "Eliminates the need for memory",
+            "Replaces cache memory"
+        ],
+        "answer": "Increases storage performance and reliability"
+    },
+    {
+        "question": "Which RAID level provides full redundancy but requires the most storage?",
+        "options": [
+            "RAID 1",
+            "RAID 0",
+            "RAID 5",
+            "RAID 10"
+        ],
+        "answer": "RAID 1"
+    },
+    {
+        "question": "Which of the following is NOT an I/O device?",
+        "options": [
+            "CPU",
+            "Monitor",
+            "Printer",
+            "Keyboard"
+        ],
+        "answer": "CPU"
+    },
+    {
+        "question": "Which type of disk uses flash memory instead of spinning disks?",
+        "options": [
+            "SSD",
+            "HDD",
+            "CD-ROM",
+            "Magnetic Tape"
+        ],
+        "answer": "SSD"
+    },
+    {
+        "question": "What is the main purpose of an interrupt handler?",
+        "options": [
+            "To manage CPU responses to interrupts",
+            "To increase clock speed",
+            "To reduce memory usage",
+            "To increase cache size"
+        ],
+        "answer": "To manage CPU responses to interrupts"
+    },
+    {
+        "question": "Which interface is commonly used for high-speed GPU connections?",
+        "options": [
+            "PCI-Express",
+            "SATA",
+            "USB",
+            "Ethernet"
+        ],
+        "answer": "PCI-Express"
+    },
+    {
+        "question": "Which technology helps GPUs communicate faster than PCIe?",
+        "options": [
+            "NVLink",
+            "RAID",
+            "SSD",
+            "Cache Memory"
+        ],
+        "answer": "NVLink"
+    },
+    {
+        "question": "Which device is used to store large amounts of backup data?",
+        "options": [
+            "Magnetic Tape",
+            "Cache Memory",
+            "GPU",
+            "Registers"
+        ],
+        "answer": "Magnetic Tape"
+    },
+    {
+        "question": "Which storage device is the fastest for booting an operating system?",
+        "options": [
+            "SSD",
+            "HDD",
+            "CD-ROM",
+            "Magnetic Tape"
+        ],
+        "answer": "SSD"
+    },
+    {
+        "question": "Which company manufactures Intel processors?",
+        "options": [
+            "Intel",
+            "AMD",
+            "Qualcomm",
+            "NVIDIA"
+        ],
+        "answer": "Intel"
+    },
+    {
+        "question": "Which of the following is a popular AMD processor series?",
+        "options": [
+            "Ryzen",
+            "Core i7",
+            "Pentium",
+            "Xeon"
+        ],
+        "answer": "Ryzen"
+    },
+    {
+        "question": "Which architecture is commonly used in mobile processors?",
+        "options": [
+            "ARM",
+            "x86",
+            "MIPS",
+            "RISC-V"
+        ],
+        "answer": "ARM"
+    },
+    {
+        "question": "What does TPU stand for?",
+        "options": [
+            "Tensor Processing Unit",
+            "Technical Processing Unit",
+            "Total Performance Unit",
+            "Task Processing Unit"
+        ],
+        "answer": "Tensor Processing Unit"
+    },
+    {
+        "question": "Which of the following is a key advantage of a 64-bit processor over a 32-bit processor?",
+        "options": [
+            "Can handle more RAM",
+            "Consumes less power",
+            "Faster clock speed",
+            "Smaller size"
+        ],
+        "answer": "Can handle more RAM"
+    },
+    {
+        "question": "Which company is known for its POWER architecture?",
+        "options": [
+            "IBM",
+            "Intel",
+            "AMD",
+            "NVIDIA"
+        ],
+        "answer": "IBM"
+    },
+    {
+        "question": "Which Intel processor series is designed for high-performance computing?",
+        "options": [
+            "Xeon",
+            "Core i5",
+            "Pentium",
+            "Atom"
+        ],
+        "answer": "Xeon"
+    },
+    {
+        "question": "Which of the following is an example of a multi-core processor?",
+        "options": [
+            "Intel Core i9",
+            "Intel Pentium 4",
+            "AMD Athlon 64",
+            "Intel 8086"
+        ],
+        "answer": "Intel Core i9"
+    },
+    {
+        "question": "What is the latest generation of Intel Core processors as of 2024?",
+        "options": [
+            "14th Gen",
+            "10th Gen",
+            "8th Gen",
+            "6th Gen"
+        ],
+        "answer": "14th Gen"
+    },
+    {
+        "question": "Which processor type is optimized for deep learning applications?",
+        "options": [
+            "TPU",
+            "GPU",
+            "CPU",
+            "ARM"
+        ],
+        "answer": "TPU"
+    },
+    {
+        "question": "Which technology is commonly used in HPC for processing multiple tasks simultaneously?",
+        "options": [
+            "Parallel Processing",
+            "Single-threaded Processing",
+            "Batch Processing",
+            "Serial Processing"
+        ],
+        "answer": "Parallel Processing"
+    },
+    {
+        "question": "Which company manufactures ARM-based processors?",
+        "options": [
+            "Qualcomm",
+            "Intel",
+            "AMD",
+            "IBM"
+        ],
+        "answer": "Qualcomm"
+    },
+    {
+        "question": "What is the primary benefit of using a TPU over a traditional CPU for AI workloads?",
+        "options": [
+            "Higher efficiency in matrix calculations",
+            "Lower power consumption",
+            "More storage capacity",
+            "Faster clock speeds"
+        ],
+        "answer": "Higher efficiency in matrix calculations"
+    },
+    {
+        "question": "Which of the following is NOT a generation of Intel Core processors?",
+        "options": [
+            "Core i11",
+            "Core i7",
+            "Core i9",
+            "Core i3"
+        ],
+        "answer": "Core i11"
+    },
+    {
+        "question": "Which processor is commonly found in gaming consoles?",
+        "options": [
+            "AMD Ryzen",
+            "Intel Xeon",
+            "Qualcomm Snapdragon",
+            "Intel Pentium"
+        ],
+        "answer": "AMD Ryzen"
+    },
+    {
+        "question": "Which of the following best describes parallel processing?",
+        "options": [
+            "Executing multiple tasks simultaneously",
+            "Executing one task at a time",
+            "Processing data sequentially",
+            "Using only one core"
+        ],
+        "answer": "Executing multiple tasks simultaneously"
+    },
+    {
+        "question": "Which type of processing is used in cloud computing for handling large-scale tasks?",
+        "options": [
+            "Distributed Processing",
+            "Batch Processing",
+            "Single-thread Processing",
+            "Manual Processing"
+        ],
+        "answer": "Distributed Processing"
+    },
+    {
+        "question": "Which of the following is an advantage of multi-core processors?",
+        "options": [
+            "Improved multitasking performance",
+            "Lower electricity consumption",
+            "Reduced need for RAM",
+            "Decreased processing speed"
+        ],
+        "answer": "Improved multitasking performance"
+    },
+    {
+        "question": "Which company manufactures the M-series processors used in Apple devices?",
+        "options": [
+            "Apple",
+            "Intel",
+            "AMD",
+            "NVIDIA"
+        ],
+        "answer": "Apple"
+    },
+    {
+        "question": "Which type of processor is most suitable for high-performance computing (HPC)?",
+        "options": [
+            "Multi-core processors",
+            "Single-core processors",
+            "Embedded processors",
+            "Microcontrollers"
+        ],
+        "answer": "Multi-core processors"
+    },
+    {
+        "question": "Which feature allows ARM processors to consume less power?",
+        "options": [
+            "RISC architecture",
+            "CISC architecture",
+            "Multi-threading",
+            "Overclocking"
+        ],
+        "answer": "RISC architecture"
+    },
+    {
+        "question": "Which of the following is a distributed computing platform developed by Google?",
+        "options": [
+            "TensorFlow",
+            "PyTorch",
+            "OpenCL",
+            "CUDA"
+        ],
+        "answer": "TensorFlow"
+    },
+    {
+        "question": "What is the primary goal of distributed processing?",
+        "options": [
+            "To divide tasks among multiple systems",
+            "To speed up a single-core CPU",
+            "To reduce storage usage",
+            "To increase electricity consumption"
+        ],
+        "answer": "To divide tasks among multiple systems"
+    },
+    {
+        "question": "Which processor technology is widely used in smartphones?",
+        "options": [
+            "ARM",
+            "x86",
+            "POWER",
+            "TPU"
+        ],
+        "answer": "ARM"
+    },
+    {
+        "question": "Which processor brand is known for its efficiency in high-performance gaming?",
+        "options": [
+            "AMD",
+            "Intel",
+            "ARM",
+            "Qualcomm"
+        ],
+        "answer": "AMD"
+    },
+    {
+        "question": "Which processor is known for accelerating AI computations?",
+        "options": [
+            "TPU",
+            "CPU",
+            "Pentium",
+            "Core i3"
+        ],
+        "answer": "TPU"
+    },
+    {
+        "question": "Which of the following is a feature of modern Intel processors?",
+        "options": [
+            "Hyper-Threading",
+            "Low clock speed",
+            "Single-core architecture",
+            "RISC-based processing"
+        ],
+        "answer": "Hyper-Threading"
+    },
+    {
+        "question": "What does HPC stand for?",
+        "options": [
+            "High-Performance Computing",
+            "Hybrid Processing Core",
+            "Hyper Parallel Computing",
+            "Hardware Processing Chip"
+        ],
+        "answer": "High-Performance Computing"
+    },
+    {
+        "question": "Which of the following is NOT a component of a processor?",
+        "options": [
+            "Hard disk",
+            "Cache",
+            "Control unit",
+            "Arithmetic Logic Unit (ALU)"
+        ],
+        "answer": "Hard disk"
+    },
+    {
+        "question": "What is the full form of CPU?",
+        "options": [
+            "Central Processing Unit",
+            "Computer Processing Unit",
+            "Core Processing Unit",
+            "Central Peripheral Unit"
+        ],
+        "answer": "Central Processing Unit"
+    },
+    {
+        "question": "Which processor brand is commonly found in Apple MacBooks?",
+        "options": [
+            "M-series",
+            "Intel Core",
+            "AMD Ryzen",
+            "Qualcomm Snapdragon"
+        ],
+        "answer": "M-series"
+    },
+    {
+        "question": "Which type of processor is best for high-end gaming?",
+        "options": [
+            "Multi-core processor",
+            "Single-core processor",
+            "Embedded processor",
+            "Microcontroller"
+        ],
+        "answer": "Multi-core processor"
+    },
+    {
+        "question": "Which Intel processor series is designed for power efficiency?",
+        "options": [
+            "Atom",
+            "Core i9",
+            "Xeon",
+            "Pentium"
+        ],
+        "answer": "Atom"
+    },
+    {
+        "question": "What is the main purpose of a GPU?",
+        "options": [
+            "Graphics rendering",
+            "Managing network traffic",
+            "Processing audio signals",
+            "Controlling power supply"
+        ],
+        "answer": "Graphics rendering"
+    },
+    {
+        "question": "Which processor architecture is used in supercomputers?",
+        "options": [
+            "POWER",
+            "ARM",
+            "x86",
+            "RISC-V"
+        ],
+        "answer": "POWER"
+    },
+    {
+        "question": "What is the main advantage of a multi-core processor?",
+        "options": [
+            "Better multitasking",
+            "Increased battery consumption",
+            "Larger physical size",
+            "Lower clock speed"
+        ],
+        "answer": "Better multitasking"
+    },
+    {
+        "question": "Which processor series is commonly used in data centers?",
+        "options": [
+            "Intel Xeon",
+            "Intel Core i5",
+            "AMD Ryzen",
+            "Qualcomm Snapdragon"
+        ],
+        "answer": "Intel Xeon"
+    },
+    {
+        "question": "What does GPU stand for?",
+        "options": [
+            "Graphics Processing Unit",
+            "General Processing Unit",
+            "Gaming Processing Unit",
+            "Global Processing Unit"
+        ],
+        "answer": "Graphics Processing Unit"
+    },
+    {
+        "question": "Which of the following is a major competitor to Intel in the processor market?",
+        "options": [
+            "AMD",
+            "Google",
+            "Microsoft",
+            "Cisco"
+        ],
+        "answer": "AMD"
+    },
+    {
+        "question": "Which processor architecture is commonly used in embedded systems?",
+        "options": [
+            "ARM",
+            "x86",
+            "CISC",
+            "POWER"
+        ],
+        "answer": "ARM"
+    },
+    {
+        "question": "Which processor type is optimized for handling AI workloads?",
+        "options": [
+            "TPU",
+            "CPU",
+            "Embedded Processor",
+            "Microcontroller"
+        ],
+        "answer": "TPU"
+    },
+    {
+        "question": "Which of the following is NOT a processor manufacturer?",
+        "options": [
+            "Cisco",
+            "Intel",
+            "AMD",
+            "Qualcomm"
+        ],
+        "answer": "Cisco"
+    },
+    {
+        "question": "Which company produces Snapdragon processors?",
+        "options": [
+            "Qualcomm",
+            "Intel",
+            "AMD",
+            "Apple"
+        ],
+        "answer": "Qualcomm"
+    },
+    {
+        "question": "Which of the following processors is designed for cloud computing?",
+        "options": [
+            "Amazon Graviton",
+            "Intel Pentium",
+            "AMD Athlon",
+            "IBM PowerPC"
+        ],
+        "answer": "Amazon Graviton"
+    },
+    {
+        "question": "What is the primary function of a CPU cache?",
+        "options": [
+            "Speed up data access",
+            "Store permanent files",
+            "Enhance internet connectivity",
+            "Control peripherals"
+        ],
+        "answer": "Speed up data access"
+    },
+    {
+        "question": "Which of the following is an example of a RISC processor?",
+        "options": [
+            "ARM Cortex",
+            "Intel Core i7",
+            "AMD Ryzen",
+            "Intel Pentium"
+        ],
+        "answer": "ARM Cortex"
+    },
+    {
+        "question": "Which processor is designed specifically for deep learning and AI?",
+        "options": [
+            "TPU",
+            "GPU",
+            "CPU",
+            "Intel Core i9"
+        ],
+        "answer": "TPU"
+    },
+    {
+        "question": "Which of the following is NOT a feature of modern processors?",
+        "options": [
+            "Vacuum tubes",
+            "Hyper-threading",
+            "Multi-core technology",
+            "Integrated graphics"
+        ],
+        "answer": "Vacuum tubes"
+    },
+    {
+        "question": "Which processor type is mainly used in IoT devices?",
+        "options": [
+            "ARM-based processors",
+            "Intel Core i9",
+            "AMD Threadripper",
+            "IBM POWER"
+        ],
+        "answer": "ARM-based processors"
+    },
+    {
+        "question": "Which Intel series is best suited for gaming?",
+        "options": [
+            "Core i9",
+            "Atom",
+            "Xeon",
+            "Pentium"
+        ],
+        "answer": "Core i9"
+    },
+    {
+        "question": "Which of the following is an example of a server processor?",
+        "options": [
+            "AMD EPYC",
+            "Intel Pentium",
+            "AMD Ryzen 5",
+            "Intel Atom"
+        ],
+        "answer": "AMD EPYC"
+    },
+    {
+        "question": "What is the primary purpose of pipelining in processors?",
+        "options": [
+            "Improve execution speed",
+            "Increase storage capacity",
+            "Enhance graphics performance",
+            "Reduce power consumption"
+        ],
+        "answer": "Improve execution speed"
+    },
+    {
+        "question": "Which processor brand is used in most Android smartphones?",
+        "options": [
+            "Qualcomm Snapdragon",
+            "Intel Xeon",
+            "AMD Ryzen",
+            "Apple M1"
+        ],
+        "answer": "Qualcomm Snapdragon"
+    },
+    {
+        "question": "Which processor is known for handling real-time applications?",
+        "options": [
+            "DSP (Digital Signal Processor)",
+            "Intel Core i3",
+            "AMD Ryzen 7",
+            "IBM POWER"
+        ],
+        "answer": "DSP (Digital Signal Processor)"
+    },
+    {
+        "question": "Which of the following is a key benefit of parallel processing?",
+        "options": [
+            "Faster task execution",
+            "Lower storage usage",
+            "Reduced battery consumption",
+            "Lower heat generation"
+        ],
+        "answer": "Faster task execution"
+    },
+    {
+        "question": "Which processor feature allows for executing multiple instructions at once?",
+        "options": [
+            "Hyper-threading",
+            "Overclocking",
+            "Undervolting",
+            "Virtualization"
+        ],
+        "answer": "Hyper-threading"
+    },
+    {
+        "question": "Which technology is used to connect GPUs for high-speed communication?",
+        "options": [
+            "NVLink",
+            "PCIe",
+            "USB",
+            "SATA"
+        ],
+        "answer": "NVLink"
+    },
+    {
+        "question": "Which of the following is a key feature of the latest Intel processors?",
+        "options": [
+            "AI acceleration",
+            "Single-core processing",
+            "Vacuum tube technology",
+            "Low-speed execution"
+        ],
+        "answer": "AI acceleration"
+    }
+]

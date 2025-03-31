@@ -1,0 +1,5042 @@
+[
+    {
+        "question": "What is the primary purpose of a data center?",
+        "options": [
+            "Hosting IT infrastructure",
+            "Cooling electronic devices",
+            "Power distribution",
+            "Networking only"
+        ],
+        "answer": "Hosting IT infrastructure"
+    },
+    {
+        "question": "Which factor is critical in determining the data center's cooling requirement?",
+        "options": [
+            "Server load",
+            "Power consumption",
+            "Cabinet density",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the ideal temperature range for a data center?",
+        "options": [
+            "10-15°C",
+            "18-27°C",
+            "30-40°C",
+            "5-10°C"
+        ],
+        "answer": "18-27°C"
+    },
+    {
+        "question": "Which component is responsible for power distribution in a data center?",
+        "options": [
+            "Cooling units",
+            "Power Distribution Unit (PDU)",
+            "Fiber cables",
+            "Network switches"
+        ],
+        "answer": "Power Distribution Unit (PDU)"
+    },
+    {
+        "question": "What is the main purpose of a raised floor in a data center?",
+        "options": [
+            "Better airflow management",
+            "Providing additional space",
+            "Aesthetic purposes",
+            "Improving security"
+        ],
+        "answer": "Better airflow management"
+    },
+    {
+        "question": "Which type of cable management reduces interference in high-speed data centers?",
+        "options": [
+            "Twisted pair cables",
+            "Unshielded cables",
+            "Fiber optic cables",
+            "Coaxial cables"
+        ],
+        "answer": "Fiber optic cables"
+    },
+    {
+        "question": "What does UPS stand for in a data center?",
+        "options": [
+            "Unified Power Supply",
+            "Uninterrupted Power Supply",
+            "Universal Processing System",
+            "Unshielded Power Source"
+        ],
+        "answer": "Uninterrupted Power Supply"
+    },
+    {
+        "question": "Which cooling method is commonly used in high-density data centers?",
+        "options": [
+            "Air cooling",
+            "Water cooling",
+            "Fan cooling",
+            "Solar cooling"
+        ],
+        "answer": "Water cooling"
+    },
+    {
+        "question": "Which strategy helps in improving data center efficiency?",
+        "options": [
+            "Overloading racks",
+            "Using modular designs",
+            "Reducing power backup",
+            "Removing airflow containment"
+        ],
+        "answer": "Using modular designs"
+    },
+    {
+        "question": "What is the function of a fire suppression system in a data center?",
+        "options": [
+            "Data backup",
+            "Preventing power surges",
+            "Controlling temperature",
+            "Extinguishing fire without damaging equipment"
+        ],
+        "answer": "Extinguishing fire without damaging equipment"
+    },
+    {
+        "question": "Which of the following is a common standard for data center design?",
+        "options": [
+            "ISO 27001",
+            "Tier Classification by Uptime Institute",
+            "IEEE 802.3",
+            "ITIL"
+        ],
+        "answer": "Tier Classification by Uptime Institute"
+    },
+    {
+        "question": "Which of the following is a major challenge in data center power management?",
+        "options": [
+            "Low energy consumption",
+            "Power outages",
+            "Lack of cabling",
+            "Absence of storage"
+        ],
+        "answer": "Power outages"
+    },
+    {
+        "question": "Why is redundancy important in data center design?",
+        "options": [
+            "To improve aesthetics",
+            "To prevent single points of failure",
+            "To reduce cost",
+            "To increase complexity"
+        ],
+        "answer": "To prevent single points of failure"
+    },
+    {
+        "question": "Which type of rack arrangement is used for efficient cooling in data centers?",
+        "options": [
+            "Horizontal stacking",
+            "Vertical stacking",
+            "Hot aisle/cold aisle",
+            "Random placement"
+        ],
+        "answer": "Hot aisle/cold aisle"
+    },
+    {
+        "question": "What is the primary function of a data center’s environmental monitoring system?",
+        "options": [
+            "Detecting cyber threats",
+            "Measuring power efficiency",
+            "Monitoring temperature, humidity, and air quality",
+            "Controlling network traffic"
+        ],
+        "answer": "Monitoring temperature, humidity, and air quality"
+    },
+    {
+        "question": "Which power distribution method helps maintain continuous uptime in a data center?",
+        "options": [
+            "Single power supply",
+            "Dual power supply",
+            "Direct power feed",
+            "Solar power only"
+        ],
+        "answer": "Dual power supply"
+    },
+    {
+        "question": "Which data center standard classifies facilities based on redundancy and uptime?",
+        "options": [
+            "ISO 9001",
+            "TIA-942",
+            "PCI DSS",
+            "GDPR"
+        ],
+        "answer": "TIA-942"
+    },
+    {
+        "question": "What is the key benefit of liquid cooling in data centers?",
+        "options": [
+            "Lower energy efficiency",
+            "Higher cost",
+            "Better heat dissipation",
+            "Reduced airflow"
+        ],
+        "answer": "Better heat dissipation"
+    },
+    {
+        "question": "Which of the following can be used for power backup in a data center?",
+        "options": [
+            "Capacitors",
+            "Diesel generators",
+            "Transformers",
+            "Heat sinks"
+        ],
+        "answer": "Diesel generators"
+    },
+    {
+        "question": "Which protocol is commonly used for monitoring data center network traffic?",
+        "options": [
+            "SNMP",
+            "SMTP",
+            "FTP",
+            "HTTP"
+        ],
+        "answer": "SNMP"
+    },
+    {
+        "question": "Which is the most energy-efficient server deployment strategy?",
+        "options": [
+            "High-density deployment",
+            "Low-density deployment",
+            "Distributed servers",
+            "Unstructured deployment"
+        ],
+        "answer": "High-density deployment"
+    },
+    {
+        "question": "Which data center cooling technology uses outside air for cooling?",
+        "options": [
+            "Chilled water cooling",
+            "Free air cooling",
+            "Liquid immersion cooling",
+            "Heat pipe cooling"
+        ],
+        "answer": "Free air cooling"
+    },
+    {
+        "question": "Which device connects multiple data center networks?",
+        "options": [
+            "Firewall",
+            "Load balancer",
+            "Router",
+            "UPS"
+        ],
+        "answer": "Router"
+    },
+    {
+        "question": "What is the purpose of a data center asset management system?",
+        "options": [
+            "Track and manage IT resources",
+            "Monitor security threats",
+            "Improve cooling efficiency",
+            "Reduce internet speed"
+        ],
+        "answer": "Track and manage IT resources"
+    },
+    {
+        "question": "What does PUE stand for in data center efficiency measurement?",
+        "options": [
+            "Power Usage Effectiveness",
+            "Power Unit Efficiency",
+            "Processing Unit Energy",
+            "Physical Utilization Estimation"
+        ],
+        "answer": "Power Usage Effectiveness"
+    },
+    {
+        "question": "Which factor is crucial when planning a data center's location?",
+        "options": [
+            "Proximity to water sources",
+            "Internet speed",
+            "Geographical risks like earthquakes",
+            "The number of employees"
+        ],
+        "answer": "Geographical risks like earthquakes"
+    },
+    {
+        "question": "Which method is used to measure cooling efficiency in a data center?",
+        "options": [
+            "Thermal imaging",
+            "Cooling Density Factor (CDF)",
+            "Power Distribution Factor",
+            "Load Balancing Index"
+        ],
+        "answer": "Cooling Density Factor (CDF)"
+    },
+    {
+        "question": "What is the main goal of a data center?",
+        "options": [
+            "To store and manage data",
+            "To generate electricity",
+            "To create software applications",
+            "To manufacture hardware"
+        ],
+        "answer": "To store and manage data"
+    },
+    {
+        "question": "Which of the following is NOT a key component of a data center?",
+        "options": [
+            "Servers",
+            "Networking devices",
+            "Cooling systems",
+            "Smartphones"
+        ],
+        "answer": "Smartphones"
+    },
+    {
+        "question": "Which type of rack is used in data centers to house multiple servers?",
+        "options": [
+            "Bookshelf rack",
+            "Open frame rack",
+            "Server rack",
+            "Cooling rack"
+        ],
+        "answer": "Server rack"
+    },
+    {
+        "question": "Which type of power backup is commonly used in data centers?",
+        "options": [
+            "Wind turbines",
+            "Solar panels",
+            "UPS and generators",
+            "Hydroelectric plants"
+        ],
+        "answer": "UPS and generators"
+    },
+    {
+        "question": "Which of the following is a key factor for an efficient data center layout?",
+        "options": [
+            "Random placement of servers",
+            "Organized cable management",
+            "Keeping all servers together in one spot",
+            "Eliminating cooling systems"
+        ],
+        "answer": "Organized cable management"
+    },
+    {
+        "question": "Why is proper cooling important in a data center?",
+        "options": [
+            "To reduce power consumption",
+            "To prevent hardware from overheating",
+            "To increase internet speed",
+            "To make the room more comfortable"
+        ],
+        "answer": "To prevent hardware from overheating"
+    },
+    {
+        "question": "Which metric measures the efficiency of a data center?",
+        "options": [
+            "CPU Speed",
+            "PUE (Power Usage Effectiveness)",
+            "RAM Size",
+            "Cooling Wattage"
+        ],
+        "answer": "PUE (Power Usage Effectiveness)"
+    },
+    {
+        "question": "What is the purpose of a raised floor in a data center?",
+        "options": [
+            "To create storage space",
+            "To improve airflow and cooling",
+            "To increase server height",
+            "To reduce security risks"
+        ],
+        "answer": "To improve airflow and cooling"
+    },
+    {
+        "question": "Which of the following is a common networking device in data centers?",
+        "options": [
+            "Smartphone",
+            "Router",
+            "Vacuum cleaner",
+            "Keyboard"
+        ],
+        "answer": "Router"
+    },
+    {
+        "question": "Which protocol is used to monitor network performance in a data center?",
+        "options": [
+            "HTTP",
+            "SMTP",
+            "SNMP",
+            "DNS"
+        ],
+        "answer": "SNMP"
+    },
+    {
+        "question": "What does DCIM stand for in data center management?",
+        "options": [
+            "Data Center Infrastructure Management",
+            "Data Communication and Internet Management",
+            "Direct Cooling Integration Method",
+            "Distributed Computing Integration Model"
+        ],
+        "answer": "Data Center Infrastructure Management"
+    },
+    {
+        "question": "Which energy source is commonly used for data center backup power?",
+        "options": [
+            "Batteries",
+            "Diesel Generators",
+            "Solar Panels",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is an important security measure in a data center?",
+        "options": [
+            "Firewall installation",
+            "Data encryption",
+            "Access control",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which part of a data center distributes power to racks?",
+        "options": [
+            "Cooling system",
+            "Power Distribution Unit (PDU)",
+            "Network switch",
+            "Firewall"
+        ],
+        "answer": "Power Distribution Unit (PDU)"
+    },
+    {
+        "question": "What is the function of biometric authentication in data centers?",
+        "options": [
+            "Enhancing physical security",
+            "Speeding up network performance",
+            "Reducing storage costs",
+            "Improving cooling efficiency"
+        ],
+        "answer": "Enhancing physical security"
+    },
+    {
+        "question": "Which of the following helps in disaster recovery for data centers?",
+        "options": [
+            "Regular backups",
+            "Using outdated hardware",
+            "Reducing internet speed",
+            "Ignoring cybersecurity threats"
+        ],
+        "answer": "Regular backups"
+    },
+    {
+        "question": "Which fire suppression method is safest for IT equipment in data centers?",
+        "options": [
+            "Water sprinklers",
+            "Gas-based suppression systems",
+            "Foam extinguishers",
+            "Sand application"
+        ],
+        "answer": "Gas-based suppression systems"
+    },
+    {
+        "question": "What is the function of a load balancer in a data center?",
+        "options": [
+            "Regulating power supply",
+            "Managing airflow",
+            "Distributing network traffic evenly",
+            "Cooling servers"
+        ],
+        "answer": "Distributing network traffic evenly"
+    },
+    {
+        "question": "What is an important factor for choosing a data center location?",
+        "options": [
+            "Proximity to users",
+            "Risk of natural disasters",
+            "Availability of power and internet",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is a common method for improving energy efficiency in data centers?",
+        "options": [
+            "Virtualization",
+            "Keeping servers at maximum load always",
+            "Turning off backup systems",
+            "Running outdated equipment"
+        ],
+        "answer": "Virtualization"
+    },
+    {
+        "question": "What does a network firewall do in a data center?",
+        "options": [
+            "Improves server performance",
+            "Blocks unauthorized access",
+            "Cools the servers",
+            "Increases storage capacity"
+        ],
+        "answer": "Blocks unauthorized access"
+    },
+    {
+        "question": "What does redundancy in a data center help prevent?",
+        "options": [
+            "Increased power usage",
+            "Single points of failure",
+            "Faster internet speed",
+            "Lower cooling efficiency"
+        ],
+        "answer": "Single points of failure"
+    },
+    {
+        "question": "Which type of cooling system directly immerses servers in a non-conductive liquid?",
+        "options": [
+            "Air cooling",
+            "Water cooling",
+            "Liquid immersion cooling",
+            "Fan cooling"
+        ],
+        "answer": "Liquid immersion cooling"
+    },
+    {
+        "question": "Which data center standard is used for reliability classification?",
+        "options": [
+            "PCI DSS",
+            "Uptime Institute Tier Classification",
+            "GDPR",
+            "IEEE 802.3"
+        ],
+        "answer": "Uptime Institute Tier Classification"
+    },
+    {
+        "question": "What is a major challenge of data center management?",
+        "options": [
+            "High energy consumption",
+            "Too much free space",
+            "Low internet speed",
+            "Lack of computing resources"
+        ],
+        "answer": "High energy consumption"
+    },
+    {
+        "question": "Which device manages multiple servers and assigns tasks dynamically?",
+        "options": [
+            "Router",
+            "Load balancer",
+            "Power supply",
+            "Fan unit"
+        ],
+        "answer": "Load balancer"
+    },
+    {
+        "question": "Which data center strategy helps reduce downtime?",
+        "options": [
+            "Using multiple redundant systems",
+            "Running all servers at full capacity",
+            "Limiting security measures",
+            "Disabling backups"
+        ],
+        "answer": "Using multiple redundant systems"
+    },
+    {
+        "question": "What is a major security risk in data centers?",
+        "options": [
+            "Unauthorized access",
+            "Low cooling efficiency",
+            "High internet speed",
+            "Using virtualization"
+        ],
+        "answer": "Unauthorized access"
+    },
+    {
+        "question": "Which protocol helps monitor server health and network performance?",
+        "options": [
+            "ICMP",
+            "SNMP",
+            "FTP",
+            "SMTP"
+        ],
+        "answer": "SNMP"
+    },
+    {
+        "question": "What is the primary function of a data center?",
+        "options": [
+            "To store and process data",
+            "To generate electricity",
+            "To manufacture servers",
+            "To increase internet speed"
+        ],
+        "answer": "To store and process data"
+    },
+    {
+        "question": "Which component is crucial for data center networking?",
+        "options": [
+            "Monitor",
+            "Switch",
+            "Printer",
+            "Webcam"
+        ],
+        "answer": "Switch"
+    },
+    {
+        "question": "What does PDU stand for in a data center?",
+        "options": [
+            "Power Distribution Unit",
+            "Processor Data Unit",
+            "Performance Data Utility",
+            "Packet Delivery Unit"
+        ],
+        "answer": "Power Distribution Unit"
+    },
+    {
+        "question": "Which of the following helps in data center disaster recovery?",
+        "options": [
+            "Regular backups",
+            "Single power source",
+            "Manual cooling systems",
+            "Unsecured networks"
+        ],
+        "answer": "Regular backups"
+    },
+    {
+        "question": "What is the main advantage of using cloud data centers?",
+        "options": [
+            "Lower maintenance cost",
+            "Limited accessibility",
+            "Higher downtime",
+            "Only for small businesses"
+        ],
+        "answer": "Lower maintenance cost"
+    },
+    {
+        "question": "Which term describes maintaining multiple copies of data for safety?",
+        "options": [
+            "Redundancy",
+            "Latency",
+            "Virtualization",
+            "Clustering"
+        ],
+        "answer": "Redundancy"
+    },
+    {
+        "question": "What is the function of a UPS in a data center?",
+        "options": [
+            "To provide backup power",
+            "To cool the servers",
+            "To increase storage space",
+            "To boost network speed"
+        ],
+        "answer": "To provide backup power"
+    },
+    {
+        "question": "Which of the following is NOT a data center security measure?",
+        "options": [
+            "Firewall",
+            "Biometric authentication",
+            "Unrestricted physical access",
+            "CCTV surveillance"
+        ],
+        "answer": "Unrestricted physical access"
+    },
+    {
+        "question": "What is the purpose of server virtualization?",
+        "options": [
+            "Reduce hardware dependency",
+            "Increase power consumption",
+            "Limit access to data",
+            "Lower internet speed"
+        ],
+        "answer": "Reduce hardware dependency"
+    },
+    {
+        "question": "Which data center cooling technique uses outside air?",
+        "options": [
+            "Liquid cooling",
+            "Chilled water cooling",
+            "Air economization",
+            "Heat sinks"
+        ],
+        "answer": "Air economization"
+    },
+    {
+        "question": "What does N+1 redundancy mean in data centers?",
+        "options": [
+            "Having one extra backup unit",
+            "One server per network",
+            "Only one cooling system",
+            "One power source per rack"
+        ],
+        "answer": "Having one extra backup unit"
+    },
+    {
+        "question": "Which of the following is a Tier 4 data center feature?",
+        "options": [
+            "Minimal redundancy",
+            "24/7 uptime guarantee",
+            "No cooling system",
+            "Single power source"
+        ],
+        "answer": "24/7 uptime guarantee"
+    },
+    {
+        "question": "What is an important requirement for cable management in data centers?",
+        "options": [
+            "Proper labeling",
+            "Tangled wires",
+            "Open-ended connections",
+            "Unprotected cables"
+        ],
+        "answer": "Proper labeling"
+    },
+    {
+        "question": "Which of these is a security risk for data centers?",
+        "options": [
+            "Unauthorized access",
+            "Proper cooling",
+            "Regular maintenance",
+            "Redundant backups"
+        ],
+        "answer": "Unauthorized access"
+    },
+    {
+        "question": "Which network topology is commonly used in data centers?",
+        "options": [
+            "Star",
+            "Ring",
+            "Bus",
+            "Mesh"
+        ],
+        "answer": "Star"
+    },
+    {
+        "question": "What is the function of a network switch in a data center?",
+        "options": [
+            "Directs data packets between devices",
+            "Cools down the servers",
+            "Increases power supply",
+            "Reduces storage capacity"
+        ],
+        "answer": "Directs data packets between devices"
+    },
+    {
+        "question": "Which protocol is used for remote server management?",
+        "options": [
+            "RDP",
+            "HTTP",
+            "FTP",
+            "SMTP"
+        ],
+        "answer": "RDP"
+    },
+    {
+        "question": "Which of the following is an advantage of modular data centers?",
+        "options": [
+            "Scalability",
+            "High cost",
+            "Fixed size",
+            "No cooling required"
+        ],
+        "answer": "Scalability"
+    },
+    {
+        "question": "What is the role of a firewall in a data center?",
+        "options": [
+            "To filter network traffic",
+            "To store data",
+            "To manage cooling",
+            "To distribute power"
+        ],
+        "answer": "To filter network traffic"
+    },
+    {
+        "question": "Which of the following is a common metric for measuring energy efficiency?",
+        "options": [
+            "PUE",
+            "IP address",
+            "Bandwidth",
+            "MTBF"
+        ],
+        "answer": "PUE"
+    },
+    {
+        "question": "Why is multi-factor authentication used in data centers?",
+        "options": [
+            "To enhance security",
+            "To slow down access",
+            "To increase redundancy",
+            "To reduce cooling costs"
+        ],
+        "answer": "To enhance security"
+    },
+    {
+        "question": "Which device is responsible for routing traffic between different networks in a data center?",
+        "options": [
+            "Router",
+            "Load balancer",
+            "Power supply",
+            "Server"
+        ],
+        "answer": "Router"
+    },
+    {
+        "question": "What is an essential feature of a high-availability data center?",
+        "options": [
+            "Redundant power supplies",
+            "Single cooling unit",
+            "Only one data backup",
+            "No physical security"
+        ],
+        "answer": "Redundant power supplies"
+    },
+    {
+        "question": "Which of the following is an example of a public cloud service?",
+        "options": [
+            "AWS",
+            "Local data center",
+            "Personal laptop",
+            "Office server room"
+        ],
+        "answer": "AWS"
+    },
+    {
+        "question": "Which security measure helps prevent unauthorized access?",
+        "options": [
+            "Role-based access control",
+            "Disabling firewalls",
+            "Leaving doors open",
+            "Sharing passwords"
+        ],
+        "answer": "Role-based access control"
+    },
+    {
+        "question": "Which energy source is often used for backup power in data centers?",
+        "options": [
+            "Diesel generators",
+            "Wind turbines",
+            "Bicycle power",
+            "Hydro power"
+        ],
+        "answer": "Diesel generators"
+    },
+    {
+        "question": "What is a common cause of overheating in data centers?",
+        "options": [
+            "Poor airflow management",
+            "High-quality cooling systems",
+            "Regular maintenance",
+            "Efficient cable organization"
+        ],
+        "answer": "Poor airflow management"
+    },
+    {
+        "question": "Which component is essential for high-speed data transfer in data centers?",
+        "options": [
+            "Fiber-optic cables",
+            "Copper wires",
+            "Coaxial cables",
+            "Plastic tubing"
+        ],
+        "answer": "Fiber-optic cables"
+    },
+    {
+        "question": "What does DR (Disaster Recovery) focus on in a data center?",
+        "options": [
+            "Restoring operations after failures",
+            "Increasing cooling efficiency",
+            "Boosting network speed",
+            "Reducing power usage"
+        ],
+        "answer": "Restoring operations after failures"
+    },
+    {
+        "question": "Which of the following helps in optimizing storage space?",
+        "options": [
+            "Deduplication",
+            "Overloading servers",
+            "Disabling backups",
+            "Increasing redundancy"
+        ],
+        "answer": "Deduplication"
+    },
+    {
+        "question": "What does latency refer to in networking?",
+        "options": [
+            "Delay in data transmission",
+            "Increase in bandwidth",
+            "Reduction in power usage",
+            "Higher cooling requirements"
+        ],
+        "answer": "Delay in data transmission"
+    },
+    {
+        "question": "Which of these helps monitor data center performance?",
+        "options": [
+            "DCIM tools",
+            "Random inspections",
+            "Manual logging",
+            "None of the above"
+        ],
+        "answer": "DCIM tools"
+    },
+    {
+        "question": "Which cooling method directly removes heat from server components using liquid?",
+        "options": [
+            "Air cooling",
+            "Liquid cooling",
+            "Heat sinks",
+            "Natural ventilation"
+        ],
+        "answer": "Liquid cooling"
+    },
+    {
+        "question": "Which cooling method uses chilled air to cool data center servers?",
+        "options": [
+            "Liquid cooling",
+            "Air cooling",
+            "Water immersion",
+            "Oil-based cooling"
+        ],
+        "answer": "Air cooling"
+    },
+    {
+        "question": "What does PUE stand for in data centers?",
+        "options": [
+            "Power Usage Effectiveness",
+            "Processing Unit Efficiency",
+            "Performance Utilization Estimate",
+            "Power Unit Evaluation"
+        ],
+        "answer": "Power Usage Effectiveness"
+    },
+    {
+        "question": "What is a common way to reuse heat generated in data centers?",
+        "options": [
+            "District heating",
+            "Server overclocking",
+            "Increasing airflow",
+            "Removing insulation"
+        ],
+        "answer": "District heating"
+    },
+    {
+        "question": "Which system is commonly used for fire protection in data centers?",
+        "options": [
+            "Water sprinklers",
+            "Gas-based suppression",
+            "Firewood barriers",
+            "Ice-based cooling"
+        ],
+        "answer": "Gas-based suppression"
+    },
+    {
+        "question": "Which metric is used to measure data center cooling efficiency?",
+        "options": [
+            "Cooling Load Factor (CLF)",
+            "Power Factor",
+            "Mean Time Between Failures (MTBF)",
+            "Bandwidth Utilization"
+        ],
+        "answer": "Cooling Load Factor (CLF)"
+    },
+    {
+        "question": "Which type of cooling circulates chilled liquid around components?",
+        "options": [
+            "Direct-to-chip cooling",
+            "Fan-based cooling",
+            "Passive cooling",
+            "Air economization"
+        ],
+        "answer": "Direct-to-chip cooling"
+    },
+    {
+        "question": "What is a benefit of liquid cooling over air cooling?",
+        "options": [
+            "Higher efficiency",
+            "Lower power consumption",
+            "Better heat dissipation",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What type of air cooling layout separates cold and hot air in data centers?",
+        "options": [
+            "Hot aisle/cold aisle",
+            "Vertical cooling",
+            "Side rack cooling",
+            "Cross-flow cooling"
+        ],
+        "answer": "Hot aisle/cold aisle"
+    },
+    {
+        "question": "Which energy-efficient practice reduces the need for artificial cooling?",
+        "options": [
+            "Free cooling",
+            "Overclocking CPUs",
+            "Using old hardware",
+            "Running servers at high temperatures"
+        ],
+        "answer": "Free cooling"
+    },
+    {
+        "question": "What is a key advantage of immersion cooling?",
+        "options": [
+            "No fans required",
+            "Lower noise",
+            "Better thermal conductivity",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following is a best practice for data center security?",
+        "options": [
+            "Biometric access control",
+            "Leaving doors unlocked",
+            "Allowing open access",
+            "Disabling firewalls"
+        ],
+        "answer": "Biometric access control"
+    },
+    {
+        "question": "What is the primary function of data center humidity control?",
+        "options": [
+            "Preventing electrostatic discharge",
+            "Reducing cooling costs",
+            "Increasing power efficiency",
+            "Enhancing bandwidth"
+        ],
+        "answer": "Preventing electrostatic discharge"
+    },
+    {
+        "question": "Which fire suppression system is most suitable for protecting electrical equipment?",
+        "options": [
+            "FM-200",
+            "Water sprinklers",
+            "Dry powder",
+            "CO2 extinguishers"
+        ],
+        "answer": "FM-200"
+    },
+    {
+        "question": "Which of the following is NOT a method of heat rejection in data centers?",
+        "options": [
+            "Evaporative cooling",
+            "Water cooling",
+            "Liquid nitrogen freezing",
+            "Heat exchangers"
+        ],
+        "answer": "Liquid nitrogen freezing"
+    },
+    {
+        "question": "What is the purpose of a CRAC unit in data centers?",
+        "options": [
+            "Cooling the environment",
+            "Increasing power efficiency",
+            "Enhancing data security",
+            "Improving storage"
+        ],
+        "answer": "Cooling the environment"
+    },
+    {
+        "question": "Which factor is most important for data center fire protection?",
+        "options": [
+            "Early detection",
+            "Water-based suppression",
+            "Use of wood structures",
+            "Open-air ventilation"
+        ],
+        "answer": "Early detection"
+    },
+    {
+        "question": "Which practice improves airflow efficiency in a data center?",
+        "options": [
+            "Raised floor design",
+            "Blocking vents",
+            "Overloading power supplies",
+            "Leaving cables disorganized"
+        ],
+        "answer": "Raised floor design"
+    },
+    {
+        "question": "What is a key advantage of using renewable energy in data centers?",
+        "options": [
+            "Lower environmental impact",
+            "Higher cooling costs",
+            "Decreased security",
+            "Increased maintenance"
+        ],
+        "answer": "Lower environmental impact"
+    },
+    {
+        "question": "Which system monitors temperature, humidity, and energy use in data centers?",
+        "options": [
+            "DCIM",
+            "CMOS",
+            "RDBMS",
+            "SMTP"
+        ],
+        "answer": "DCIM"
+    },
+    {
+        "question": "What is a major disadvantage of poor cable management?",
+        "options": [
+            "Restricted airflow",
+            "Increased latency",
+            "Higher bandwidth",
+            "Lower power consumption"
+        ],
+        "answer": "Restricted airflow"
+    },
+    {
+        "question": "What is the function of a cooling tower in data centers?",
+        "options": [
+            "Heat rejection",
+            "Power distribution",
+            "Data storage",
+            "Firewall protection"
+        ],
+        "answer": "Heat rejection"
+    },
+    {
+        "question": "Which security measure prevents unauthorized access to data centers?",
+        "options": [
+            "Two-factor authentication",
+            "Open-access policies",
+            "Removing passwords",
+            "Unencrypted networks"
+        ],
+        "answer": "Two-factor authentication"
+    },
+    {
+        "question": "What is a major disadvantage of high energy consumption in data centers?",
+        "options": [
+            "Increased operational costs",
+            "Better cooling efficiency",
+            "Faster server speeds",
+            "More storage capacity"
+        ],
+        "answer": "Increased operational costs"
+    },
+    {
+        "question": "Which fire suppression system uses gas to eliminate oxygen in a fire?",
+        "options": [
+            "Inert gas system",
+            "Sprinkler system",
+            "Water mist system",
+            "Foam suppression"
+        ],
+        "answer": "Inert gas system"
+    },
+    {
+        "question": "Which practice reduces cooling costs in data centers?",
+        "options": [
+            "Using energy-efficient servers",
+            "Overloading racks",
+            "Disabling monitoring",
+            "Using outdated cooling units"
+        ],
+        "answer": "Using energy-efficient servers"
+    },
+    {
+        "question": "Which factor is crucial for ensuring high availability in data centers?",
+        "options": [
+            "Redundant power systems",
+            "Overheating servers",
+            "No cooling system",
+            "Unsecured network access"
+        ],
+        "answer": "Redundant power systems"
+    },
+    {
+        "question": "What is the purpose of thermal imaging in data centers?",
+        "options": [
+            "Detecting overheating spots",
+            "Monitoring network traffic",
+            "Increasing bandwidth",
+            "Reducing energy use"
+        ],
+        "answer": "Detecting overheating spots"
+    },
+    {
+        "question": "Which of the following is a key metric for measuring energy efficiency in data centers?",
+        "options": [
+            "PUE",
+            "BGP",
+            "SSD",
+            "VPN"
+        ],
+        "answer": "PUE"
+    },
+    {
+        "question": "Which security measure helps prevent unauthorized access?",
+        "options": [
+            "Role-based access control",
+            "Disabling firewalls",
+            "Leaving doors open",
+            "Sharing passwords"
+        ],
+        "answer": "Role-based access control"
+    },
+    {
+        "question": "Which type of cooling system uses water or liquid for heat dissipation?",
+        "options": [
+            "Liquid cooling",
+            "Air cooling",
+            "Natural cooling",
+            "Solar cooling"
+        ],
+        "answer": "Liquid cooling"
+    },
+    {
+        "question": "What is the primary benefit of hot aisle/cold aisle containment?",
+        "options": [
+            "Improved airflow",
+            "Increased power usage",
+            "Reduced cooling efficiency",
+            "More cabling requirements"
+        ],
+        "answer": "Improved airflow"
+    },
+    {
+        "question": "What does CRAH stand for in data centers?",
+        "options": [
+            "Computer Room Air Handler",
+            "Cooling Room Air Heat",
+            "Central Rack Air Handling",
+            "Cold Room Air Heater"
+        ],
+        "answer": "Computer Room Air Handler"
+    },
+    {
+        "question": "What is a common energy-efficient alternative to traditional cooling systems?",
+        "options": [
+            "Free cooling",
+            "Overclocking",
+            "Power cycling",
+            "Heater-based cooling"
+        ],
+        "answer": "Free cooling"
+    },
+    {
+        "question": "What is a primary function of redundant power supplies in data centers?",
+        "options": [
+            "Prevent downtime",
+            "Increase heat output",
+            "Reduce cooling efficiency",
+            "Slow down processing"
+        ],
+        "answer": "Prevent downtime"
+    },
+    {
+        "question": "Which fire suppression system is best for protecting electronic equipment?",
+        "options": [
+            "Gas-based suppression",
+            "Water sprinklers",
+            "Foam-based extinguishers",
+            "Fire blankets"
+        ],
+        "answer": "Gas-based suppression"
+    },
+    {
+        "question": "Which practice helps in reducing energy consumption in data centers?",
+        "options": [
+            "Using energy-efficient servers",
+            "Running servers at full capacity always",
+            "Disabling cooling systems",
+            "Using outdated cooling technology"
+        ],
+        "answer": "Using energy-efficient servers"
+    },
+    {
+        "question": "What is a major risk of poor data center ventilation?",
+        "options": [
+            "Overheating",
+            "Increased network security",
+            "Lower storage capacity",
+            "Faster processing speeds"
+        ],
+        "answer": "Overheating"
+    },
+    {
+        "question": "Which type of cooling does NOT require external power sources?",
+        "options": [
+            "Passive cooling",
+            "Active cooling",
+            "CRAC units",
+            "Liquid cooling"
+        ],
+        "answer": "Passive cooling"
+    },
+    {
+        "question": "What is the main purpose of using firewalls in data centers?",
+        "options": [
+            "Network security",
+            "Cooling efficiency",
+            "Increasing power usage",
+            "Reducing cabling"
+        ],
+        "answer": "Network security"
+    },
+    {
+        "question": "Which data center metric measures total energy consumption?",
+        "options": [
+            "PUE",
+            "Bandwidth",
+            "RPM",
+            "MTBF"
+        ],
+        "answer": "PUE"
+    },
+    {
+        "question": "What is the recommended temperature range for data center operation?",
+        "options": [
+            "18-27°C",
+            "5-10°C",
+            "40-50°C",
+            "0-5°C"
+        ],
+        "answer": "18-27°C"
+    },
+    {
+        "question": "What is the benefit of using raised flooring in data centers?",
+        "options": [
+            "Better airflow",
+            "Faster network speed",
+            "More storage capacity",
+            "Higher power consumption"
+        ],
+        "answer": "Better airflow"
+    },
+    {
+        "question": "What is the purpose of monitoring humidity in data centers?",
+        "options": [
+            "Prevent static electricity",
+            "Increase power consumption",
+            "Reduce bandwidth usage",
+            "Speed up processing"
+        ],
+        "answer": "Prevent static electricity"
+    },
+    {
+        "question": "Which method prevents hot and cold air from mixing?",
+        "options": [
+            "Hot aisle/cold aisle containment",
+            "Open rack design",
+            "Direct air circulation",
+            "Overclocking"
+        ],
+        "answer": "Hot aisle/cold aisle containment"
+    },
+    {
+        "question": "Which of the following is NOT a method of fire suppression in data centers?",
+        "options": [
+            "Water-based systems",
+            "CO2-based suppression",
+            "FM-200 gas",
+            "Flammable gas release"
+        ],
+        "answer": "Flammable gas release"
+    },
+    {
+        "question": "Which cooling method relies on outside air to regulate temperature?",
+        "options": [
+            "Free cooling",
+            "Liquid cooling",
+            "Direct immersion cooling",
+            "Conduction cooling"
+        ],
+        "answer": "Free cooling"
+    },
+    {
+        "question": "What is a major downside of air cooling compared to liquid cooling?",
+        "options": [
+            "Higher energy consumption",
+            "Lower heat dissipation",
+            "Requires direct contact with components",
+            "More storage required"
+        ],
+        "answer": "Higher energy consumption"
+    },
+    {
+        "question": "Which factor is critical for efficient heat dissipation in data centers?",
+        "options": [
+            "Proper airflow management",
+            "Blocking ventilation paths",
+            "Overloading circuits",
+            "Running outdated hardware"
+        ],
+        "answer": "Proper airflow management"
+    },
+    {
+        "question": "Which is the best method to prevent overheating in a server room?",
+        "options": [
+            "Maintaining airflow",
+            "Blocking vents",
+            "Using outdated cooling systems",
+            "Increasing server load"
+        ],
+        "answer": "Maintaining airflow"
+    },
+    {
+        "question": "Which security measure is commonly used in modern data centers?",
+        "options": [
+            "Biometric authentication",
+            "Open access policy",
+            "Weak password enforcement",
+            "Disabling firewalls"
+        ],
+        "answer": "Biometric authentication"
+    },
+    {
+        "question": "What is the main function of redundant power supplies?",
+        "options": [
+            "Prevent downtime",
+            "Reduce processing speed",
+            "Increase cooling costs",
+            "Lower network bandwidth"
+        ],
+        "answer": "Prevent downtime"
+    },
+    {
+        "question": "Which method is commonly used to monitor data center performance?",
+        "options": [
+            "DCIM",
+            "Static logs",
+            "Paper records",
+            "Manual observation"
+        ],
+        "answer": "DCIM"
+    },
+    {
+        "question": "Why are UPS (Uninterruptible Power Supplies) used in data centers?",
+        "options": [
+            "Provide backup power",
+            "Increase cooling speed",
+            "Improve network security",
+            "Increase latency"
+        ],
+        "answer": "Provide backup power"
+    },
+    {
+        "question": "Which type of security system prevents unauthorized access?",
+        "options": [
+            "Role-based access control",
+            "Public access policy",
+            "No password enforcement",
+            "Open-door policy"
+        ],
+        "answer": "Role-based access control"
+    },
+    {
+        "question": "Which cooling method submerges entire server components in liquid?",
+        "options": [
+            "Immersion cooling",
+            "Air cooling",
+            "Hybrid cooling",
+            "Water mist cooling"
+        ],
+        "answer": "Immersion cooling"
+    },
+    {
+        "question": "Which method improves energy efficiency in data centers?",
+        "options": [
+            "Renewable energy usage",
+            "Running all servers at full load",
+            "Disabling cooling units",
+            "Increasing humidity levels"
+        ],
+        "answer": "Renewable energy usage"
+    },
+    {
+        "question": "Which system helps with temperature monitoring in data centers?",
+        "options": [
+            "DCIM",
+            "PDU",
+            "DNS",
+            "DHCP"
+        ],
+        "answer": "DCIM"
+    },
+    {
+        "question": "What is the key purpose of fire detection systems in data centers?",
+        "options": [
+            "Early warning of fire risks",
+            "Reducing cooling costs",
+            "Speeding up network connections",
+            "Increasing power usage"
+        ],
+        "answer": "Early warning of fire risks"
+    },
+    {
+        "question": "What is the primary goal of an HPC cluster?",
+        "options": [
+            "High computational performance",
+            "Reducing internet latency",
+            "Improving battery life",
+            "Increasing RAM size"
+        ],
+        "answer": "High computational performance"
+    },
+    {
+        "question": "Which factor is most important when designing an HPC cluster?",
+        "options": [
+            "Workload type",
+            "Monitor resolution",
+            "Keyboard brand",
+            "Number of USB ports"
+        ],
+        "answer": "Workload type"
+    },
+    {
+        "question": "Which component is considered the 'brain' of an HPC cluster?",
+        "options": [
+            "CPU",
+            "Hard drive",
+            "Cooling fan",
+            "Monitor"
+        ],
+        "answer": "CPU"
+    },
+    {
+        "question": "Which network topology is commonly used in HPC clusters?",
+        "options": [
+            "Fat-tree",
+            "Star",
+            "Ring",
+            "Bus"
+        ],
+        "answer": "Fat-tree"
+    },
+    {
+        "question": "What is the role of an HPC cluster scheduler?",
+        "options": [
+            "Manage job allocation",
+            "Monitor power supply",
+            "Cool down processors",
+            "Connect to the internet"
+        ],
+        "answer": "Manage job allocation"
+    },
+    {
+        "question": "Which interconnect technology is widely used in HPC clusters?",
+        "options": [
+            "InfiniBand",
+            "Wi-Fi",
+            "Bluetooth",
+            "Ethernet only"
+        ],
+        "answer": "InfiniBand"
+    },
+    {
+        "question": "What is the primary advantage of using a GPU in an HPC cluster?",
+        "options": [
+            "Parallel processing",
+            "More storage space",
+            "Better audio quality",
+            "Lower internet latency"
+        ],
+        "answer": "Parallel processing"
+    },
+    {
+        "question": "Which storage type is best suited for high-speed data access in HPC clusters?",
+        "options": [
+            "NVMe SSD",
+            "DVD",
+            "HDD",
+            "USB Drive"
+        ],
+        "answer": "NVMe SSD"
+    },
+    {
+        "question": "Which factor determines the power requirement of an HPC cluster?",
+        "options": [
+            "Number of nodes",
+            "Monitor size",
+            "Number of users",
+            "Keyboard type"
+        ],
+        "answer": "Number of nodes"
+    },
+    {
+        "question": "Which software is commonly used to manage an HPC cluster?",
+        "options": [
+            "Slurm",
+            "Photoshop",
+            "MS Word",
+            "VLC Media Player"
+        ],
+        "answer": "Slurm"
+    },
+    {
+        "question": "What is the main function of a cluster head node?",
+        "options": [
+            "Job scheduling and management",
+            "Cooling management",
+            "Direct user access",
+            "Performing all computations"
+        ],
+        "answer": "Job scheduling and management"
+    },
+    {
+        "question": "Which OS is widely used in HPC clusters?",
+        "options": [
+            "Linux",
+            "Windows 11",
+            "macOS",
+            "Android"
+        ],
+        "answer": "Linux"
+    },
+    {
+        "question": "Which network feature is crucial for an HPC cluster?",
+        "options": [
+            "Low latency",
+            "High latency",
+            "Limited bandwidth",
+            "Wireless connectivity"
+        ],
+        "answer": "Low latency"
+    },
+    {
+        "question": "Which type of workload benefits most from HPC clusters?",
+        "options": [
+            "Scientific simulations",
+            "Document editing",
+            "Social media browsing",
+            "Online shopping"
+        ],
+        "answer": "Scientific simulations"
+    },
+    {
+        "question": "What is the function of MPI in an HPC cluster?",
+        "options": [
+            "Enables parallel computing",
+            "Manages file storage",
+            "Monitors power consumption",
+            "Runs background music"
+        ],
+        "answer": "Enables parallel computing"
+    },
+    {
+        "question": "Which parameter is crucial in selecting a cluster interconnect?",
+        "options": [
+            "Throughput & Latency",
+            "Monitor brightness",
+            "Number of USB ports",
+            "Color of cables"
+        ],
+        "answer": "Throughput & Latency"
+    },
+    {
+        "question": "Which storage system is commonly used in HPC clusters?",
+        "options": [
+            "Lustre",
+            "Google Drive",
+            "OneDrive",
+            "Dropbox"
+        ],
+        "answer": "Lustre"
+    },
+    {
+        "question": "Which processor type is preferred in HPC clusters?",
+        "options": [
+            "Multi-core CPUs",
+            "Single-core CPUs",
+            "ARM processors",
+            "Mobile processors"
+        ],
+        "answer": "Multi-core CPUs"
+    },
+    {
+        "question": "Which is a major challenge in designing an HPC cluster?",
+        "options": [
+            "Power consumption",
+            "Choosing the right mouse",
+            "Deciding the desktop wallpaper",
+            "Installing a webcam"
+        ],
+        "answer": "Power consumption"
+    },
+    {
+        "question": "What is the purpose of cooling systems in an HPC cluster?",
+        "options": [
+            "Prevent overheating",
+            "Increase latency",
+            "Improve battery life",
+            "Enhance monitor display"
+        ],
+        "answer": "Prevent overheating"
+    },
+    {
+        "question": "Which method is used for efficient data transfer in HPC?",
+        "options": [
+            "RDMA",
+            "Wi-Fi",
+            "USB Transfer",
+            "DVD burning"
+        ],
+        "answer": "RDMA"
+    },
+    {
+        "question": "Which component is critical in networked HPC clusters?",
+        "options": [
+            "Switches",
+            "Keyboards",
+            "USB Hubs",
+            "Speakers"
+        ],
+        "answer": "Switches"
+    },
+    {
+        "question": "What is the purpose of resource allocation in an HPC cluster?",
+        "options": [
+            "Distribute workload efficiently",
+            "Increase internet speed",
+            "Enhance video quality",
+            "Reduce keyboard lag"
+        ],
+        "answer": "Distribute workload efficiently"
+    },
+    {
+        "question": "Which Linux tool is used for monitoring system performance?",
+        "options": [
+            "htop",
+            "Notepad",
+            "MS Excel",
+            "Chrome"
+        ],
+        "answer": "htop"
+    },
+    {
+        "question": "Which software is commonly used for workload management in HPC?",
+        "options": [
+            "PBS",
+            "MS Paint",
+            "iTunes",
+            "Google Maps"
+        ],
+        "answer": "PBS"
+    },
+    {
+        "question": "Which of the following affects an HPC cluster's performance?",
+        "options": [
+            "Network speed",
+            "Mouse DPI",
+            "Screen resolution",
+            "Speaker volume"
+        ],
+        "answer": "Network speed"
+    },
+    {
+        "question": "Which factor influences job execution time in an HPC cluster?",
+        "options": [
+            "CPU clock speed",
+            "Keyboard layout",
+            "Font size",
+            "Number of screens"
+        ],
+        "answer": "CPU clock speed"
+    },
+    {
+        "question": "What is the main role of a compute node?",
+        "options": [
+            "Execute parallel tasks",
+            "Store user files",
+            "Manage the cluster",
+            "Control network traffic"
+        ],
+        "answer": "Execute parallel tasks"
+    },
+    {
+        "question": "Which scheduler is widely used in HPC clusters?",
+        "options": [
+            "Torque",
+            "Spotify",
+            "WhatsApp",
+            "MS Word"
+        ],
+        "answer": "Torque"
+    },
+    {
+        "question": "What is the benefit of using SSDs in an HPC cluster?",
+        "options": [
+            "Faster data access",
+            "Lower network speed",
+            "Higher electricity consumption",
+            "Slower job execution"
+        ],
+        "answer": "Faster data access"
+    },
+    {
+        "question": "Which programming model is commonly used for parallel computing in HPC?",
+        "options": [
+            "OpenMP",
+            "Python",
+            "HTML",
+            "CSS"
+        ],
+        "answer": "OpenMP"
+    },
+    {
+        "question": "What is an important metric for measuring HPC performance?",
+        "options": [
+            "FLOPS",
+            "MP3 quality",
+            "Image resolution",
+            "Internet speed"
+        ],
+        "answer": "FLOPS"
+    },
+    {
+        "question": "Which HPC component manages node communication?",
+        "options": [
+            "Interconnect fabric",
+            "Monitor display",
+            "Hard disk",
+            "Keyboard"
+        ],
+        "answer": "Interconnect fabric"
+    },
+    {
+        "question": "Which file system is optimized for HPC clusters?",
+        "options": [
+            "BeeGFS",
+            "NTFS",
+            "FAT32",
+            "exFAT"
+        ],
+        "answer": "BeeGFS"
+    },
+    {
+        "question": "Which component interconnects multiple nodes in an HPC cluster?",
+        "options": [
+            "Network Switch",
+            "USB Hub",
+            "DVD Drive",
+            "Monitor"
+        ],
+        "answer": "Network Switch"
+    },
+    {
+        "question": "Which type of cooling is commonly used in HPC clusters?",
+        "options": [
+            "Liquid cooling",
+            "Passive cooling",
+            "Solar cooling",
+            "Heater-based cooling"
+        ],
+        "answer": "Liquid cooling"
+    },
+    {
+        "question": "What does 'HPC' stand for?",
+        "options": [
+            "High Performance Computing",
+            "Hybrid Power Consumption",
+            "Hyper Parallel Communication",
+            "High Power Clustering"
+        ],
+        "answer": "High Performance Computing"
+    },
+    {
+        "question": "Which of the following is NOT a key component in an HPC cluster?",
+        "options": [
+            "GPU",
+            "Compute Node",
+            "Head Node",
+            "Game Controller"
+        ],
+        "answer": "Game Controller"
+    },
+    {
+        "question": "Which interconnect technology is commonly used for high-speed communication in HPC?",
+        "options": [
+            "InfiniBand",
+            "Bluetooth",
+            "Wi-Fi",
+            "NFC"
+        ],
+        "answer": "InfiniBand"
+    },
+    {
+        "question": "Which term describes the ability of an HPC cluster to execute multiple tasks simultaneously?",
+        "options": [
+            "Parallel Computing",
+            "Single-threading",
+            "Caching",
+            "Virtualization"
+        ],
+        "answer": "Parallel Computing"
+    },
+    {
+        "question": "Which storage type is optimized for HPC workloads?",
+        "options": [
+            "Distributed File System",
+            "Optical Storage",
+            "Pen Drive",
+            "Floppy Disk"
+        ],
+        "answer": "Distributed File System"
+    },
+    {
+        "question": "Which hardware component primarily affects processing speed in an HPC cluster?",
+        "options": [
+            "CPU",
+            "Keyboard",
+            "Mouse",
+            "Webcam"
+        ],
+        "answer": "CPU"
+    },
+    {
+        "question": "Which component handles job scheduling in an HPC cluster?",
+        "options": [
+            "Job Scheduler",
+            "USB Adapter",
+            "Heat Sink",
+            "Power Cable"
+        ],
+        "answer": "Job Scheduler"
+    },
+    {
+        "question": "Which is a key challenge in managing an HPC cluster?",
+        "options": [
+            "Power consumption",
+            "Keyboard shortcuts",
+            "Screen brightness",
+            "Monitor refresh rate"
+        ],
+        "answer": "Power consumption"
+    },
+    {
+        "question": "Which type of workload benefits the most from an HPC cluster?",
+        "options": [
+            "Scientific Simulations",
+            "Email Writing",
+            "Browsing Social Media",
+            "Playing Music"
+        ],
+        "answer": "Scientific Simulations"
+    },
+    {
+        "question": "What is the main purpose of a compute node in an HPC cluster?",
+        "options": [
+            "Processing tasks",
+            "Displaying video output",
+            "Connecting to the internet",
+            "Managing keyboard inputs"
+        ],
+        "answer": "Processing tasks"
+    },
+    {
+        "question": "Which network speed is most commonly used in modern HPC clusters?",
+        "options": [
+            "100 Gbps",
+            "1 Mbps",
+            "10 Mbps",
+            "100 Kbps"
+        ],
+        "answer": "100 Gbps"
+    },
+    {
+        "question": "Which file system is designed for high-performance computing?",
+        "options": [
+            "Lustre",
+            "FAT32",
+            "NTFS",
+            "HFS+"
+        ],
+        "answer": "Lustre"
+    },
+    {
+        "question": "Which component distributes workloads efficiently in an HPC cluster?",
+        "options": [
+            "Job Scheduler",
+            "Cooling Fan",
+            "Monitor",
+            "Speaker"
+        ],
+        "answer": "Job Scheduler"
+    },
+    {
+        "question": "Which programming language is often used for parallel processing in HPC?",
+        "options": [
+            "C",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is an important factor in HPC power management?",
+        "options": [
+            "Energy efficiency",
+            "Screen brightness",
+            "Keyboard layout",
+            "Mouse speed"
+        ],
+        "answer": "Energy efficiency"
+    },
+    {
+        "question": "Which cluster type is used for large-scale scientific computing?",
+        "options": [
+            "Beowulf Cluster",
+            "Gaming Cluster",
+            "Home Network",
+            "Local Wi-Fi Network"
+        ],
+        "answer": "Beowulf Cluster"
+    },
+    {
+        "question": "Which metric is commonly used to measure HPC performance?",
+        "options": [
+            "FLOPS",
+            "GHz",
+            "MBps",
+            "dB"
+        ],
+        "answer": "FLOPS"
+    },
+    {
+        "question": "Which of the following is a job management system for HPC?",
+        "options": [
+            "Slurm",
+            "Excel",
+            "PowerPoint",
+            "Paint"
+        ],
+        "answer": "Slurm"
+    },
+    {
+        "question": "Which of the following is a major consideration when designing an HPC cluster?",
+        "options": [
+            "Scalability",
+            "Speaker volume",
+            "Monitor size",
+            "Mouse color"
+        ],
+        "answer": "Scalability"
+    },
+    {
+        "question": "Which type of processing does HPC rely on?",
+        "options": [
+            "Parallel processing",
+            "Sequential processing",
+            "Single-threaded processing",
+            "Manual data entry"
+        ],
+        "answer": "Parallel processing"
+    },
+    {
+        "question": "Which factor affects the cooling requirements of an HPC cluster?",
+        "options": [
+            "Number of nodes",
+            "USB ports",
+            "Mouse sensitivity",
+            "Desktop wallpaper"
+        ],
+        "answer": "Number of nodes"
+    },
+    {
+        "question": "Which term describes a group of interconnected computers working as a single system?",
+        "options": [
+            "Cluster",
+            "Router",
+            "Firewall",
+            "Switch"
+        ],
+        "answer": "Cluster"
+    },
+    {
+        "question": "What is the function of a secondary storage system in an HPC cluster?",
+        "options": [
+            "Long-term data retention",
+            "Enhancing CPU speed",
+            "Improving internet connectivity",
+            "Reducing power consumption"
+        ],
+        "answer": "Long-term data retention"
+    },
+    {
+        "question": "Which interconnect type provides the lowest latency in HPC clusters?",
+        "options": [
+            "InfiniBand",
+            "Wi-Fi",
+            "Bluetooth",
+            "NFC"
+        ],
+        "answer": "InfiniBand"
+    },
+    {
+        "question": "What is the main advantage of using GPUs in an HPC cluster?",
+        "options": [
+            "Faster parallel computation",
+            "Better screen resolution",
+            "Lower electricity cost",
+            "Higher storage capacity"
+        ],
+        "answer": "Faster parallel computation"
+    },
+    {
+        "question": "Which Linux distribution is commonly used in HPC clusters?",
+        "options": [
+            "CentOS",
+            "Windows 10",
+            "macOS",
+            "Android"
+        ],
+        "answer": "CentOS"
+    },
+    {
+        "question": "Which power supply method is often used in data centers with HPC clusters?",
+        "options": [
+            "Uninterruptible Power Supply (UPS)",
+            "Single-phase home supply",
+            "Portable battery pack",
+            "Solar-powered charger"
+        ],
+        "answer": "Uninterruptible Power Supply (UPS)"
+    },
+    {
+        "question": "Which of the following is a storage architecture used in HPC clusters?",
+        "options": [
+            "Distributed Storage",
+            "Local Disk Only",
+            "USB Flash Drive",
+            "External Hard Drive"
+        ],
+        "answer": "Distributed Storage"
+    },
+    {
+        "question": "What is the purpose of a high-speed network in HPC clusters?",
+        "options": [
+            "Fast data transfer",
+            "Better display resolution",
+            "More storage space",
+            "Lower power usage"
+        ],
+        "answer": "Fast data transfer"
+    },
+    {
+        "question": "Which term refers to the ability to add more nodes to an HPC cluster?",
+        "options": [
+            "Scalability",
+            "Security",
+            "Latency",
+            "Storage"
+        ],
+        "answer": "Scalability"
+    },
+    {
+        "question": "Which system helps in monitoring cluster performance?",
+        "options": [
+            "Grafana",
+            "MS Paint",
+            "Google Chrome",
+            "VLC Media Player"
+        ],
+        "answer": "Grafana"
+    },
+    {
+        "question": "Which component is essential for building an HPC cluster?",
+        "options": [
+            "Compute Nodes",
+            "Smartphones",
+            "DVD Players",
+            "Television"
+        ],
+        "answer": "Compute Nodes"
+    },
+    {
+        "question": "Which type of network topology is commonly used in HPC clusters?",
+        "options": [
+            "Fat-tree",
+            "Bus",
+            "Ring",
+            "Star"
+        ],
+        "answer": "Fat-tree"
+    },
+    {
+        "question": "Which cluster management software is widely used in HPC?",
+        "options": [
+            "Slurm",
+            "Google Chrome",
+            "Microsoft Excel",
+            "Adobe Photoshop"
+        ],
+        "answer": "Slurm"
+    },
+    {
+        "question": "What is the primary purpose of a storage architecture in HPC?",
+        "options": [
+            "Handling large-scale data efficiently",
+            "Increasing monitor resolution",
+            "Enhancing keyboard speed",
+            "Reducing power bills"
+        ],
+        "answer": "Handling large-scale data efficiently"
+    },
+    {
+        "question": "Which file system is optimized for HPC workloads?",
+        "options": [
+            "Lustre",
+            "FAT32",
+            "NTFS",
+            "exFAT"
+        ],
+        "answer": "Lustre"
+    },
+    {
+        "question": "Which of the following interconnects nodes in an HPC cluster?",
+        "options": [
+            "InfiniBand",
+            "USB Cable",
+            "Bluetooth",
+            "NFC"
+        ],
+        "answer": "InfiniBand"
+    },
+    {
+        "question": "What is an advantage of multicore processors in HPC?",
+        "options": [
+            "Parallel Processing",
+            "Lower Sound Output",
+            "Better Wi-Fi Signal",
+            "Higher Screen Resolution"
+        ],
+        "answer": "Parallel Processing"
+    },
+    {
+        "question": "Which of these is an example of a cluster-building tool?",
+        "options": [
+            "Rocks",
+            "VLC Media Player",
+            "Spotify",
+            "WordPad"
+        ],
+        "answer": "Rocks"
+    },
+    {
+        "question": "What is the primary function of an accelerator card in HPC?",
+        "options": [
+            "Boosting computational performance",
+            "Increasing display brightness",
+            "Playing music faster",
+            "Improving audio quality"
+        ],
+        "answer": "Boosting computational performance"
+    },
+    {
+        "question": "Which architecture is commonly used in HPC clusters?",
+        "options": [
+            "Multicore Architecture",
+            "Single-core Design",
+            "Hybrid Electric",
+            "Mechanical"
+        ],
+        "answer": "Multicore Architecture"
+    },
+    {
+        "question": "What does GPU stand for in HPC?",
+        "options": [
+            "Graphics Processing Unit",
+            "General Power Unit",
+            "Global Processing Utility",
+            "Graphical Power Usage"
+        ],
+        "answer": "Graphics Processing Unit"
+    },
+    {
+        "question": "Which of the following is a high-performance interconnect standard?",
+        "options": [
+            "InfiniBand",
+            "Wi-Fi",
+            "HDMI",
+            "Bluetooth"
+        ],
+        "answer": "InfiniBand"
+    },
+    {
+        "question": "Which hardware component is responsible for high-speed computations in HPC?",
+        "options": [
+            "CPU",
+            "Speakers",
+            "Microphone",
+            "Router"
+        ],
+        "answer": "CPU"
+    },
+    {
+        "question": "Which storage type is often used in HPC clusters?",
+        "options": [
+            "Distributed Storage",
+            "CD-ROM",
+            "USB Drive",
+            "Floppy Disk"
+        ],
+        "answer": "Distributed Storage"
+    },
+    {
+        "question": "What is a key consideration when setting up an accelerator card?",
+        "options": [
+            "Driver Installation",
+            "Screen Size",
+            "Speaker Quality",
+            "Mouse Sensitivity"
+        ],
+        "answer": "Driver Installation"
+    },
+    {
+        "question": "Which network architecture minimizes communication bottlenecks in HPC clusters?",
+        "options": [
+            "Fat-tree",
+            "Bus",
+            "Point-to-Point",
+            "Star"
+        ],
+        "answer": "Fat-tree"
+    },
+    {
+        "question": "Which technology is used for fast storage access in HPC?",
+        "options": [
+            "NVMe SSDs",
+            "HDD",
+            "CD-ROM",
+            "Floppy Disk"
+        ],
+        "answer": "NVMe SSDs"
+    },
+    {
+        "question": "Which parallel computing model is widely used in HPC?",
+        "options": [
+            "MPI",
+            "JPEG",
+            "GIF",
+            "PDF"
+        ],
+        "answer": "MPI"
+    },
+    {
+        "question": "Which Linux-based cluster management tool helps automate cluster deployment?",
+        "options": [
+            "Rocks",
+            "Windows Defender",
+            "Google Drive",
+            "MS Paint"
+        ],
+        "answer": "Rocks"
+    },
+    {
+        "question": "What is an advantage of using a cluster over a single computer?",
+        "options": [
+            "Higher Processing Power",
+            "More Keyboard Shortcuts",
+            "Better Sound Quality",
+            "Larger Screen Size"
+        ],
+        "answer": "Higher Processing Power"
+    },
+    {
+        "question": "Which network protocol supports low-latency data transfer in HPC?",
+        "options": [
+            "RDMA",
+            "HTTP",
+            "FTP",
+            "SMTP"
+        ],
+        "answer": "RDMA"
+    },
+    {
+        "question": "Which storage system is optimized for parallel access in HPC?",
+        "options": [
+            "Lustre",
+            "NTFS",
+            "HFS+",
+            "exFAT"
+        ],
+        "answer": "Lustre"
+    },
+    {
+        "question": "What is a major advantage of liquid cooling in HPC?",
+        "options": [
+            "Better Heat Dissipation",
+            "Lower Monitor Brightness",
+            "Increased Speaker Volume",
+            "More Keyboard Keys"
+        ],
+        "answer": "Better Heat Dissipation"
+    },
+    {
+        "question": "Which of the following is a common cluster management tool?",
+        "options": [
+            "Slurm",
+            "Notepad",
+            "Instagram",
+            "PowerPoint"
+        ],
+        "answer": "Slurm"
+    },
+    {
+        "question": "Which interconnect is widely used in supercomputers?",
+        "options": [
+            "InfiniBand",
+            "Wi-Fi",
+            "USB",
+            "Bluetooth"
+        ],
+        "answer": "InfiniBand"
+    },
+    {
+        "question": "What is the primary benefit of using accelerator cards in HPC?",
+        "options": [
+            "Faster Computation",
+            "Lower Fan Noise",
+            "Increased Battery Life",
+            "Higher Screen Resolution"
+        ],
+        "answer": "Faster Computation"
+    },
+    {
+        "question": "Which tool helps optimize energy efficiency in HPC clusters?",
+        "options": [
+            "Power Management Software",
+            "MP3 Player",
+            "Calculator",
+            "Clipboard"
+        ],
+        "answer": "Power Management Software"
+    },
+    {
+        "question": "Which file system supports high-throughput data access in HPC?",
+        "options": [
+            "Lustre",
+            "FAT32",
+            "HFS+",
+            "NTFS"
+        ],
+        "answer": "Lustre"
+    },
+    {
+        "question": "Which component is used for parallel processing in HPC?",
+        "options": [
+            "GPU",
+            "CD Drive",
+            "USB Hub",
+            "DVD Player"
+        ],
+        "answer": "GPU"
+    },
+    {
+        "question": "Which is a major challenge in HPC cluster design?",
+        "options": [
+            "Heat Dissipation",
+            "Speaker Volume",
+            "Display Refresh Rate",
+            "Monitor Size"
+        ],
+        "answer": "Heat Dissipation"
+    },
+    {
+        "question": "Which of the following is an emerging trend in HPC?",
+        "options": [
+            "Quantum Computing",
+            "Analog Modems",
+            "CRT Monitors",
+            "Floppy Disks"
+        ],
+        "answer": "Quantum Computing"
+    },
+    {
+        "question": "Which software is commonly used for managing HPC jobs?",
+        "options": [
+            "Slurm",
+            "MS Word",
+            "WhatsApp",
+            "Adobe Acrobat"
+        ],
+        "answer": "Slurm"
+    },
+    {
+        "question": "Which architecture is designed for high-speed computations in HPC?",
+        "options": [
+            "Multicore",
+            "Single-core",
+            "Mechanical",
+            "CRT"
+        ],
+        "answer": "Multicore"
+    },
+    {
+        "question": "What is an important factor when configuring an HPC cluster?",
+        "options": [
+            "Network Bandwidth",
+            "Keyboard Layout",
+            "Monitor Size",
+            "Mouse Sensitivity"
+        ],
+        "answer": "Network Bandwidth"
+    },
+    {
+        "question": "Which of these is a key factor in HPC storage performance?",
+        "options": [
+            "Read/Write Speed",
+            "Speaker Loudness",
+            "Mouse DPI",
+            "Display Brightness"
+        ],
+        "answer": "Read/Write Speed"
+    },
+    {
+        "question": "Which network topology is most commonly used in high-performance computing (HPC) clusters?",
+        "options": [
+            "Fat-tree",
+            "Mesh",
+            "Ring",
+            "Star"
+        ],
+        "answer": "Fat-tree"
+    },
+    {
+        "question": "What is the primary purpose of a compute node in an HPC cluster?",
+        "options": [
+            "Processing tasks",
+            "Storing data",
+            "Cooling the system",
+            "Managing power"
+        ],
+        "answer": "Processing tasks"
+    },
+    {
+        "question": "Which of the following is an open-source cluster management system?",
+        "options": [
+            "Slurm",
+            "Microsoft Office",
+            "Windows Task Manager",
+            "VMware"
+        ],
+        "answer": "Slurm"
+    },
+    {
+        "question": "What does the term 'scalability' refer to in an HPC cluster?",
+        "options": [
+            "Ability to add more nodes",
+            "Size of a single node",
+            "Color of the cables",
+            "Monitor brightness"
+        ],
+        "answer": "Ability to add more nodes"
+    },
+    {
+        "question": "Which of the following storage systems is optimized for parallel processing?",
+        "options": [
+            "Lustre",
+            "HDD",
+            "SSD",
+            "USB Drive"
+        ],
+        "answer": "Lustre"
+    },
+    {
+        "question": "Which interconnect technology is preferred for low-latency HPC networking?",
+        "options": [
+            "InfiniBand",
+            "Wi-Fi",
+            "Bluetooth",
+            "Ethernet"
+        ],
+        "answer": "InfiniBand"
+    },
+    {
+        "question": "What is a key feature of a high-performance computing (HPC) cluster?",
+        "options": [
+            "Parallel processing",
+            "Single-threaded execution",
+            "Low-speed computation",
+            "Mechanical storage"
+        ],
+        "answer": "Parallel processing"
+    },
+    {
+        "question": "Which software is used to manage job scheduling in an HPC cluster?",
+        "options": [
+            "PBS",
+            "VLC Media Player",
+            "Adobe Photoshop",
+            "MS Word"
+        ],
+        "answer": "PBS"
+    },
+    {
+        "question": "What is the primary advantage of using a GPU in an HPC system?",
+        "options": [
+            "Faster parallel processing",
+            "Better audio quality",
+            "Increased battery life",
+            "Lower screen resolution"
+        ],
+        "answer": "Faster parallel processing"
+    },
+    {
+        "question": "Which file system is commonly used in HPC environments?",
+        "options": [
+            "GPFS",
+            "FAT32",
+            "NTFS",
+            "exFAT"
+        ],
+        "answer": "GPFS"
+    },
+    {
+        "question": "What is a major benefit of liquid cooling in HPC clusters?",
+        "options": [
+            "Efficient heat dissipation",
+            "Better sound output",
+            "More USB ports",
+            "Faster internet speed"
+        ],
+        "answer": "Efficient heat dissipation"
+    },
+    {
+        "question": "Which term describes multiple computers working together as a single system?",
+        "options": [
+            "Cluster Computing",
+            "Virtualization",
+            "Cloud Computing",
+            "Edge Computing"
+        ],
+        "answer": "Cluster Computing"
+    },
+    {
+        "question": "Which network architecture is commonly used in supercomputers?",
+        "options": [
+            "Fat-tree",
+            "Bus",
+            "Point-to-point",
+            "Star"
+        ],
+        "answer": "Fat-tree"
+    },
+    {
+        "question": "Which component is crucial for high-speed inter-node communication?",
+        "options": [
+            "Interconnect",
+            "Hard Drive",
+            "DVD Player",
+            "Monitor"
+        ],
+        "answer": "Interconnect"
+    },
+    {
+        "question": "What is the function of a head node in an HPC cluster?",
+        "options": [
+            "Manages the cluster",
+            "Executes parallel tasks",
+            "Cools down the system",
+            "Increases internet speed"
+        ],
+        "answer": "Manages the cluster"
+    },
+    {
+        "question": "Which parallel computing framework is widely used in HPC?",
+        "options": [
+            "MPI",
+            "HTML",
+            "JPEG",
+            "FTP"
+        ],
+        "answer": "MPI"
+    },
+    {
+        "question": "Which interconnect technology is faster than traditional Ethernet for HPC?",
+        "options": [
+            "InfiniBand",
+            "Wi-Fi",
+            "HDMI",
+            "Bluetooth"
+        ],
+        "answer": "InfiniBand"
+    },
+    {
+        "question": "Which feature makes HPC clusters more powerful than standalone computers?",
+        "options": [
+            "Parallel processing",
+            "Higher screen resolution",
+            "Better battery backup",
+            "More USB ports"
+        ],
+        "answer": "Parallel processing"
+    },
+    {
+        "question": "Which file system is designed for large-scale data storage in HPC?",
+        "options": [
+            "Lustre",
+            "FAT32",
+            "HFS+",
+            "exFAT"
+        ],
+        "answer": "Lustre"
+    },
+    {
+        "question": "Which of the following is a major challenge in HPC environments?",
+        "options": [
+            "Heat management",
+            "Keyboard layout",
+            "Screen brightness",
+            "Speaker quality"
+        ],
+        "answer": "Heat management"
+    },
+    {
+        "question": "Which tool is commonly used for monitoring HPC performance?",
+        "options": [
+            "Ganglia",
+            "Spotify",
+            "YouTube",
+            "Instagram"
+        ],
+        "answer": "Ganglia"
+    },
+    {
+        "question": "What does NUMA stand for in HPC systems?",
+        "options": [
+            "Non-Uniform Memory Access",
+            "New Universal Memory Allocation",
+            "Network Utilization Management Algorithm",
+            "Nested Utility Memory Architecture"
+        ],
+        "answer": "Non-Uniform Memory Access"
+    },
+    {
+        "question": "Which technology allows multiple processes to execute simultaneously on a multicore CPU?",
+        "options": [
+            "Multithreading",
+            "Overclocking",
+            "Defragmentation",
+            "Indexing"
+        ],
+        "answer": "Multithreading"
+    },
+    {
+        "question": "Which component is responsible for running parallel tasks in an HPC cluster?",
+        "options": [
+            "Compute Nodes",
+            "Power Supply",
+            "Speakers",
+            "Monitor"
+        ],
+        "answer": "Compute Nodes"
+    },
+    {
+        "question": "Which job scheduler is commonly used in HPC clusters?",
+        "options": [
+            "Slurm",
+            "Excel",
+            "Windows Task Manager",
+            "Calculator"
+        ],
+        "answer": "Slurm"
+    },
+    {
+        "question": "What is the main role of an accelerator card in an HPC system?",
+        "options": [
+            "Speed up computations",
+            "Increase internet speed",
+            "Improve battery life",
+            "Enhance keyboard functionality"
+        ],
+        "answer": "Speed up computations"
+    },
+    {
+        "question": "Which component is critical for high-speed data transfer in an HPC cluster?",
+        "options": [
+            "Interconnect",
+            "CD-ROM",
+            "DVD Drive",
+            "Speakers"
+        ],
+        "answer": "Interconnect"
+    },
+    {
+        "question": "Which of the following is an example of a parallel computing model?",
+        "options": [
+            "MPI",
+            "JPEG",
+            "HTML",
+            "GIF"
+        ],
+        "answer": "MPI"
+    },
+    {
+        "question": "Which factor determines the efficiency of an HPC cluster?",
+        "options": [
+            "Network Latency",
+            "Screen Size",
+            "Speaker Volume",
+            "Keyboard Layout"
+        ],
+        "answer": "Network Latency"
+    },
+    {
+        "question": "What is a significant limitation of air cooling in HPC systems?",
+        "options": [
+            "Limited heat dissipation",
+            "Lower screen brightness",
+            "More USB ports",
+            "Better sound quality"
+        ],
+        "answer": "Limited heat dissipation"
+    },
+    {
+        "question": "Which Linux tool is widely used for managing HPC clusters?",
+        "options": [
+            "PBS",
+            "WordPad",
+            "Paint",
+            "Chrome"
+        ],
+        "answer": "PBS"
+    },
+    {
+        "question": "Which cluster type is used for solving large-scale parallel computations?",
+        "options": [
+            "HPC Cluster",
+            "Personal Computer",
+            "Smartphone",
+            "IoT Device"
+        ],
+        "answer": "HPC Cluster"
+    },
+    {
+        "question": "Which term refers to the process of distributing tasks across multiple processors?",
+        "options": [
+            "Parallel Processing",
+            "Defragmentation",
+            "Buffering",
+            "Multitasking"
+        ],
+        "answer": "Parallel Processing"
+    },
+    {
+        "question": "Which high-speed networking technology is widely used in HPC clusters?",
+        "options": [
+            "InfiniBand",
+            "Wi-Fi",
+            "Bluetooth",
+            "USB"
+        ],
+        "answer": "InfiniBand"
+    },
+    {
+        "question": "Which protocol is used for monitoring and managing network devices?",
+        "options": [
+            "SNMP",
+            "HTTP",
+            "FTP",
+            "SMTP"
+        ],
+        "answer": "SNMP"
+    },
+    {
+        "question": "What does IPMI stand for in system management?",
+        "options": [
+            "Intelligent Platform Management Interface",
+            "Internet Protocol Management Integration",
+            "Internal Processing Memory Interface",
+            "Integrated Platform Monitoring Interface"
+        ],
+        "answer": "Intelligent Platform Management Interface"
+    },
+    {
+        "question": "Which of the following is a widely used user authentication system in HPC?",
+        "options": [
+            "LDAP",
+            "USB",
+            "BIOS",
+            "HDMI"
+        ],
+        "answer": "LDAP"
+    },
+    {
+        "question": "Which monitoring tool is commonly used for tracking HPC cluster performance?",
+        "options": [
+            "Ganglia",
+            "Excel",
+            "Windows Media Player",
+            "Word"
+        ],
+        "answer": "Ganglia"
+    },
+    {
+        "question": "What is the purpose of a log management system in an HPC environment?",
+        "options": [
+            "Store and analyze system logs",
+            "Increase system speed",
+            "Control fan speed",
+            "Enhance display resolution"
+        ],
+        "answer": "Store and analyze system logs"
+    },
+    {
+        "question": "Which tool is used for monitoring HPC system metrics in real time?",
+        "options": [
+            "Collectl",
+            "Notepad",
+            "MS Paint",
+            "Zoom"
+        ],
+        "answer": "Collectl"
+    },
+    {
+        "question": "Which protocol is commonly used for centralized logging in HPC?",
+        "options": [
+            "Syslog",
+            "HTTP",
+            "FTP",
+            "SMTP"
+        ],
+        "answer": "Syslog"
+    },
+    {
+        "question": "Which user management tool helps authenticate users in an HPC cluster?",
+        "options": [
+            "NIS",
+            "VLC",
+            "Adobe Photoshop",
+            "Calculator"
+        ],
+        "answer": "NIS"
+    },
+    {
+        "question": "What is the main advantage of using InfiniBand in HPC?",
+        "options": [
+            "Low latency and high bandwidth",
+            "Better audio output",
+            "Higher screen resolution",
+            "More USB ports"
+        ],
+        "answer": "Low latency and high bandwidth"
+    },
+    {
+        "question": "Which monitoring tool is used for alerting in an HPC environment?",
+        "options": [
+            "Nagios",
+            "Excel",
+            "MS Word",
+            "Windows Task Manager"
+        ],
+        "answer": "Nagios"
+    },
+    {
+        "question": "What is the primary role of Prometheus in HPC monitoring?",
+        "options": [
+            "Time-series data collection",
+            "Power management",
+            "Cooling system control",
+            "File compression"
+        ],
+        "answer": "Time-series data collection"
+    },
+    {
+        "question": "Which tool is commonly used to visualize metrics from Prometheus?",
+        "options": [
+            "Grafana",
+            "Windows Explorer",
+            "MS Paint",
+            "Notepad"
+        ],
+        "answer": "Grafana"
+    },
+    {
+        "question": "Which command in Linux can check system logs?",
+        "options": [
+            "journalctl",
+            "dir",
+            "mkdir",
+            "cd"
+        ],
+        "answer": "journalctl"
+    },
+    {
+        "question": "Which protocol does SNMP use for communication?",
+        "options": [
+            "UDP",
+            "TCP",
+            "FTP",
+            "SMTP"
+        ],
+        "answer": "UDP"
+    },
+    {
+        "question": "Which type of data does IPMI collect from servers?",
+        "options": [
+            "Hardware health and performance",
+            "Internet speed",
+            "Keyboard settings",
+            "Display brightness"
+        ],
+        "answer": "Hardware health and performance"
+    },
+    {
+        "question": "Which user management tool is directory-based?",
+        "options": [
+            "LDAP",
+            "BIOS",
+            "HDMI",
+            "USB"
+        ],
+        "answer": "LDAP"
+    },
+    {
+        "question": "Which of the following is an open-source monitoring system?",
+        "options": [
+            "Prometheus",
+            "Microsoft Office",
+            "Google Chrome",
+            "Adobe Reader"
+        ],
+        "answer": "Prometheus"
+    },
+    {
+        "question": "What is the primary function of a log management system?",
+        "options": [
+            "Collect and analyze logs",
+            "Boost network speed",
+            "Improve video resolution",
+            "Change keyboard layout"
+        ],
+        "answer": "Collect and analyze logs"
+    },
+    {
+        "question": "Which of the following helps in cluster-wide user authentication?",
+        "options": [
+            "NIS",
+            "Spotify",
+            "Bluetooth",
+            "MP3"
+        ],
+        "answer": "NIS"
+    },
+    {
+        "question": "Which tool provides a web-based interface for monitoring HPC performance?",
+        "options": [
+            "Grafana",
+            "Windows Task Manager",
+            "Excel",
+            "Notepad"
+        ],
+        "answer": "Grafana"
+    },
+    {
+        "question": "What does the InfiniBand protocol primarily improve?",
+        "options": [
+            "Network speed and latency",
+            "Screen resolution",
+            "Audio quality",
+            "Battery life"
+        ],
+        "answer": "Network speed and latency"
+    },
+    {
+        "question": "Which monitoring tool is used to analyze system performance in HPC?",
+        "options": [
+            "Collectl",
+            "YouTube",
+            "MS Word",
+            "VLC Media Player"
+        ],
+        "answer": "Collectl"
+    },
+    {
+        "question": "Which protocol is commonly used for remote management of HPC servers?",
+        "options": [
+            "IPMI",
+            "FTP",
+            "USB",
+            "Bluetooth"
+        ],
+        "answer": "IPMI"
+    },
+    {
+        "question": "Which command is used to check system performance in real time on Linux?",
+        "options": [
+            "top",
+            "mkdir",
+            "cd",
+            "dir"
+        ],
+        "answer": "top"
+    },
+    {
+        "question": "Which tool is best for real-time alerting in HPC clusters?",
+        "options": [
+            "Nagios",
+            "Adobe Photoshop",
+            "Windows Task Manager",
+            "MS Excel"
+        ],
+        "answer": "Nagios"
+    },
+    {
+        "question": "Which technology allows low-latency communication in HPC?",
+        "options": [
+            "InfiniBand",
+            "Ethernet",
+            "Wi-Fi",
+            "Bluetooth"
+        ],
+        "answer": "InfiniBand"
+    },
+    {
+        "question": "Which of the following is a network monitoring tool for HPC?",
+        "options": [
+            "SNMP",
+            "WordPad",
+            "Excel",
+            "PowerPoint"
+        ],
+        "answer": "SNMP"
+    },
+    {
+        "question": "Which log management tool is commonly used in Linux?",
+        "options": [
+            "Syslog",
+            "Windows Media Player",
+            "Adobe Reader",
+            "MS Word"
+        ],
+        "answer": "Syslog"
+    },
+    {
+        "question": "Which user management system is widely used in enterprise networks?",
+        "options": [
+            "LDAP",
+            "Wi-Fi",
+            "USB",
+            "MP4"
+        ],
+        "answer": "LDAP"
+    },
+    {
+        "question": "What is the main function of monitoring tools in an HPC cluster?",
+        "options": [
+            "Track performance and detect failures",
+            "Increase screen resolution",
+            "Improve battery life",
+            "Enhance sound output"
+        ],
+        "answer": "Track performance and detect failures"
+    },
+    {
+        "question": "Which protocol helps manage network devices remotely?",
+        "options": [
+            "SNMP",
+            "SMTP",
+            "FTP",
+            "HTML"
+        ],
+        "answer": "SNMP"
+    },
+    {
+        "question": "Which component does IPMI primarily manage?",
+        "options": [
+            "Server hardware",
+            "Operating system",
+            "Monitor brightness",
+            "Internet speed"
+        ],
+        "answer": "Server hardware"
+    },
+    {
+        "question": "Which monitoring tool is used for time-series data collection in HPC?",
+        "options": [
+            "Prometheus",
+            "Excel",
+            "PowerPoint",
+            "MS Paint"
+        ],
+        "answer": "Prometheus"
+    },
+    {
+        "question": "Which network technology is often used in supercomputers?",
+        "options": [
+            "InfiniBand",
+            "Wi-Fi",
+            "Bluetooth",
+            "USB"
+        ],
+        "answer": "InfiniBand"
+    },
+    {
+        "question": "Which user authentication method is commonly used in HPC clusters?",
+        "options": [
+            "LDAP",
+            "Wi-Fi",
+            "Bluetooth",
+            "USB"
+        ],
+        "answer": "LDAP"
+    },
+    {
+        "question": "Which monitoring tool provides cluster-wide performance visualization?",
+        "options": [
+            "Grafana",
+            "Notepad",
+            "Windows Explorer",
+            "VLC"
+        ],
+        "answer": "Grafana"
+    },
+    {
+        "question": "Which of the following is an open-source monitoring tool for HPC?",
+        "options": [
+            "Prometheus",
+            "Microsoft Excel",
+            "Google Docs",
+            "Windows Task Manager"
+        ],
+        "answer": "Prometheus"
+    },
+    {
+        "question": "What is the primary purpose of Ganglia in an HPC environment?",
+        "options": [
+            "Cluster performance monitoring",
+            "File compression",
+            "Internet browsing",
+            "Word processing"
+        ],
+        "answer": "Cluster performance monitoring"
+    },
+    {
+        "question": "Which protocol is used for collecting system logs in Linux?",
+        "options": [
+            "Syslog",
+            "FTP",
+            "HTTP",
+            "SMTP"
+        ],
+        "answer": "Syslog"
+    },
+    {
+        "question": "What does IPMI primarily help with?",
+        "options": [
+            "Remote server management",
+            "Boosting CPU speed",
+            "Enhancing display resolution",
+            "Managing email servers"
+        ],
+        "answer": "Remote server management"
+    },
+    {
+        "question": "Which monitoring tool provides real-time alerting for HPC clusters?",
+        "options": [
+            "Nagios",
+            "VLC Media Player",
+            "Windows Paint",
+            "Google Sheets"
+        ],
+        "answer": "Nagios"
+    },
+    {
+        "question": "Which of the following is used for tracking user access in an HPC system?",
+        "options": [
+            "NIS",
+            "MP3",
+            "USB",
+            "BIOS"
+        ],
+        "answer": "NIS"
+    },
+    {
+        "question": "What is the function of Collectl in HPC?",
+        "options": [
+            "System performance monitoring",
+            "Audio playback",
+            "File editing",
+            "Video processing"
+        ],
+        "answer": "System performance monitoring"
+    },
+    {
+        "question": "Which protocol helps manage and monitor networking devices?",
+        "options": [
+            "SNMP",
+            "SMTP",
+            "TCP",
+            "USB"
+        ],
+        "answer": "SNMP"
+    },
+    {
+        "question": "Which tool is used to monitor power usage in an HPC cluster?",
+        "options": [
+            "IPMI",
+            "MS Word",
+            "Excel",
+            "Photoshop"
+        ],
+        "answer": "IPMI"
+    },
+    {
+        "question": "Which metric does an HPC monitoring system track?",
+        "options": [
+            "CPU usage",
+            "Text formatting",
+            "Video resolution",
+            "Audio volume"
+        ],
+        "answer": "CPU usage"
+    },
+    {
+        "question": "Which type of storage is commonly monitored in HPC environments?",
+        "options": [
+            "Parallel file systems",
+            "CD-ROM",
+            "Floppy disks",
+            "USB flash drives"
+        ],
+        "answer": "Parallel file systems"
+    },
+    {
+        "question": "Which command is used to check system logs in Linux?",
+        "options": [
+            "dmesg",
+            "mkdir",
+            "cd",
+            "dir"
+        ],
+        "answer": "dmesg"
+    },
+    {
+        "question": "Which of the following monitoring tools supports distributed systems?",
+        "options": [
+            "Ganglia",
+            "Notepad",
+            "Windows Media Player",
+            "Excel"
+        ],
+        "answer": "Ganglia"
+    },
+    {
+        "question": "Which protocol is commonly used to send system logs to a remote server?",
+        "options": [
+            "Syslog",
+            "FTP",
+            "SMTP",
+            "USB"
+        ],
+        "answer": "Syslog"
+    },
+    {
+        "question": "Which of the following is a lightweight Linux command for system monitoring?",
+        "options": [
+            "htop",
+            "PowerPoint",
+            "Excel",
+            "Paint"
+        ],
+        "answer": "htop"
+    },
+    {
+        "question": "Which monitoring tool is optimized for HPC clusters?",
+        "options": [
+            "Ganglia",
+            "Microsoft Word",
+            "Google Docs",
+            "Spotify"
+        ],
+        "answer": "Ganglia"
+    },
+    {
+        "question": "What is the main advantage of InfiniBand in HPC?",
+        "options": [
+            "Low latency and high throughput",
+            "Better battery life",
+            "Higher audio quality",
+            "Increased screen resolution"
+        ],
+        "answer": "Low latency and high throughput"
+    },
+    {
+        "question": "Which Linux command is used to check active network connections?",
+        "options": [
+            "netstat",
+            "mkdir",
+            "cd",
+            "ls"
+        ],
+        "answer": "netstat"
+    },
+    {
+        "question": "Which of the following is a security measure in HPC?",
+        "options": [
+            "Access control",
+            "Playing videos",
+            "Audio enhancement",
+            "Text formatting"
+        ],
+        "answer": "Access control"
+    },
+    {
+        "question": "Which tool helps in detecting hardware failures in HPC clusters?",
+        "options": [
+            "IPMI",
+            "Excel",
+            "WordPad",
+            "Paint"
+        ],
+        "answer": "IPMI"
+    },
+    {
+        "question": "Which of the following is a key performance metric in HPC monitoring?",
+        "options": [
+            "Latency",
+            "Audio quality",
+            "Text alignment",
+            "Color contrast"
+        ],
+        "answer": "Latency"
+    },
+    {
+        "question": "Which of the following commands displays running processes in Linux?",
+        "options": [
+            "ps",
+            "mkdir",
+            "touch",
+            "rm"
+        ],
+        "answer": "ps"
+    },
+    {
+        "question": "Which protocol is primarily used for remote hardware monitoring?",
+        "options": [
+            "IPMI",
+            "SMTP",
+            "FTP",
+            "USB"
+        ],
+        "answer": "IPMI"
+    },
+    {
+        "question": "Which tool is used for data visualization in HPC monitoring?",
+        "options": [
+            "Grafana",
+            "Google Docs",
+            "Notepad",
+            "Excel"
+        ],
+        "answer": "Grafana"
+    },
+    {
+        "question": "Which HPC monitoring tool provides time-series data collection?",
+        "options": [
+            "Prometheus",
+            "MS Word",
+            "Spotify",
+            "VLC"
+        ],
+        "answer": "Prometheus"
+    },
+    {
+        "question": "Which of the following is a widely used log management system?",
+        "options": [
+            "Syslog",
+            "Google Drive",
+            "Photoshop",
+            "Excel"
+        ],
+        "answer": "Syslog"
+    },
+    {
+        "question": "Which command in Linux can be used to check memory usage?",
+        "options": [
+            "free",
+            "mkdir",
+            "ls",
+            "cd"
+        ],
+        "answer": "free"
+    },
+    {
+        "question": "Which HPC monitoring tool is designed for large-scale clusters?",
+        "options": [
+            "Ganglia",
+            "PowerPoint",
+            "Windows Media Player",
+            "Paint"
+        ],
+        "answer": "Ganglia"
+    },
+    {
+        "question": "Which security measure is important for user authentication in HPC?",
+        "options": [
+            "LDAP",
+            "USB drives",
+            "MP3 files",
+            "HDMI ports"
+        ],
+        "answer": "LDAP"
+    },
+    {
+        "question": "Which network protocol is commonly used for remote device monitoring?",
+        "options": [
+            "SNMP",
+            "SMTP",
+            "FTP",
+            "HTML"
+        ],
+        "answer": "SNMP"
+    },
+    {
+        "question": "Which of the following helps detect anomalies in an HPC system?",
+        "options": [
+            "Log analysis",
+            "Text editing",
+            "Color correction",
+            "Audio processing"
+        ],
+        "answer": "Log analysis"
+    },
+    {
+        "question": "Which of the following is used to monitor temperature in an HPC system?",
+        "options": [
+            "IPMI",
+            "Excel",
+            "Google Sheets",
+            "PowerPoint"
+        ],
+        "answer": "IPMI"
+    },
+    {
+        "question": "What is the primary advantage of InfiniBand over traditional Ethernet?",
+        "options": [
+            "Lower latency and higher bandwidth",
+            "Better sound quality",
+            "Increased screen resolution",
+            "Lower energy consumption"
+        ],
+        "answer": "Lower latency and higher bandwidth"
+    },
+    {
+        "question": "Which topology is commonly used in InfiniBand networks?",
+        "options": [
+            "Fat-tree",
+            "Star",
+            "Bus",
+            "Ring"
+        ],
+        "answer": "Fat-tree"
+    },
+    {
+        "question": "Which protocol does InfiniBand use for communication?",
+        "options": [
+            "RDMA",
+            "HTTP",
+            "SMTP",
+            "FTP"
+        ],
+        "answer": "RDMA"
+    },
+    {
+        "question": "What is the main function of InfiniBand in HPC clusters?",
+        "options": [
+            "High-speed data transfer",
+            "Power management",
+            "Graphics rendering",
+            "Audio enhancement"
+        ],
+        "answer": "High-speed data transfer"
+    },
+    {
+        "question": "Which layer of the OSI model does InfiniBand primarily operate on?",
+        "options": [
+            "Physical and Data Link",
+            "Network",
+            "Transport",
+            "Application"
+        ],
+        "answer": "Physical and Data Link"
+    },
+    {
+        "question": "Which component in InfiniBand networks connects multiple nodes?",
+        "options": [
+            "Switch",
+            "Router",
+            "Bridge",
+            "Hub"
+        ],
+        "answer": "Switch"
+    },
+    {
+        "question": "Which type of communication does InfiniBand support?",
+        "options": [
+            "Point-to-point",
+            "Broadcast",
+            "Multicast only",
+            "Wi-Fi"
+        ],
+        "answer": "Point-to-point"
+    },
+    {
+        "question": "What is the primary purpose of IPMI in server management?",
+        "options": [
+            "Remote hardware monitoring",
+            "Software installation",
+            "Gaming",
+            "Audio processing"
+        ],
+        "answer": "Remote hardware monitoring"
+    },
+    {
+        "question": "Which transport method is used by InfiniBand to achieve high performance?",
+        "options": [
+            "Zero-copy RDMA",
+            "TCP/IP",
+            "UDP",
+            "HTTP"
+        ],
+        "answer": "Zero-copy RDMA"
+    },
+    {
+        "question": "Which of the following is a key feature of IPMI?",
+        "options": [
+            "Out-of-band management",
+            "Video processing",
+            "Text editing",
+            "Graphics acceleration"
+        ],
+        "answer": "Out-of-band management"
+    },
+    {
+        "question": "What does BMC stand for in IPMI?",
+        "options": [
+            "Baseboard Management Controller",
+            "Backup Memory Cache",
+            "Basic Management Console",
+            "Bandwidth Measurement Controller"
+        ],
+        "answer": "Baseboard Management Controller"
+    },
+    {
+        "question": "Which type of memory access does InfiniBand use to bypass the CPU?",
+        "options": [
+            "Remote Direct Memory Access (RDMA)",
+            "Virtual Memory Mapping",
+            "Cache Memory",
+            "Dynamic RAM"
+        ],
+        "answer": "Remote Direct Memory Access (RDMA)"
+    },
+    {
+        "question": "Which of the following is NOT an InfiniBand speed category?",
+        "options": [
+            "DDR",
+            "QDR",
+            "SDR",
+            "DSL"
+        ],
+        "answer": "DSL"
+    },
+    {
+        "question": "Which security feature is commonly implemented with IPMI?",
+        "options": [
+            "Authentication and encryption",
+            "Firewall settings",
+            "Antivirus scanning",
+            "File compression"
+        ],
+        "answer": "Authentication and encryption"
+    },
+    {
+        "question": "Which component enables InfiniBand to provide low latency?",
+        "options": [
+            "Direct memory access (DMA)",
+            "GPU acceleration",
+            "TCP/IP protocol",
+            "Cache memory"
+        ],
+        "answer": "Direct memory access (DMA)"
+    },
+    {
+        "question": "Which interface is commonly used to access IPMI remotely?",
+        "options": [
+            "Web GUI",
+            "Command Prompt",
+            "Adobe Photoshop",
+            "Windows Explorer"
+        ],
+        "answer": "Web GUI"
+    },
+    {
+        "question": "Which company developed the InfiniBand standard?",
+        "options": [
+            "Mellanox",
+            "Intel",
+            "IBM",
+            "Cisco"
+        ],
+        "answer": "Mellanox"
+    },
+    {
+        "question": "What is the default network transport for IPMI?",
+        "options": [
+            "LAN",
+            "Wi-Fi",
+            "Bluetooth",
+            "Satellite"
+        ],
+        "answer": "LAN"
+    },
+    {
+        "question": "Which of the following is a major benefit of using InfiniBand?",
+        "options": [
+            "Low latency",
+            "Higher storage capacity",
+            "Improved sound quality",
+            "Faster CPU clock speed"
+        ],
+        "answer": "Low latency"
+    },
+    {
+        "question": "Which version of IPMI introduced enhanced security features?",
+        "options": [
+            "IPMI 2.0",
+            "IPMI 1.0",
+            "IPMI 1.5",
+            "IPMI 3.0"
+        ],
+        "answer": "IPMI 2.0"
+    },
+    {
+        "question": "What is the primary advantage of InfiniBand over Ethernet in HPC?",
+        "options": [
+            "Lower latency",
+            "Wider coverage",
+            "Lower cost",
+            "Easier configuration"
+        ],
+        "answer": "Lower latency"
+    },
+    {
+        "question": "Which of the following uses an InfiniBand fabric for communication?",
+        "options": [
+            "HPC clusters",
+            "Wi-Fi routers",
+            "Smartphones",
+            "Ethernet switches"
+        ],
+        "answer": "HPC clusters"
+    },
+    {
+        "question": "What does SDR stand for in InfiniBand?",
+        "options": [
+            "Single Data Rate",
+            "Storage Device Router",
+            "System Data Repeater",
+            "Server Data Relay"
+        ],
+        "answer": "Single Data Rate"
+    },
+    {
+        "question": "Which hardware component is essential for implementing IPMI?",
+        "options": [
+            "BMC (Baseboard Management Controller)",
+            "GPU",
+            "RAM",
+            "Ethernet card"
+        ],
+        "answer": "BMC (Baseboard Management Controller)"
+    },
+    {
+        "question": "Which type of access does IPMI provide for administrators?",
+        "options": [
+            "Remote hardware access",
+            "Email filtering",
+            "Database querying",
+            "Graphics rendering"
+        ],
+        "answer": "Remote hardware access"
+    },
+    {
+        "question": "Which command-line tool is commonly used to interact with IPMI?",
+        "options": [
+            "ipmitool",
+            "ping",
+            "ls",
+            "mkdir"
+        ],
+        "answer": "ipmitool"
+    },
+    {
+        "question": "Which of the following technologies competes with InfiniBand in HPC?",
+        "options": [
+            "High-speed Ethernet",
+            "DSL",
+            "Wi-Fi",
+            "Bluetooth"
+        ],
+        "answer": "High-speed Ethernet"
+    },
+    {
+        "question": "Which port is typically used for IPMI remote access?",
+        "options": [
+            "623",
+            "80",
+            "22",
+            "443"
+        ],
+        "answer": "623"
+    },
+    {
+        "question": "Which organization maintains the InfiniBand standard?",
+        "options": [
+            "InfiniBand Trade Association (IBTA)",
+            "IEEE",
+            "Linux Foundation",
+            "ISO"
+        ],
+        "answer": "InfiniBand Trade Association (IBTA)"
+    },
+    {
+        "question": "Which of the following is NOT a feature of InfiniBand?",
+        "options": [
+            "High latency",
+            "High bandwidth",
+            "Low overhead",
+            "Direct memory access"
+        ],
+        "answer": "High latency"
+    },
+    {
+        "question": "Which of these is a primary function of IPMI?",
+        "options": [
+            "Monitoring hardware status",
+            "Internet browsing",
+            "Playing music",
+            "Rendering graphics"
+        ],
+        "answer": "Monitoring hardware status"
+    },
+    {
+        "question": "Which component connects multiple InfiniBand links?",
+        "options": [
+            "InfiniBand Switch",
+            "Router",
+            "Hub",
+            "Firewall"
+        ],
+        "answer": "InfiniBand Switch"
+    },
+    {
+        "question": "Which of the following allows administrators to control power remotely using IPMI?",
+        "options": [
+            "Power management commands",
+            "BIOS settings",
+            "Firewall rules",
+            "Graphics settings"
+        ],
+        "answer": "Power management commands"
+    },
+    {
+        "question": "What is the primary goal of system benchmarking in HPC?",
+        "options": [
+            "To measure system performance",
+            "To increase storage capacity",
+            "To improve network security",
+            "To optimize display resolution"
+        ],
+        "answer": "To measure system performance"
+    },
+    {
+        "question": "Which benchmark is commonly used to measure the theoretical peak performance of an HPC system?",
+        "options": [
+            "HPL Benchmark",
+            "SPECint",
+            "Turing Test",
+            "Ping Test"
+        ],
+        "answer": "HPL Benchmark"
+    },
+    {
+        "question": "What does HPL stand for in HPC benchmarking?",
+        "options": [
+            "High-Performance Linpack",
+            "High-Precision Latency",
+            "Hybrid Performance Level",
+            "Hardware Processing Limit"
+        ],
+        "answer": "High-Performance Linpack"
+    },
+    {
+        "question": "Which system characteristic is measured by the HPCG benchmark?",
+        "options": [
+            "Real-world application performance",
+            "Internet speed",
+            "GPU clock speed",
+            "Hard disk capacity"
+        ],
+        "answer": "Real-world application performance"
+    },
+    {
+        "question": "What does OSU stand for in OSU Micro-Benchmark?",
+        "options": [
+            "Ohio State University",
+            "Operating System Utility",
+            "Optimal Storage Usage",
+            "Open Source Update"
+        ],
+        "answer": "Ohio State University"
+    },
+    {
+        "question": "Which benchmarking tool is commonly used for measuring I/O performance in HPC systems?",
+        "options": [
+            "IOzone",
+            "Jupyter Notebook",
+            "MATLAB",
+            "TensorFlow"
+        ],
+        "answer": "IOzone"
+    },
+    {
+        "question": "What is the primary purpose of IO benchmarks?",
+        "options": [
+            "To test disk and file system performance",
+            "To increase CPU speed",
+            "To monitor power consumption",
+            "To optimize GPU performance"
+        ],
+        "answer": "To test disk and file system performance"
+    },
+    {
+        "question": "Which tool is often used for measuring interconnect latency and bandwidth in HPC systems?",
+        "options": [
+            "OSU Micro-Benchmarks",
+            "TensorFlow",
+            "Apache Kafka",
+            "Grafana"
+        ],
+        "answer": "OSU Micro-Benchmarks"
+    },
+    {
+        "question": "What does HPCG stand for?",
+        "options": [
+            "High-Performance Conjugate Gradient",
+            "High Power Computing Grid",
+            "Hybrid Processing Control Grid",
+            "Hyper Parallel Computing Gateway"
+        ],
+        "answer": "High-Performance Conjugate Gradient"
+    },
+    {
+        "question": "What type of operations does the HPCG benchmark evaluate?",
+        "options": [
+            "Sparse matrix operations",
+            "Web browsing speed",
+            "File compression",
+            "Image processing"
+        ],
+        "answer": "Sparse matrix operations"
+    },
+    {
+        "question": "Which metric is measured by HPL benchmarking?",
+        "options": [
+            "Floating-point operations per second (FLOPS)",
+            "Disk read/write speed",
+            "Network latency",
+            "Cache memory size"
+        ],
+        "answer": "Floating-point operations per second (FLOPS)"
+    },
+    {
+        "question": "Which of the following is a widely used open-source ticket supporting tool?",
+        "options": [
+            "OTRS",
+            "Excel",
+            "Photoshop",
+            "VirtualBox"
+        ],
+        "answer": "OTRS"
+    },
+    {
+        "question": "What is the main purpose of a ticket supporting tool?",
+        "options": [
+            "To track and manage IT support requests",
+            "To design HPC clusters",
+            "To monitor CPU performance",
+            "To create machine learning models"
+        ],
+        "answer": "To track and manage IT support requests"
+    },
+    {
+        "question": "Which ticketing system is commonly used for HPC support requests?",
+        "options": [
+            "RT (Request Tracker)",
+            "MySQL",
+            "AutoCAD",
+            "TensorFlow"
+        ],
+        "answer": "RT (Request Tracker)"
+    },
+    {
+        "question": "Which of the following benchmarking tools is used for distributed storage performance evaluation?",
+        "options": [
+            "IOR",
+            "MATLAB",
+            "Nagios",
+            "Wireshark"
+        ],
+        "answer": "IOR"
+    },
+    {
+        "question": "What is one of the key benefits of using OSU benchmarks in HPC?",
+        "options": [
+            "Measuring network performance",
+            "Managing user authentication",
+            "Increasing storage capacity",
+            "Boosting display resolution"
+        ],
+        "answer": "Measuring network performance"
+    },
+    {
+        "question": "Which of the following is NOT a component of HPC-AI Compliance?",
+        "options": [
+            "Graphics rendering",
+            "Data privacy",
+            "Model fairness",
+            "Security"
+        ],
+        "answer": "Graphics rendering"
+    },
+    {
+        "question": "Which of the following is an important factor in tuning HPL for performance?",
+        "options": [
+            "Optimizing matrix size",
+            "Increasing the monitor resolution",
+            "Reducing the number of CPU cores",
+            "Increasing font size"
+        ],
+        "answer": "Optimizing matrix size"
+    },
+    {
+        "question": "What is the main purpose of the HPCG benchmark compared to HPL?",
+        "options": [
+            "It models real-world applications better",
+            "It measures Wi-Fi speed",
+            "It optimizes GPU rendering",
+            "It tracks RAM usage"
+        ],
+        "answer": "It models real-world applications better"
+    },
+    {
+        "question": "Which benchmarking tool is most commonly used for testing HPC storage performance?",
+        "options": [
+            "FIO",
+            "AutoCAD",
+            "Cisco Packet Tracer",
+            "Blender"
+        ],
+        "answer": "FIO"
+    },
+    {
+        "question": "What does the OSU Latency Benchmark primarily measure?",
+        "options": [
+            "Message passing latency",
+            "CPU temperature",
+            "Disk space usage",
+            "Internet download speed"
+        ],
+        "answer": "Message passing latency"
+    },
+    {
+        "question": "Which of the following is a challenge in HPC-AI Compliance?",
+        "options": [
+            "Ensuring model fairness",
+            "Improving Wi-Fi connectivity",
+            "Optimizing screen brightness",
+            "Enhancing audio quality"
+        ],
+        "answer": "Ensuring model fairness"
+    },
+    {
+        "question": "What does 'Tuning HPL' involve?",
+        "options": [
+            "Optimizing software and hardware parameters",
+            "Upgrading graphics settings",
+            "Enhancing video editing",
+            "Reducing the clock speed of CPUs"
+        ],
+        "answer": "Optimizing software and hardware parameters"
+    },
+    {
+        "question": "Which aspect of HPC performance does IO Benchmarking measure?",
+        "options": [
+            "Disk and file system performance",
+            "CPU cycle efficiency",
+            "Power consumption",
+            "Network packet loss"
+        ],
+        "answer": "Disk and file system performance"
+    },
+    {
+        "question": "Which HPC benchmark helps evaluate real-world computational workloads?",
+        "options": [
+            "HPCG",
+            "HPL",
+            "SPEC2006",
+            "Geekbench"
+        ],
+        "answer": "HPCG"
+    },
+    {
+        "question": "Which component is typically optimized in HPL tuning?",
+        "options": [
+            "Block size",
+            "Resolution settings",
+            "GPU clock speed",
+            "Audio latency"
+        ],
+        "answer": "Block size"
+    },
+    {
+        "question": "Which benchmarking tool helps assess interconnect performance?",
+        "options": [
+            "OSU Micro-Benchmarks",
+            "TensorFlow",
+            "MATLAB",
+            "Docker"
+        ],
+        "answer": "OSU Micro-Benchmarks"
+    },
+    {
+        "question": "Which tool is used for evaluating AI workloads in HPC?",
+        "options": [
+            "MLPerf",
+            "Wireshark",
+            "Cisco Packet Tracer",
+            "MATLAB"
+        ],
+        "answer": "MLPerf"
+    },
+    {
+        "question": "Which type of HPC workloads does the HPCG benchmark focus on?",
+        "options": [
+            "Memory bandwidth and latency",
+            "High-speed networking",
+            "Graphics rendering",
+            "Video processing"
+        ],
+        "answer": "Memory bandwidth and latency"
+    },
+    {
+        "question": "What is the full form of IOR in HPC benchmarking?",
+        "options": [
+            "Interleaved OR",
+            "Input/Output Rate",
+            "I/O Operations Rate",
+            "Intelligent Optimization Resource"
+        ],
+        "answer": "I/O Operations Rate"
+    },
+    {
+        "question": "Which benchmark is designed to measure the performance of dense linear algebra computations?",
+        "options": [
+            "HPL",
+            "HPCG",
+            "SPEC CPU",
+            "IOzone"
+        ],
+        "answer": "HPL"
+    },
+    {
+        "question": "What does the OSU Micro-Benchmark suite primarily evaluate?",
+        "options": [
+            "MPI performance",
+            "Disk performance",
+            "Power efficiency",
+            "GPU rendering"
+        ],
+        "answer": "MPI performance"
+    },
+    {
+        "question": "Which metric is measured in HPL benchmarking?",
+        "options": [
+            "Floating-point operations per second",
+            "Disk latency",
+            "GPU temperature",
+            "RAM usage"
+        ],
+        "answer": "Floating-point operations per second"
+    },
+    {
+        "question": "What does 'HPC-AI Compliance' ensure?",
+        "options": [
+            "Ethical AI practices",
+            "Higher CPU frequency",
+            "Faster data compression",
+            "Increased monitor resolution"
+        ],
+        "answer": "Ethical AI practices"
+    },
+    {
+        "question": "Which tool is commonly used to measure storage performance in an HPC system?",
+        "options": [
+            "IOzone",
+            "Nagios",
+            "Wireshark",
+            "Prometheus"
+        ],
+        "answer": "IOzone"
+    },
+    {
+        "question": "Which ticket supporting tool is widely used for IT service management?",
+        "options": [
+            "ServiceNow",
+            "TensorFlow",
+            "Cisco Packet Tracer",
+            "MySQL"
+        ],
+        "answer": "ServiceNow"
+    },
+    {
+        "question": "What is the primary function of the HPCG benchmark?",
+        "options": [
+            "Assess memory bandwidth and latency",
+            "Measure CPU clock speed",
+            "Optimize network traffic",
+            "Improve display settings"
+        ],
+        "answer": "Assess memory bandwidth and latency"
+    },
+    {
+        "question": "Which component is often adjusted during HPL tuning?",
+        "options": [
+            "Block size",
+            "Battery life",
+            "Audio settings",
+            "Display resolution"
+        ],
+        "answer": "Block size"
+    },
+    {
+        "question": "Which metric is commonly used in IO Benchmarking?",
+        "options": [
+            "Read/Write speed",
+            "CPU frequency",
+            "GPU temperature",
+            "Packet loss"
+        ],
+        "answer": "Read/Write speed"
+    },
+    {
+        "question": "What type of workload is best suited for the HPCG benchmark?",
+        "options": [
+            "Memory-intensive computations",
+            "Disk I/O operations",
+            "Network packet forwarding",
+            "GPU rendering"
+        ],
+        "answer": "Memory-intensive computations"
+    },
+    {
+        "question": "What does SPEC stand for in benchmarking?",
+        "options": [
+            "Standard Performance Evaluation Corporation",
+            "System Processing Efficiency Check",
+            "Software Performance Execution Code",
+            "Storage and Power Efficiency Calculator"
+        ],
+        "answer": "Standard Performance Evaluation Corporation"
+    },
+    {
+        "question": "Which benchmark is specifically used to evaluate I/O operations?",
+        "options": [
+            "IOR",
+            "HPCG",
+            "SPECint",
+            "Ping Test"
+        ],
+        "answer": "IOR"
+    },
+    {
+        "question": "What is one of the challenges in HPC-AI Compliance?",
+        "options": [
+            "Bias in AI models",
+            "Monitor brightness adjustment",
+            "Increasing CPU clock speed",
+            "Optimizing Wi-Fi range"
+        ],
+        "answer": "Bias in AI models"
+    },
+    {
+        "question": "Which tool helps measure message passing performance in an HPC system?",
+        "options": [
+            "OSU Micro-Benchmarks",
+            "TensorFlow",
+            "AutoCAD",
+            "MATLAB"
+        ],
+        "answer": "OSU Micro-Benchmarks"
+    },
+    {
+        "question": "Which metric is a key focus of OSU Latency Benchmark?",
+        "options": [
+            "MPI message latency",
+            "Internet speed",
+            "CPU fan speed",
+            "File compression ratio"
+        ],
+        "answer": "MPI message latency"
+    },
+    {
+        "question": "Which parameter is commonly optimized when tuning the HPL benchmark?",
+        "options": [
+            "Problem size",
+            "Network topology",
+            "Operating system version",
+            "Mouse sensitivity"
+        ],
+        "answer": "Problem size"
+    },
+    {
+        "question": "Which of the following is NOT a focus of HPC-AI Compliance?",
+        "options": [
+            "Display brightness",
+            "Security",
+            "Fairness",
+            "Transparency"
+        ],
+        "answer": "Display brightness"
+    },
+    {
+        "question": "Which file system metric is measured in I/O benchmarking?",
+        "options": [
+            "Read/write performance",
+            "Cache size",
+            "Fan speed",
+            "Screen refresh rate"
+        ],
+        "answer": "Read/write performance"
+    },
+    {
+        "question": "What is a key objective of using a ticket supporting tool?",
+        "options": [
+            "Tracking IT issues",
+            "Increasing system clock speed",
+            "Improving screen resolution",
+            "Enhancing Wi-Fi performance"
+        ],
+        "answer": "Tracking IT issues"
+    },
+    {
+        "question": "Which of the following is a common network benchmark for HPC?",
+        "options": [
+            "OSU Micro-Benchmarks",
+            "MATLAB",
+            "Photoshop",
+            "Nagios"
+        ],
+        "answer": "OSU Micro-Benchmarks"
+    },
+    {
+        "question": "What does the OSU Bandwidth Benchmark measure?",
+        "options": [
+            "Maximum data transfer rate",
+            "GPU processing speed",
+            "Disk fragmentation",
+            "System temperature"
+        ],
+        "answer": "Maximum data transfer rate"
+    },
+    {
+        "question": "Which tool is commonly used for monitoring and alerting in HPC clusters?",
+        "options": [
+            "Nagios",
+            "Blender",
+            "AutoCAD",
+            "PowerPoint"
+        ],
+        "answer": "Nagios"
+    },
+    {
+        "question": "What does tuning HPL typically involve?",
+        "options": [
+            "Adjusting block and problem size",
+            "Changing font size",
+            "Increasing brightness",
+            "Optimizing battery life"
+        ],
+        "answer": "Adjusting block and problem size"
+    },
+    {
+        "question": "What is the purpose of SPEC CPU benchmark?",
+        "options": [
+            "Evaluate processor and memory performance",
+            "Test Wi-Fi speed",
+            "Check screen resolution",
+            "Measure GPU rendering time"
+        ],
+        "answer": "Evaluate processor and memory performance"
+    },
+    {
+        "question": "Which type of applications does HPCG benchmark simulate?",
+        "options": [
+            "Sparse matrix applications",
+            "Image editing",
+            "Gaming",
+            "Video streaming"
+        ],
+        "answer": "Sparse matrix applications"
+    },
+    {
+        "question": "Which metric is used to evaluate an HPC cluster's theoretical peak performance?",
+        "options": [
+            "FLOPS",
+            "Latency",
+            "Ping time",
+            "Frame rate"
+        ],
+        "answer": "FLOPS"
+    },
+    {
+        "question": "What is the role of the OSU Alltoall Benchmark?",
+        "options": [
+            "Measures collective communication performance",
+            "Improves storage efficiency",
+            "Enhances CPU clock speed",
+            "Optimizes Wi-Fi signal"
+        ],
+        "answer": "Measures collective communication performance"
+    },
+    {
+        "question": "Which HPC benchmark measures real-world computational workloads?",
+        "options": [
+            "HPCG",
+            "SPEC2006",
+            "Geekbench",
+            "3DMark"
+        ],
+        "answer": "HPCG"
+    },
+    {
+        "question": "What is the focus of MLPerf benchmarking?",
+        "options": [
+            "AI/ML workload performance",
+            "GPU power efficiency",
+            "Internet browsing speed",
+            "Audio quality"
+        ],
+        "answer": "AI/ML workload performance"
+    },
+    {
+        "question": "Which component is optimized during HPL tuning?",
+        "options": [
+            "Memory hierarchy",
+            "Sound settings",
+            "Monitor brightness",
+            "Network range"
+        ],
+        "answer": "Memory hierarchy"
+    },
+    {
+        "question": "What does the term 'AI Petaflops' refer to?",
+        "options": [
+            "Computational speed for AI workloads",
+            "Number of CPUs in a cluster",
+            "Storage capacity",
+            "Network latency"
+        ],
+        "answer": "Computational speed for AI workloads"
+    },
+    {
+        "question": "Which type of precision is most commonly used in AI computations?",
+        "options": [
+            "Mixed Precision",
+            "Double Precision",
+            "Single Precision",
+            "Quadruple Precision"
+        ],
+        "answer": "Mixed Precision"
+    },
+    {
+        "question": "What does Rmax represent in supercomputing benchmarks?",
+        "options": [
+            "Sustained performance",
+            "Theoretical peak performance",
+            "Storage bandwidth",
+            "Network speed"
+        ],
+        "answer": "Sustained performance"
+    },
+    {
+        "question": "Which benchmark measures a supercomputer’s ability to perform double-precision floating-point operations?",
+        "options": [
+            "HPL",
+            "MLPerf",
+            "SPECint",
+            "IOzone"
+        ],
+        "answer": "HPL"
+    },
+    {
+        "question": "Why is mixed precision used in AI computations?",
+        "options": [
+            "To optimize performance while maintaining accuracy",
+            "To increase RAM speed",
+            "To improve cooling efficiency",
+            "To reduce network congestion"
+        ],
+        "answer": "To optimize performance while maintaining accuracy"
+    },
+    {
+        "question": "Which of the following is a key benefit of mixed precision computing?",
+        "options": [
+            "Faster execution with reduced power consumption",
+            "Higher storage capacity",
+            "Lower latency in network communication",
+            "Better GPU cooling"
+        ],
+        "answer": "Faster execution with reduced power consumption"
+    },
+    {
+        "question": "What does '8.5 Petaflops Sustained (Rmax)' indicate?",
+        "options": [
+            "The supercomputer's real-world continuous performance",
+            "Maximum storage speed",
+            "Peak network bandwidth",
+            "Total power consumption"
+        ],
+        "answer": "The supercomputer's real-world continuous performance"
+    },
+    {
+        "question": "What does a higher Rmax value indicate in benchmarking?",
+        "options": [
+            "More sustained computing power",
+            "Increased memory size",
+            "Lower power efficiency",
+            "Faster storage read speeds"
+        ],
+        "answer": "More sustained computing power"
+    },
+    {
+        "question": "Which precision level is required for scientific computing accuracy?",
+        "options": [
+            "Double Precision",
+            "Mixed Precision",
+            "Single Precision",
+            "Half Precision"
+        ],
+        "answer": "Double Precision"
+    },
+    {
+        "question": "Which floating-point format is typically used in deep learning accelerators?",
+        "options": [
+            "FP16",
+            "FP64",
+            "FP128",
+            "FP8"
+        ],
+        "answer": "FP16"
+    },
+    {
+        "question": "Which component in a supercomputer primarily contributes to achieving high AI Petaflops?",
+        "options": [
+            "GPUs",
+            "Hard drives",
+            "Network switches",
+            "Cooling fans"
+        ],
+        "answer": "GPUs"
+    },
+    {
+        "question": "Which hardware is optimized for mixed-precision computing?",
+        "options": [
+            "Tensor Cores",
+            "Hard Disk Drives",
+            "Ethernet Switches",
+            "Mechanical Keyboards"
+        ],
+        "answer": "Tensor Cores"
+    },
+    {
+        "question": "Why is FP64 preferred in scientific computing?",
+        "options": [
+            "Higher accuracy",
+            "Lower power consumption",
+            "Faster execution",
+            "Reduced memory usage"
+        ],
+        "answer": "Higher accuracy"
+    },
+    {
+        "question": "What is one limitation of using double precision in AI workloads?",
+        "options": [
+            "Slower execution speed",
+            "Lower accuracy",
+            "Increased network latency",
+            "Reduced power consumption"
+        ],
+        "answer": "Slower execution speed"
+    },
+    {
+        "question": "What does the term 'Peak Performance' refer to in benchmarking?",
+        "options": [
+            "Theoretical maximum speed",
+            "Sustained performance over time",
+            "Memory bandwidth",
+            "Disk read speed"
+        ],
+        "answer": "Theoretical maximum speed"
+    },
+    {
+        "question": "Which floating-point format is mostly used for gaming and graphics?",
+        "options": [
+            "FP32",
+            "FP64",
+            "FP128",
+            "FP8"
+        ],
+        "answer": "FP32"
+    },
+    {
+        "question": "Which metric helps determine real-world efficiency of a supercomputer?",
+        "options": [
+            "Rmax",
+            "Cache size",
+            "CPU clock speed",
+            "RAM capacity"
+        ],
+        "answer": "Rmax"
+    },
+    {
+        "question": "Why is sustained performance (Rmax) different from peak performance (Rpeak)?",
+        "options": [
+            "Rmax measures actual continuous performance",
+            "Rmax is always higher than Rpeak",
+            "Rmax depends on network speed",
+            "Rmax is a theoretical value"
+        ],
+        "answer": "Rmax measures actual continuous performance"
+    },
+    {
+        "question": "What is the impact of using FP16 instead of FP64 in AI models?",
+        "options": [
+            "Faster computations with slightly reduced accuracy",
+            "Lower memory consumption but slower speed",
+            "Higher power consumption",
+            "Improved storage capacity"
+        ],
+        "answer": "Faster computations with slightly reduced accuracy"
+    },
+    {
+        "question": "Which floating-point format is ideal for high-accuracy scientific simulations?",
+        "options": [
+            "FP64",
+            "FP16",
+            "FP32",
+            "FP8"
+        ],
+        "answer": "FP64"
+    },
+    {
+        "question": "Why do AI-focused benchmarks report higher Petaflops than traditional HPC benchmarks?",
+        "options": [
+            "AI computations use lower precision formats",
+            "AI models require more RAM",
+            "AI uses more network bandwidth",
+            "AI systems have larger cooling units"
+        ],
+        "answer": "AI computations use lower precision formats"
+    },
+    {
+        "question": "Which system component significantly impacts floating-point operations per second (FLOPS)?",
+        "options": [
+            "Processing units",
+            "Hard disk speed",
+            "Cooling system",
+            "Operating system"
+        ],
+        "answer": "Processing units"
+    },
+    {
+        "question": "What is the key difference between FP16 and FP32?",
+        "options": [
+            "FP16 uses half the bits of FP32",
+            "FP16 is more accurate",
+            "FP32 is faster",
+            "FP16 increases power consumption"
+        ],
+        "answer": "FP16 uses half the bits of FP32"
+    },
+    {
+        "question": "Which benchmark is used to measure peak double-precision performance?",
+        "options": [
+            "HPL",
+            "SPECint",
+            "LINPACK",
+            "IOzone"
+        ],
+        "answer": "HPL"
+    },
+    {
+        "question": "What is a common performance bottleneck in high-precision scientific computing?",
+        "options": [
+            "Memory bandwidth",
+            "Graphics rendering",
+            "Hard drive space",
+            "Monitor refresh rate"
+        ],
+        "answer": "Memory bandwidth"
+    },
+    {
+        "question": "What does 'flop' stand for in FLOPS?",
+        "options": [
+            "Floating-point operation",
+            "File location process",
+            "Frame latency operation",
+            "Fixed logic output process"
+        ],
+        "answer": "Floating-point operation"
+    },
+    {
+        "question": "Which HPC architecture is best suited for high AI performance?",
+        "options": [
+            "GPU-based clusters",
+            "Single-core CPUs",
+            "Traditional hard drives",
+            "Optical networks"
+        ],
+        "answer": "GPU-based clusters"
+    },
+    {
+        "question": "Which metric is most relevant for supercomputing competitions like the TOP500?",
+        "options": [
+            "Rmax",
+            "Power supply wattage",
+            "GPU core count",
+            "Monitor resolution"
+        ],
+        "answer": "Rmax"
+    },
+    {
+        "question": "What does FP64 stand for?",
+        "options": [
+            "64-bit floating-point format",
+            "64-bit fixed precision",
+            "64-core processor speed",
+            "64 KB file processing"
+        ],
+        "answer": "64-bit floating-point format"
+    },
+    {
+        "question": "What is the main advantage of HPC as a Service (HPCaaS)?",
+        "options": [
+            "On-demand scalability",
+            "Requires dedicated on-premise infrastructure",
+            "Limited to a single organization",
+            "Fixed computational capacity"
+        ],
+        "answer": "On-demand scalability"
+    },
+    {
+        "question": "Which cloud service providers offer HPC solutions?",
+        "options": [
+            "AWS, Azure, Google Cloud",
+            "Dropbox, OneDrive, iCloud",
+            "Facebook, Twitter, Instagram",
+            "WhatsApp, Telegram, Signal"
+        ],
+        "answer": "AWS, Azure, Google Cloud"
+    },
+    {
+        "question": "What is one major benefit of running HPC in the cloud?",
+        "options": [
+            "Elastic scalability",
+            "Lower bandwidth requirements",
+            "Less computational power",
+            "Fixed storage capacity"
+        ],
+        "answer": "Elastic scalability"
+    },
+    {
+        "question": "Which of the following best describes containerization in HPC?",
+        "options": [
+            "Encapsulating applications for portability",
+            "Creating virtual machines",
+            "Storing data in a data lake",
+            "Managing power efficiency"
+        ],
+        "answer": "Encapsulating applications for portability"
+    },
+    {
+        "question": "Which technology is commonly used for containerization in HPC?",
+        "options": [
+            "Docker",
+            "Hadoop",
+            "Bluetooth",
+            "SATA"
+        ],
+        "answer": "Docker"
+    },
+    {
+        "question": "Which container orchestration tool is widely used for managing HPC workloads?",
+        "options": [
+            "Kubernetes",
+            "TensorFlow",
+            "OpenMP",
+            "MySQL"
+        ],
+        "answer": "Kubernetes"
+    },
+    {
+        "question": "What is the primary challenge of using containerization in HPC?",
+        "options": [
+            "Performance overhead",
+            "Lack of scalability",
+            "Inability to run on GPUs",
+            "Limited storage"
+        ],
+        "answer": "Performance overhead"
+    },
+    {
+        "question": "Which field benefits the most from AI and HPC integration?",
+        "options": [
+            "Deep Learning",
+            "Book Publishing",
+            "Music Streaming",
+            "Handwriting Analysis"
+        ],
+        "answer": "Deep Learning"
+    },
+    {
+        "question": "What is one advantage of combining AI and HPC?",
+        "options": [
+            "Faster model training",
+            "Lower energy consumption",
+            "Reduced hardware requirements",
+            "Decreased computing power"
+        ],
+        "answer": "Faster model training"
+    },
+    {
+        "question": "Which framework is widely used for AI workloads on HPC systems?",
+        "options": [
+            "TensorFlow",
+            "Microsoft Word",
+            "BitTorrent",
+            "Nginx"
+        ],
+        "answer": "TensorFlow"
+    },
+    {
+        "question": "What is the main goal of Edge Computing in HPC?",
+        "options": [
+            "Processing data closer to the source",
+            "Increasing power consumption",
+            "Replacing cloud computing",
+            "Eliminating the need for storage"
+        ],
+        "answer": "Processing data closer to the source"
+    },
+    {
+        "question": "Which industry benefits significantly from Edge Computing?",
+        "options": [
+            "Autonomous Vehicles",
+            "Film Making",
+            "Book Publishing",
+            "Handicrafts"
+        ],
+        "answer": "Autonomous Vehicles"
+    },
+    {
+        "question": "What is Exascale Computing?",
+        "options": [
+            "A system capable of performing 10^18 FLOPS",
+            "A type of cloud storage",
+            "A method for database management",
+            "A type of HPC cooling system"
+        ],
+        "answer": "A system capable of performing 10^18 FLOPS"
+    },
+    {
+        "question": "Which country launched the first Exascale supercomputer?",
+        "options": [
+            "China",
+            "India",
+            "Germany",
+            "Brazil"
+        ],
+        "answer": "China"
+    },
+    {
+        "question": "Which organization plays a key role in the development of Exascale Computing?",
+        "options": [
+            "U.S. Department of Energy",
+            "Netflix",
+            "NASA",
+            "Uber"
+        ],
+        "answer": "U.S. Department of Energy"
+    },
+    {
+        "question": "Which of the following is a key challenge in achieving Exascale Computing?",
+        "options": [
+            "Energy efficiency",
+            "Lack of data centers",
+            "Limited user demand",
+            "Small market size"
+        ],
+        "answer": "Energy efficiency"
+    },
+    {
+        "question": "What is the primary benefit of Exascale Computing?",
+        "options": [
+            "Solving complex scientific problems",
+            "Reducing the need for hardware",
+            "Eliminating the need for cooling",
+            "Reducing computational speed"
+        ],
+        "answer": "Solving complex scientific problems"
+    },
+    {
+        "question": "Which type of workload benefits the most from Exascale Computing?",
+        "options": [
+            "Climate modeling",
+            "Text editing",
+            "Social media",
+            "Audio streaming"
+        ],
+        "answer": "Climate modeling"
+    },
+    {
+        "question": "Which cooling technique is commonly used in Exascale systems?",
+        "options": [
+            "Liquid cooling",
+            "Air cooling",
+            "Battery cooling",
+            "Magnetic cooling"
+        ],
+        "answer": "Liquid cooling"
+    },
+    {
+        "question": "Which HPC technology trend is aimed at reducing power consumption?",
+        "options": [
+            "Energy-efficient accelerators",
+            "Mechanical hard drives",
+            "CRT monitors",
+            "Dial-up networks"
+        ],
+        "answer": "Energy-efficient accelerators"
+    },
+    {
+        "question": "Which programming model is widely used in HPC environments?",
+        "options": [
+            "MPI",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "answer": "MPI"
+    },
+    {
+        "question": "Which processor architecture is commonly used in Exascale Computing?",
+        "options": [
+            "ARM-based",
+            "RISC-V",
+            "x86",
+            "MIPS"
+        ],
+        "answer": "ARM-based"
+    },
+    {
+        "question": "Which industry is likely to be revolutionized by Exascale Computing?",
+        "options": [
+            "Drug discovery",
+            "Fast food",
+            "Retail management",
+            "Event planning"
+        ],
+        "answer": "Drug discovery"
+    },
+    {
+        "question": "What is one major factor driving the need for HPCaaS?",
+        "options": [
+            "High infrastructure costs",
+            "Decreasing software complexity",
+            "Lower energy prices",
+            "Reduced internet speeds"
+        ],
+        "answer": "High infrastructure costs"
+    },
+    {
+        "question": "Which factor makes cloud-based HPC attractive to startups?",
+        "options": [
+            "Lower initial investment",
+            "Higher maintenance costs",
+            "Limited scalability",
+            "Reduced security"
+        ],
+        "answer": "Lower initial investment"
+    },
+    {
+        "question": "Which of the following best describes the role of Kubernetes in HPC?",
+        "options": [
+            "Managing containerized workloads",
+            "Optimizing database queries",
+            "Enhancing network latency",
+            "Increasing power supply"
+        ],
+        "answer": "Managing containerized workloads"
+    },
+    {
+        "question": "Which component is crucial for Edge Computing?",
+        "options": [
+            "Local data processing",
+            "Large centralized data centers",
+            "Dial-up internet",
+            "CRT monitors"
+        ],
+        "answer": "Local data processing"
+    },
+    {
+        "question": "Which company is a major provider of cloud-based HPC services?",
+        "options": [
+            "Amazon Web Services",
+            "WhatsApp",
+            "Reddit",
+            "Telegram"
+        ],
+        "answer": "Amazon Web Services"
+    },
+    {
+        "question": "Which aspect of AI benefits the most from HPC?",
+        "options": [
+            "Model training",
+            "Data deletion",
+            "Slower execution",
+            "Lower memory usage"
+        ],
+        "answer": "Model training"
+    },
+    {
+        "question": "Which storage solution is best for HPC workloads?",
+        "options": [
+            "Parallel file systems",
+            "Floppy disks",
+            "USB drives",
+            "CD-ROMs"
+        ],
+        "answer": "Parallel file systems"
+    },
+    {
+        "question": "Which security measure is essential for HPC in the cloud?",
+        "options": [
+            "Encryption",
+            "Manual backups",
+            "Password-only protection",
+            "Disabling firewalls"
+        ],
+        "answer": "Encryption"
+    }
+]
